@@ -12,7 +12,8 @@ T cells are a class of immune cells that are central to adaptive immunity. They 
 
 ## Neural Network Potentials for Electron Microscopy Structure Fitting  
 *With Dr. Christopher N. Rowley*  
-blah blah  
+Structures of proteins in complex with small molecule ligands have served an important role for elucidating drug mechanisms and designing new therapeutics. At the time of this work, cryogenic electron microscopy (Cryo-EM) offered a method of obtaining structures without the arduous process of crystallization, but often did not have sufficient resolution to allow definitive determination of ligand pose. We worked to develop a pipeline leveraging molecular dynamics to refine tentative structures. A potential defined by the electron density map served to guide atoms into high density regions, while molecular mechanics force fields served to optimize energetics of the structure. In particular, we utilized high-accuracy neural network potentials to define force fields for small molecule compounds, which are often difficult to model using traditional molecular mechanics models.   
+
 ## Functionalized Nanoparticles for Cancer Immunotherapy  
 *With Dr. Xiao Huang and Dr. Tejal A. Desai*  
-blah blah  
+At the time of this work, chimeric antigent receptor (CAR) T cells had been developed as an effective therapy for hematological cancers, but their applications in solid tumors faced challenges such as inefficient trafficking to tumor sites, undesired on-target off-tumor activity, and restrained effector functions in the tumor microenvironment. We used DNA oligonucleotide anchoring of molecules including peptides and antibodies to produce nanoparticles, which allowed ratiometric control of multiple cargo with different functions. Particles were locally injected into the tumor sites and allowed greater control of CAR T cell activity. Specifically, we were able to achieve AND-gated CAR T cell activation, modulation of activation profiles, and reduced exhaustion. We envision that this materials strategy can allow additional diverse ways to optimize CAR T cell therapy, as well as provide a broadly applicable means of presenting functional molecules.
