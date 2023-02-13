@@ -5,7 +5,7 @@ title: Contact
 classes: wide
 permalink: /contact/
 ---
-I am always excited to get messages from people (as long as they are not trying to get me to buy something from them), so feel free to send me something, especially if I could be of any help, whether it's science, travel tips, or anything in between.  
+I am always happy to get messages from people (as long as they are not trying to get me to buy something from them), so feel free to send me something, especially if I could be of any help, whether it's science, travel tips, or anything in between.  
 You can reach me at  
 [ericgai@mit.edu](mailto:ericgai@mit.edu) (preferred for academic matters)  
 or  
