@@ -15,3 +15,4 @@ Here are some upcoming flights that I plan to write about.
 -2023/03/24 Delta/Korean Air Economy Class, Boston -> New York JFK -> Seoul Incheon -> Manila  
 -2023/03/27 Asiana Airlines Business Class, Manila -> Seoul Incheon -> Fukuoka  
 -2023/04/02 All Nippon Airways First Class, Tokyo Narita -> San Francisco  
+-2024/02/06 Korean Air First Class, Seoul Incheon -> Atlanta
