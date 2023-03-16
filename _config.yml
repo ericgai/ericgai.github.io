@@ -74,9 +74,9 @@ algolia:
   powered_by             : # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+  instant_search         : true
 # SEO Related
-google_site_verification :
+google_site_verification : R403tORTt5qpIUiq64Hc2_a_TNJ-6BZd54A8aPz_JCg
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
