@@ -1,0 +1,926 @@
+---
+layout: single
+# author_profile: true
+# classes: wide
+comments: true
+categories:
+  - Travel
+  - Flights
+title: "Another Sky"
+excerpt: "ANA First Class Tokyo Narita-San Francisco"
+date: "2023-04-02"
+last_modified_at: "2023-04-18"
+
+
+---
+
+My Asia trip for spring 2023 would end on a high note with this flight, which I had been beyond excited about. ANA (All Nippon Airways) is the largest airline in Japan and recognized as one of the best in the industry. It offers an extensive domestic and international network from the two main airports in Tokyo, Haneda and Narita, and is a member of the global Star Alliance. I had the fortune of flying First Class with them on the nine-hour flight back to the US. Overall, this was truly an exceptional product, and probably the most enjoyable flight I have ever been on. 
+
+##### Flight Details
+All Nippon Airways (ANA/NH) Flight 8  
+Origin: Tokyo Narita International, NRT, Gate 53  
+Departure: 17:15, 2 April 2023 (Japan Standard Time)  
+Destination: San Francisco International, SFO, Gate G13  
+Arrival: 10:09, 2 April 2023 (Pacific Daylight Time)  
+Duration: 8:54 hours  
+Aircraft: JA790A, Boeing 777-300ER, delivered March 2015  
+Seat: 1K (First)
+
+
+##### Booking
+For better or worse, this flight might be one of the best redemptions I will ever make. I was able to book an award seat using 55,000 Chase Ultimate Rewards points, transferred to Virgin Atlantic Flying Club, along with $449.95 in taxes and fees. Unfortunately, Virgin Atlantic has recently raised the award pricing on this flight, which costs 72,500 points as of April 2023. This is still a very good deal, however.
+
+Award space for ANA tends to be quite tough to come by. I was able to take advantage of a schedule change in January 2023, when the Boeing 777 was substituted for the Boeing 787 on this route for the summer schedule. This opened up quite a few award seats in First Class since the 777 has a First Class cabin while the 787 does not. This batch of award seats was gone within a few hours, and I was quite lucky to be able to score one of them. 
+
+##### Ground Experience
+![keisei](/images/ana_f_2023/IMG_3784.jpeg)
+*Keisei Narita Airport Terminal 1 Station*  
+I arrived at Narita Airport on the Keisei Line (京成線), one of the more affordable but slightly slower ways from the city. The journey from Shinjuku took a little under two hours, and the check in area for Terminal 1 was just a short walk from the train. 
+
+<div class="slideshow-container">
+
+<div class="mySlides1">
+  <div class="numbertext">1 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3788.JPEG" style="width:100%">
+  <i>ANA Suite Check-In facility at Narita Airport</i>
+</div>
+
+<div class="mySlides1">
+  <div class="numbertext">2 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3791.JPEG" style="width:100%">
+  <i>Notice on baggage contents and pamphlets with terminal maps</i>
+</div>
+
+<div class="mySlides1">
+  <div class="numbertext">3 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3792.JPEG" style="width:100%">
+  <i>Suite Check-In counters</i>
+</div>
+
+<div class="mySlides1">
+  <div class="numbertext">4 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3793.JPEG" style="width:100%">
+  <i>Couches in the back of the Suite Check-In lounge</i>
+</div>
+
+<div class="mySlides1">
+  <div class="numbertext">5 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3794.JPEG" style="width:100%">
+  <i>Suite Check-In counters and staff</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,1)">❮</a>
+<a class="next" onclick="plusSlides(1,1)">❯</a>
+
+</div>
+
+<div style="text-align:center">
+  <span class="dot1" onclick="currentSlide(1,1)"></span> 
+  <span class="dot1" onclick="currentSlide(2,1)"></span> 
+  <span class="dot1" onclick="currentSlide(3,1)"></span> 
+  <span class="dot1" onclick="currentSlide(4,1)"></span>
+  <span class="dot1" onclick="currentSlide(5,1)"></span>  
+</div>
+
+\
+First Class passengers and ANA Mileage Club Diamond members can take advantage of the Suite Check-In facility at Narita. I was the only passenger there as I entered, and there were about five staff members who greeted me immediately. About ten counters in total lined the bright and open space, and I approached one where an agent was waiting. She confirmed my itinerary and seat and quickly checked me in. She then asked me if I would like to use the lounge, to which I responded positively. She handed me a small pamphlet with a map of the terminal, pointed out the directions to the ANA Suite Lounge, and directed me to the dedicated security screening facility. As I walked toward the checkpoint, all the staff lined up and took a bow. This was when it struck me that this flight was going to be a truly special experience.
+
+<div class="slideshow-container">
+
+<div class="mySlides2">
+  <div class="numbertext">1 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3797.JPEG" style="width:100%">
+  <i>Lineup of ANA aircrafts</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">2 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3800.JPEG" style="width:100%">
+  <i>Gate area</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">3 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3801.JPEG" style="width:100%">
+  <i>NH12 to Chicago leaving from Gate 51, also at 1700</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">4 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3803.JPEG" style="width:100%">
+  <i>ANA transfer counter</i>
+</div>
+<div class="mySlides2">
+  <div class="numbertext">5 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3831.JPEG" style="width:100%">
+  <i>Terminal 1 Departure Board</i>
+</div>
+<a class="prev" onclick="plusSlides(-1,2)">❮</a>
+<a class="next" onclick="plusSlides(1,2)">❯</a>
+
+</div>
+
+<div style="text-align:center">
+  <span class="dot2" onclick="currentSlide(1,2)"></span> 
+  <span class="dot2" onclick="currentSlide(2,2)"></span> 
+  <span class="dot2" onclick="currentSlide(3,2)"></span> 
+  <span class="dot2" onclick="currentSlide(4,2)"></span>
+  <span class="dot2" onclick="currentSlide(5,2)"></span>
+</div>
+\
+The security screening was quick thanks to its exclusivity and the outbound immigration was also very efficient as I was able to use the automated gates. The process from the check-in desk to the gate area took less than ten minutes.   
+This time of the afternoon is a busy time at Terminal 1 South Wing, where ANA and many of its Star Alliance partners operate from. Many transpacific flights arrive between 1400 and 1700, including services on ANA, United Airlines, as well as Air Canada. The arriving passengers are often connecting to other destinations in Asia in the evening, and many of the aircrafts themselves will go on another mission back to the Americas with departures from 1630 onwards. While the gate areas can get crowded, it is quite exciting to see a busy ramp with all the planes taxiing in and out. 
+
+<div class="slideshow-container">
+<div class="mySlides3">
+  <div class="numbertext">1 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3804.JPEG" style="width:100%">
+  <i>ANA Suite Lounge Reception</i>
+</div>
+<div class="mySlides3">
+  <div class="numbertext">2 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3805.JPEG" style="width:100%">
+  <i>ANA Suite Lounge Entrance</i>
+</div>
+<div class="mySlides3">
+  <div class="numbertext">3 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3811.JPEG" style="width:100%">
+  <i>ANA Suite Lounge Seating</i>
+</div>
+<div class="mySlides3">
+  <div class="numbertext">4 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3824.JPEG" style="width:100%">
+  <i>ANA Suite Lounge Business Centre</i>
+</div>
+<div class="mySlides3">
+  <div class="numbertext">5 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3807.JPEG" style="width:100%">
+  <i>ANA Suite Lounge Ramp Views</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,3)">❮</a>
+<a class="next" onclick="plusSlides(1,3)">❯</a>
+
+</div>
+
+<div style="text-align:center">
+  <span class="dot3" onclick="currentSlide(1,3)"></span> 
+  <span class="dot3" onclick="currentSlide(2,3)"></span> 
+  <span class="dot3" onclick="currentSlide(3,3)"></span> 
+  <span class="dot3" onclick="currentSlide(4,3)"></span>
+  <span class="dot3" onclick="currentSlide(5,3)"></span>
+
+</div>
+
+\
+I made my way to the ANA Suite Lounge, which is a level up from the rotunda where the transfer desk is located, next to the Business Class ANA Lounge. The agent scanned my boarding pass and directed me to the Suite Lounge section on the right. The lounge was a bright and open space, in line with the simplistic but elegant style of ANA branding. In addition to the main seating area, there was a business centre with a printer and desk spaces. Shower suites were also available upon request. The lounge was not too crowded, and I took a seat near the window, watching my plane being loaded while I waited.
+
+<div class="slideshow-container">
+<div class="mySlides4">
+  <div class="numbertext">1 / 6</div>
+  <img src="/images/ana_f_2023/IMG_3813.JPEG" style="width:100%">
+  <i>ANA Suite Lounge beverage selection</i>
+</div>
+<div class="mySlides4">
+  <div class="numbertext">2 / 6</div>
+  <img src="/images/ana_f_2023/IMG_3814.JPEG" style="width:100%">
+  <i>ANA Suite Lounge buffet selection</i>
+</div>
+<div class="mySlides4">
+  <div class="numbertext">3 / 6</div>
+  <img src="/images/ana_f_2023/IMG_3815.JPEG" style="width:100%">
+  <i>ANA Suite Lounge buffet selection</i>
+</div>
+<div class="mySlides4">
+  <div class="numbertext">4 / 6</div>
+  <img src="/images/ana_f_2023/IMG_3816.JPEG" style="width:100%">
+  <i>ANA Suite Lounge Häagen-Dazs freezer</i>
+</div>
+<div class="mySlides4">
+  <div class="numbertext">5 / 6</div>
+  <img src="/images/ana_f_2023/IMG_3818.JPEG" style="width:100%">
+  <i>ANA Suite Lounge nigiri sushi set</i>
+</div>
+<div class="mySlides4">
+  <div class="numbertext">6 / 6</div>
+  <img src="/images/ana_f_2023/IMG_3819.JPEG" style="width:100%">
+  <i>ANA Suite Lounge buffet items: shrimp with mango sauce, pork and cream cheese puff, chocolate baguette, strawberry mousse</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,4)">❮</a>
+<a class="next" onclick="plusSlides(1,4)">❯</a>
+
+</div>
+
+<div style="text-align:center">
+  <span class="dot4" onclick="currentSlide(1,4)"></span> 
+  <span class="dot4" onclick="currentSlide(2,4)"></span> 
+  <span class="dot4" onclick="currentSlide(3,4)"></span> 
+  <span class="dot4" onclick="currentSlide(4,4)"></span>
+  <span class="dot4" onclick="currentSlide(5,4)"></span>
+  <span class="dot4" onclick="currentSlide(6,4)"></span>
+</div>
+
+\
+The food and drinks selection featured a standard buffet with salads, appetizers, sandwiches, desserts, a lineup of alcoholic and nonalcoholic drinks, as well as a made-to-order menu that was processed through a QR code. There was also a freezer with mini Häagen-Dasz ice creams. The full menu can be viewed [here](/images/ana_f_2023/lounge.pdf). I had the sushi set featuring a standard selection of fish. The sushi was of average quality for Japan, though I was slightly disappointed that the miso soup used freeze-dried tofu cubes. The small plates were quite creative, as was the chocolate baguette sandwich, although the thick slice of butter inside made it a little less appealing. The lounge staff were outstanding, however. Everyone was warm, attentive, and always ready to help. Overall, while this was a pleasant lounge, some elements could definitely be improved upon.
+
+<div class="slideshow-container">
+<div class="mySlides5">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/ana_f_2023/IMG_3830.JPEG" style="width:100%">
+  <i>Gate 53 boarding lanes</i>
+</div>
+<div class="mySlides5">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/ana_f_2023/IMG_3835.JPEG" style="width:100%">
+  <i>Direction signs in the jet bridge</i>
+</div>
+<div class="mySlides5">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/ana_f_2023/IMG_3837.JPEG" style="width:100%">
+  <i>Boarding through the L1 door</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,5)">❮</a>
+<a class="next" onclick="plusSlides(1,5)">❯</a>
+
+</div>
+
+<!-- <div style="text-align:center">
+  <span class="dot5" onclick="currentSlide(1,5)"></span> 
+  <span class="dot5" onclick="currentSlide(2,5)"></span> 
+  <span class="dot5" onclick="currentSlide(3,5)"></span> 
+</div> -->
+\
+I left the lounge about an hour before departure and made some last minute *omiyage* purchases. The anticipation for the flight built as I made my way to the gate, and when boarding started precisely at the scheduled time of 16:30, I could not contain the excitement as I made my way down the jet bridge. First Class passengers were invited to board with Group 1 after passengers needing special assistance, and direction signs in the jet bridge pointed me to the L1 door right behind the cockpit. The purser welcomed me at the gate and directed me to my seat in the right side aisle. 
+
+[*Another Sky* by Taro Hakase](https://www.youtube.com/watch?v=H6aq4Z2-AXw) has been ANA's musical identity for at least ten years at this point, and it is played at many customer touchpoints, including during boarding for every flight. This flight was no different. This piece always brings back my memories of travelling with ANA over the years, and I often listened to it during the pandemic as I yearned for taking off toward the skies again. Hearing this tune in the cabin, I was looking forward even more to making special memories on this flight. 
+
+<div class="slideshow-container">
+<div class="mySlides6">
+  <div class="numbertext">1 / 11</div>
+  <img src="/images/ana_f_2023/IMG_3838.JPEG" style="width:100%">
+  <i>ANA First Square seat</i>
+</div>
+<div class="mySlides6">
+  <div class="numbertext">2 / 11</div>
+  <img src="/images/ana_f_2023/IMG_3840.JPEG" style="width:100%">
+  <i>ANA First Square cabin</i>
+</div>
+<div class="mySlides6">
+  <div class="numbertext">3 / 11</div>
+  <img src="/images/ana_f_2023/IMG_3842.JPEG" style="width:100%">
+  <i>Personal monitor</i>
+</div>
+<div class="mySlides6">
+  <div class="numbertext">4 / 11</div>
+  <img src="/images/ana_f_2023/IMG_3849.JPEG" style="width:100%">
+  <i>Remote control and vanity mirror</i>
+</div>
+<div class="mySlides6">
+  <div class="numbertext">5 / 11</div>
+  <img src="/images/ana_f_2023/IMG_3850.JPEG" style="width:100%">
+  <i>Headphone compartment and extra lamps</i>
+</div>
+<div class="mySlides6">
+  <div class="numbertext">6 / 11</div>
+  <img src="/images/ana_f_2023/IMG_3851.JPEG" style="width:100%">
+  <i>Additional storage compartment</i>
+</div>
+<div class="mySlides6">
+  <div class="numbertext">7 / 11</div>
+  <img src="/images/ana_f_2023/IMG_3853.JPEG" style="width:100%">
+  <i>Literature pocket</i>
+</div>
+<div class="mySlides6">
+  <div class="numbertext">8 / 11</div>
+  <img src="/images/ana_f_2023/IMG_3861.JPEG" style="width:100%">
+  <i>Power ports</i>
+</div>
+<div class="mySlides6">
+  <div class="numbertext">9 / 11</div>
+  <img src="/images/ana_f_2023/IMG_3862.JPEG" style="width:100%">
+  <i>Additional Lighting</i>
+</div>
+<div class="mySlides6">
+  <div class="numbertext">10 / 11</div>
+  <img src="/images/ana_f_2023/IMG_3940.JPEG" style="width:100%">
+  <i>Seat adjustment controller</i>
+</div>
+<div class="mySlides6">
+  <div class="numbertext">11 / 11</div>
+  <img src="/images/ana_f_2023/IMG_3895.JPEG" style="width:100%">
+  <i>Additional storage below the ottoman</i>
+</div>
+<a class="prev" onclick="plusSlides(-1,6)">❮</a>
+<a class="next" onclick="plusSlides(1,6)">❯</a>
+
+</div>
+
+\
+With eight seats spread across two rows, the First Class seat on this aircraft was the ANA First Square product, which is now being phased out and replaced by a new seat called the Suite. The seat comes with plenty of space to stretch out, a 23-inch monitor, a large dining table, and plenty of storage space. It left quite a gap between the shell and the fuselage, however, and the controls and storage on the right-side panel made it necessary to stretch quite a bit forward to see out the windows. Nonetheless, this is still an outstanding seat, and probably one of the most comfortable in the sky.  
+
+<div class="slideshow-container">
+<div class="mySlides7">
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3844.JPEG" style="width:100%">
+  <i>Headphones, WiFi access card, cleansing wipe</i>
+</div>
+<div class="mySlides7">
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3845.JPEG" style="width:100%">
+  <i>Extra amenities: aroma sheet, pocket tissue, lip balm, face mist</i>
+</div>
+<div class="mySlides7">
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3843.JPEG" style="width:100%">
+  <i>Slippers</i>
+</div>
+<div class="mySlides7">
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3858.JPEG" style="width:100%">
+  <i>Globe-Trotter amenity kit</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,7)">❮</a>
+<a class="next" onclick="plusSlides(1,7)">❯</a>
+
+</div>
+
+\
+A flight attendant came by to introduce herself and pointed out the slippers, headphones, WiFi card, and amenity kit that were already at my seat. She also had a tray of extra amenities, from which I took a few items. The Globe-Trotter amenity kit included the standard eye mask, dental kit, ear plugs, as well as a skincare set by The Ginza consisting of cleansing foam, lotion, moisturizer, and cotton pads.  
+
+<div class="slideshow-container">
+<div class="mySlides8">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/ana_f_2023/IMG_3847.JPEG" style="width:100%">
+  <i>Pre-departure Champagne</i>
+</div>
+<div class="mySlides8">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/ana_f_2023/IMG_3854.JPEG" style="width:100%">
+  <i>Flying Honu A380 to Honolulu, departing from the adjacent gate</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,8)">❮</a>
+<a class="next" onclick="plusSlides(1,8)">❯</a>
+
+</div>
+
+\
+The senior First Class flight attendant then came to introduce herself and asked what I would like for my welcome drink between water, orange juice, and Champagne. I asked for some Champagne, which was served in a flute. The chief purser then came for her self-introduction as well and informed me of the nine-hour flying time today. She also asked me if I preferred communicating in Japanese for the flight. This was a nice touch since I was hoping to experience the service in Japanese despite being not fully fluent. The crew took care to speak slowly for most of the flight and inserted English words for more obscure terms from the menu, which I really appreciated.
+
+The captain informed us over the PA that there would be some turbulence for about 30 minutes after take off and suggested using the lavatories before departure if possible, which was very thoughtful.  
+
+<div class="slideshow-container">
+<div class="mySlides9">
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3864.JPEG" style="width:100%">
+  <i>Safety video screening</i>
+</div>
+<div class="mySlides9">
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3863.JPEG" style="width:100%">
+  <i>Pushback</i>
+</div>
+<div class="mySlides9">
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3865.JPEG" style="width:100%">
+  <i>Pushback</i>
+</div>
+<div class="mySlides9">
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3870.JPEG" style="width:100%">
+  <i>Pushback</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,9)">❮</a>
+<a class="next" onclick="plusSlides(1,9)">❯</a>
+
+</div>
+
+\
+The doors were closed and pushback began a few minutes ahead of the 1700 scheduled departure time. The [safety video](https://www.youtube.com/watch?v=QFH0wre7tpM) was screened. This version of the safety video was introduced in 2021 and was a rather standard presentation-style video. I have to say that I preferred the [previous version](https://www.youtube.com/watch?v=k2IZP5NhaKM) that involved Kabuki actors. 
+
+<div class="slideshow-container">
+<div class="mySlides10">
+  <div class="numbertext">1 / 9</div>
+  <img src="/images/ana_f_2023/IMG_3873.JPEG" style="width:100%">
+  <i>Taxi: Air Canada Boeing 777</i>
+</div>
+<div class="mySlides10">
+  <div class="numbertext">2 / 9</div>
+  <img src="/images/ana_f_2023/IMG_3878.JPEG" style="width:100%">
+  <i>Taxi: Emirates Airbus A380</i>
+</div>
+<div class="mySlides10">
+  <div class="numbertext">3 / 9</div>
+  <img src="/images/ana_f_2023/IMG_3880.JPEG" style="width:100%">
+  <i>Taxi: Etihad Boeing 787</i>
+</div>
+<div class="mySlides10">
+  <div class="numbertext">4 / 9</div>
+  <img src="/images/ana_f_2023/IMG_3883.JPEG" style="width:100%">
+  <i>Taxi: ANA Boeing 777 (NH12 to Chicago)</i>
+</div>
+<div class="mySlides10">
+  <div class="numbertext">5 / 9</div>
+  <img src="/images/ana_f_2023/IMG_3884.JPEG" style="width:100%">
+  <i>Departure</i>
+</div>
+<div class="mySlides10">
+  <div class="numbertext">6 / 9</div>
+  <img src="/images/ana_f_2023/IMG_3885.JPEG" style="width:100%">
+  <i>Take off</i>
+</div>
+<div class="mySlides10">
+  <div class="numbertext">7 / 9</div>
+  <img src="/images/ana_f_2023/IMG_3889.JPEG" style="width:100%">
+  <i>Climb, view of cargo terminal</i>
+</div>
+<div class="mySlides10">
+  <div class="numbertext">8 / 9</div>
+  <img src="/images/ana_f_2023/IMG_3891.JPEG" style="width:100%">
+  <i>Climb, view over Narita</i>
+</div>
+<div class="mySlides10">
+  <div class="numbertext">9 / 9</div>
+  <img src="/images/ana_f_2023/IMG_3892.JPEG" style="width:100%">
+  <i>Climb, view over Chiba prefecture</i>
+</div>
+<a class="prev" onclick="plusSlides(-1,10)">❮</a>
+<a class="next" onclick="plusSlides(1,10)">❯</a>
+
+</div>
+
+\
+We made our way to runway 34L for departure and passed by some other departing aircraft. The skies were overcast, but that did not at all affect my usual excitement for dashing down the runway and taking into the sky.
+
+<div class="slideshow-container">
+<div class="mySlides11">
+  <div class="numbertext">1 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3894.JPEG" style="width:100%">
+  <i>Climbing through the clouds</i>
+</div>
+<div class="mySlides11">
+  <div class="numbertext">2 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3902.JPEG" style="width:100%">
+  <i>Above the clouds</i>
+</div>
+<div class="mySlides11">
+  <div class="numbertext">3 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3903.JPEG" style="width:100%">
+  <i>Wingtip in the afternoon sun</i>
+</div>
+<div class="mySlides11">
+  <div class="numbertext">4 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3904.JPEG" style="width:100%">
+  <i>Sunset in the cabin</i>
+</div>
+<div class="mySlides11">
+  <div class="numbertext">5 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3909.JPEG" style="width:100%">
+  <i>Additional safety video</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,11)">❮</a>
+<a class="next" onclick="plusSlides(1,11)">❯</a>
+
+</div>
+\
+The climb out of Narita was bumpy as expected, but soon we rose through the clouds and met some afternoon sunlight. The warmth of the setting sun shone through the window into the cabin as we began to make our way across the Pacific. It was a true pleasure savouring this moment. An additional safety video was played after the seat belt sign was turned off about 20 minutes after take off, featuring a cartoon figure not wearing the seatbelt and injuring itself, quite fitting for our ride so far today. 
+
+<div class="slideshow-container">
+<div class="mySlides12">
+  <div class="numbertext">1 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3910.JPEG" style="width:100%">
+  <i>Wet towel</i>
+</div>
+<div class="mySlides12">
+  <div class="numbertext">2 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3911.JPEG" style="width:100%">
+  <i>Menu Casing</i>
+</div>
+<div class="mySlides12">
+  <div class="numbertext">3 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3912.JPEG" style="width:100%">
+  <i>Menu cards</i>
+</div>
+<div class="mySlides12">
+  <div class="numbertext">4 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3913.JPEG" style="width:100%">
+  <i>ANA The Connoisseurs dining concept </i>
+</div>
+<div class="mySlides12">
+  <div class="numbertext">5 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3915.JPEG" style="width:100%">
+  <i>Kabosu drink</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,12)">❮</a>
+<a class="next" onclick="plusSlides(1,12)">❯</a>
+
+</div>
+\
+Service began about half an hour after departure. The flight attendant gave me a packaged wet towel and presented the menu, which was placed in a leather casing. Here are the [food](/images/ana_f_2023/food.pdf) and [drink](/images/ana_f_2023/drinks.pdf) options that were offered on this flight. I loved the simplicity and elegance of the stylized aircraft fin logo on the casing and tableware. To start, I asked for some *kabosu* juice, ANA's refreshing citrus drink and a signature item available on all its international routes.
+
+<div class="slideshow-container">
+<div class="mySlides13">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/ana_f_2023/IMG_3918.JPEG" style="width:100%">
+  <i>Amusée bouche plate</i>
+</div>
+<div class="mySlides13">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/ana_f_2023/IMG_3916.JPEG" style="width:100%">
+  <i>Krug Champagne</i>
+</div>
+<div class="mySlides13">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/ana_f_2023/IMG_3917.JPEG" style="width:100%">
+  <i>Krug Champagne served in a flute</i>
+</div>
+<a class="prev" onclick="plusSlides(-1,13)">❮</a>
+<a class="next" onclick="plusSlides(1,13)">❯</a>
+
+</div>
+\
+The dinner service began with an amusée bouche course, and I asked for some Krug Champagne to go along. The plate consisted of the ANA original stick (laminated dough breadstick, topped with matcha flavouring, almonds, sesame, and sunflower seeds), slices of smoked tuna with a sake sauce, Brussels sprouts wrapping some squid in a creamy fennel sauce topped with mustard, and some beef pastrami with a ravigote sauce and pickled vegetables. Every bite was an intricate dance of flavours and textures. Paired with the Champagne, this was a very exciting start to the meal.
+
+<div class="slideshow-container">
+<div class="mySlides14">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/ana_f_2023/IMG_3927.JPEG" style="width:100%">
+  <i>Table set for the feast</i>
+</div>
+<div class="mySlides14">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/ana_f_2023/IMG_3930.JPEG" style="width:100%">
+  <i>Matsunotsukasa Sake</i>
+</div>
+<div class="mySlides14">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/ana_f_2023/IMG_3931.JPEG" style="width:100%">
+  <i>Matsunotsukasa Sake</i>
+</div>
+<a class="prev" onclick="plusSlides(-1,14)">❮</a>
+<a class="next" onclick="plusSlides(1,14)">❯</a>
+
+</div>
+\
+The flight attendant came back shortly after to take my meal order, and I chose the Japanese dinner course. She also asked whether I would like still or sparkling water and if I would like any other beverages. I asked for some recommendations for sake, and she noted that the Japanese passenger ordered the *Matsunotsukasa* and suggested I try the same, to which I happily agreed. She shortly returned with a tablecloth to set the table, and I was looking forward to what ANA had to offer. 
+
+![app](/images/ana_f_2023/IMG_3929.jpeg)
+*Appetizer course*
+
+ANA's menu rotates every three months, and each menu highlights unique flavours of the season. My flight in April featured the spring menu, and the wide range of ingredients in the appetizer course already have blooming flowers and burgeoning leaves taking centre stage. The flight attendant introduced each piece to me and had an iPad with more details about the courses if I had questions.   
+
+The sakizuke (先付, top right) featured slices of razor clam and squid, topped with a miso and sansho leaf flavoured sauce. Bamboo shoot blocks provided a crunchy contrast to the seafood, and the pieces of fiddlehead added another hint of spring.   
+
+The zensai (前菜) plate was an interesting selection of bite-sized items. First was a sushi of cured salmon wrapped in a cherry blossom leaf, whose slight bitterness was a pleasant addition to the strongly vinegared rice. The prawn came with a slice of celery. The shiitake mushroom sandwiched some cream cheese and was topped with some pickled shallot. The broad beans were sweet and mushy and served as a nice palate cleanser. The slices of duck were quite fatty, but the miso topping added a refreshing taste. The slices of egg yolk came with some squid attached and were topped off with the crunchiness of the nori flakes. The cherry blossom mochi dumpling had a chewy coating with a grainy filling of rice flour. The fried icefish had a flavour reminiscent of karaage but brought along some oceanic umami. 
+
+This was a small course, but along with the fruity notes from the sake, it already made for quite a culinary adventure for the palate. 
+
+<div class="slideshow-container">
+<div class="mySlides15">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/ana_f_2023/IMG_3932.JPEG" style="width:100%">
+  <i>Soup course</i>
+</div>
+<div class="mySlides15">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/ana_f_2023/IMG_3933.JPEG" style="width:100%">
+  <i>Soup course</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,15)">❮</a>
+<a class="next" onclick="plusSlides(1,15)">❯</a>
+
+</div>
+\
+The plates were cleared from the first course while the tray beneath remained for the dinner service. The soup course owan (お椀) was then presented with a lid. This was a relatively simple course in flavour, with a dashi soup base and yuba tofu skin with egg, bamboo shoots, wakame flakes, and a cherry-blossom-shaped surimi slice. The soup was quite warming, and the ingredients still provided a nice variety of textures.
+
+![otsukuri](/images/ana_f_2023/IMG_3935.jpeg)
+*Sashimi course*
+
+Next up was the sashimi course otsukuri (お造り), served with ponzu and grated daikon. The selection of fish was clearly a deliberate choice for the sky, where tastebuds tend to be less sensitive. The seared bonito is flavourful enough to still provide a strong umami taste, while the octopus was featured more for its delicate texture. The fibrous greens were nice to nibble on in between bites. 
+
+<div class="slideshow-container">
+<div class="mySlides16">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/ana_f_2023/IMG_3941.JPEG" style="width:100%">
+  <i>Main course</i>
+</div>
+<div class="mySlides16">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/ana_f_2023/IMG_3942.JPEG" style="width:100%">
+  <i>Nimono</i>
+</div>
+<div class="mySlides16">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/ana_f_2023/IMG_3943.JPEG" style="width:100%">
+  <i>Miso soup</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,16)">❮</a>
+<a class="next" onclick="plusSlides(1,16)">❯</a>
+
+</div>
+\
+The next course saw many dishes served at once. The simmered octopus nimono (煮物) was in a thick soup, with the starchy nagaimo on the side. The dish was topped with sliced ginger, which added some freshness to the taste. The small kobachi (小鉢) side dish used a buttery but still refreshing mugwort tofu base, topped with slices of razor clam and some wasabi for a zap. The main dish shusai (主菜) featured a piece of grilled tilefish in a thickened fish and sake-based sauce. The fish was quite lean but still tender. On the other hand, the slices of grilled chicken were quite fatty, adding a richness to the dish. The crispy rice block added an interesting texture, and dipping it in the sauce highlighted the flavours of the stock. Rice with pickled vegetables and daikon made for a filling course, and finally, the miso soup helped wash things down between bites. 
+
+![masuizumi](/images/ana_f_2023/IMG_3937.JPEG)
+*Masuizumi BO sake*
+
+I also asked to try another sake, and the flight attendant brought me the *Masuizumi* BO, again telling me that the Japanese passenger had ordered it. I found it somewhat lighter and sweeter, which went well with the richer main course. 
+
+<div class="slideshow-container">
+<div class="mySlides17">
+  <img src="/images/ana_f_2023/IMG_3944.JPEG" style="width:100%">
+  <i>Tanbamikumari iwashizuku, brown sugar adzuki bean agar dessert, with matcha</i>
+</div>
+</div>
+\
+I worked through the dinner quite slowly, and the flight attendant asked me if it was fine to the cabin lights were dimmed by the time I got to the dessert course as the other passengers were ready to sleep, which I thought was very kind. The brown sugar jelly was simple but pleasant. The azuki red beans at the bottom provided some mushy contrast to the texture. I asked for some matcha to go with the desserts, and the slight bitterness and warmth were nice to balance the sweetness.
+
+![printanier](/images/ana_f_2023/IMG_3945.JPEG)
+*Printanier cake* 
+
+I also tried the Printanier cake from the Western menu, with a strawberry cream coating over some pistachio cake, and a scoop of vanilla ice cream on the side along with a drizzle of grape syrup. The cream was rich but the strawberry flavour kept it from being too heavy. The ice cream was quite hard when served, but I enjoyed the cold bites as I worked my way through the dish. 
+
+<div class="slideshow-container">
+<div class="mySlides18">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/ana_f_2023/IMG_3946.JPEG" style="width:100%">
+  <i>Petit fours</i>
+</div>
+<div class="mySlides18">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/ana_f_2023/IMG_3947.JPEG" style="width:100%">
+  <i>Mineral water</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,18)">❮</a>
+<a class="next" onclick="plusSlides(1,18)">❯</a>
+
+</div>
+\
+It was almost three hours after take off by the time I finished dinner. This was overall a very high-quality meal, especially considering it was served in the sky. Every course was an adventurous combination of flavours and textures, and the seasonal ingredients were masterfully incorporated. ANA catering deserves lots of credit for delivering this wonderful menu.  
+
+The flight attendant brought the plate of petit fours, consisting of a small lemon cake, white chocolate, and a tea biscuit, in addition to a bottle of water. Since the cabin was quite empty, she asked me if I would like to have the bed made in the suite opposite the aisle and whether I would like to be woken up for breakfast if I was still sleeping. I responded positively to both.
+
+<div class="slideshow-container">
+<div class="mySlides19">
+  <div class="numbertext">1 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3920.JPEG" style="width:100%">
+  <i>Lavatory sink</i>
+</div>
+<div class="mySlides19">
+  <div class="numbertext">2 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3921.JPEG" style="width:100%">
+  <i>Lavatory amenities</i>
+</div>
+<div class="mySlides19">
+  <div class="numbertext">3 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3923.JPEG" style="width:100%">
+  <i>Changing platform stowed</i>
+</div>
+<div class="mySlides19">
+  <div class="numbertext">4 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3950.JPEG" style="width:100%">
+  <i>Changing platform extended</i>
+</div>
+<div class="mySlides19">
+  <div class="numbertext">5 / 5</div>
+  <img src="/images/ana_f_2023/IMG_3949.JPEG" style="width:100%">
+  <i>Bed across the aisle</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,19)">❮</a>
+<a class="next" onclick="plusSlides(1,19)">❯</a>
+
+</div>
+\
+I changed into the pyjamas provided after dinner. The lavatory provided a step stool to stand on while changing, quite a thoughtful touch in true Japanese style. There was also a bidet toilet, extra amenities stocked, and a basket of hand towels by the sink. The bed was comfortable, and the mattress pad provided good support. I quickly fell asleep and enjoyed some shuteye as we continued our way across the Pacific.
+
+<div class="slideshow-container">
+<div class="mySlides20">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/ana_f_2023/IMG_3956.JPEG" style="width:100%">
+  <i>Salmon chazuke</i>
+</div>
+<div class="mySlides20">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/ana_f_2023/IMG_3958.JPEG" style="width:100%">
+  <i>Salmon chazuke, after adding soup</i>
+</div>
+<div class="mySlides20">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/ana_f_2023/IMG_3961.JPEG" style="width:100%">
+  <i>Kashiwa udon with sencha</i>
+</div>
+<a class="prev" onclick="plusSlides(-1,20)">❮</a>
+<a class="next" onclick="plusSlides(1,20)">❯</a>
+
+</div>
+\
+I woke up about two hours later and returned to my seat. The purser came by to ask if I wanted anything to eat. I was hoping to try the Wagyu steak course from the Western dinner menu, but they had unfortunately run out of the dish, so I asked for the salmon chazuke instead. It was served in a bowl with rice and dried seaweed and came with a teapot for the dashi soup to be added. She brought the kobachi from the breakfast menu as well, with tofu skin and vegetables in a soy-based sauce. I also had the kashiwa udon with shreds of sweet and spicy chicken along with some sencha tea. These were some simple dishes, but a hearty snack after waking up. 
+
+
+![sunrise](/images/ana_f_2023/IMG_3967.JPEG)
+*Sunrise views*  
+
+The sun soon began to rise as we approached the American continent, and I watched a short documentary about a group of Japanese sailors some hundreds of years ago. Exploration beyond its shores has been key to the development of this nation, and the flourishing airline industry is perhaps a modern embodiment of this spirit.  
+
+<div class="slideshow-container">
+<div class="mySlides21">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/ana_f_2023/IMG_3963.JPEG" style="width:100%">
+  <i>Satsumaage and dried scallops</i>
+</div>
+<div class="mySlides21">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/ana_f_2023/IMG_3966.JPEG" style="width:100%">
+  <i>Hibiki 17 years whiskey</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,21)">❮</a>
+<a class="next" onclick="plusSlides(1,21)">❯</a>
+
+</div>
+\
+I asked for the satsumaage, fried fish cakes, along with the dried scallops, which were some tasty snacks to munch on. I also tried the Hibiki 17 years whiskey, which ANA is known for serving. Traditional and modern faces of this "land of the rising sun" again come together thirty thousand feet above the ground.
+
+![fruit](/images/ana_f_2023/IMG_3968.JPEG)
+*Fruit plate*
+
+After I finished, the purser asked if I would like to have the fruit plate. I accepted the offer and enjoyed the pieces of apples, oranges, grapefruit, kiwi, pineapple, and cantaloupe, which were all quite fresh and much appreciated with the previous few dishes on the saltier side. 
+
+<div class="slideshow-container">
+<div class="mySlides22">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/ana_f_2023/IMG_3971.JPEG" style="width:100%">
+  <i>Breakfast tray</i>
+</div>
+<div class="mySlides22">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/ana_f_2023/IMG_3972.JPEG" style="width:100%">
+  <i>Miso soup</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,22)">❮</a>
+<a class="next" onclick="plusSlides(1,22)">❯</a>
+
+</div>
+\
+I had the Japanese breakfast dishes a little over an hour before landing. The main feature was a full and meaty grilled mackerel in a sake mirin sauce, which came with some broccolini, a slice of Japanese omelette, a fried mushy pea jelly, and pickled vegetables. There were also accompaniments of roasted nori seaweed, kombu strips, fermented natto, and a miso soup. I asked to have the porridge instead of another bowl of rice for a gentler meal. This was a fairly standard Japanese breakfast fare and much less experimental than the dinner courses, but still carefully prepared and just as tasty in its own way.
+
+<div class="slideshow-container">
+<div class="mySlides23">
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3973.JPEG" style="width:100%">
+  <i>Macaron dessert</i>
+</div>
+<div class="mySlides23">
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3974.JPEG" style="width:100%">
+  <i>Macaron dessert falling apart...</i>
+</div>
+<div class="mySlides23">
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3978.JPEG" style="width:100%">
+  <i>Caffè macchiato</i>
+</div>
+<div class="mySlides23">
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3979.JPEG" style="width:100%">
+  <i>Approaching the California coastline</i>
+</div>
+<a class="prev" onclick="plusSlides(-1,23)">❮</a>
+<a class="next" onclick="plusSlides(1,23)">❯</a>
+
+</div>
+\
+I was stuffed at this point, but the flight attendant brought out another dessert for me, the macaron with strawberry, vanilla, and pistachio ice cream, with green apple syrup drizzled on the side. The three flavours and their colours did a good job of keeping in the spring theme, although the bottom piece of the macaron had been soaking in the ice cream and fallen apart by the time I got to it. I asked for a caffè macchiato to wash down the sweetness as we began our descent into San Francisco.
+
+<div class="slideshow-container">
+<div class="mySlides24">
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3981.JPEG" style="width:100%">
+  <i>Descending toward the clouds</i>
+</div>
+<div class="mySlides24">
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3987.JPEG" style="width:100%">
+  <i>San Francisco Bay</i>
+</div>
+<div class="mySlides24">
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3991.JPEG" style="width:100%">
+  <i>San Mateo Bridge</i>
+</div>
+<div class="mySlides24">
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/ana_f_2023/IMG_3994.JPEG" style="width:100%">
+  <i>Final approach</i>
+</div>
+<a class="prev" onclick="plusSlides(-1,24)">❮</a>
+<a class="next" onclick="plusSlides(1,24)">❯</a>
+
+</div>
+\
+The headphones were collected about half an hour before landing, and the flight attendants each came to thank me for flying with ANA. The purser even complimented my Japanese skills, though I know I still have long ways to go. I also expressed my gratitude for their enthusiastic service throughout the flight today and gave them some postcards I had prepared, which they very much appreciated. One of them also noted how I finished everything despite it being a lot. Well, I guess I did eat a lot, but it was good food!
+
+<div class="slideshow-container">
+<div class="mySlides25">
+  <div class="numbertext">1 / 8</div>
+  <img src="/images/ana_f_2023/IMG_3997.JPEG" style="width:100%">
+  <i>Final approach</i>
+</div>
+<div class="mySlides25">
+  <div class="numbertext">2 / 8</div>
+  <img src="/images/ana_f_2023/IMG_3998.JPEG" style="width:100%">
+  <i>Landing on runway 28R</i>
+</div>
+<div class="mySlides25">
+  <div class="numbertext">3 / 8</div>
+  <img src="/images/ana_f_2023/IMG_4002.JPEG" style="width:100%">
+  <i>Landing</i>
+</div>
+<div class="mySlides25">
+  <div class="numbertext">4 / 8</div>
+  <img src="/images/ana_f_2023/IMG_4003.JPEG" style="width:100%">
+  <i>Taxiing past SFO fuel tanks</i>
+</div>
+<div class="mySlides25">
+  <div class="numbertext">5 / 8</div>
+  <img src="/images/ana_f_2023/IMG_4006.JPEG" style="width:100%">
+  <i>Taxi</i>
+</div>
+<div class="mySlides25">
+  <div class="numbertext">6 / 8</div>
+  <img src="/images/ana_f_2023/IMG_4007.JPEG" style="width:100%">
+  <i>Taxi, Air India and United Boeing 777</i>
+</div>
+<div class="mySlides25">
+  <div class="numbertext">7 / 8</div>
+  <img src="/images/ana_f_2023/IMG_4008.JPEG" style="width:100%">
+  <i>Parking</i>
+</div>
+<div class="mySlides25">
+  <div class="numbertext">8 / 8</div>
+  <img src="/images/ana_f_2023/IMG_4009.JPEG" style="width:100%">
+  <i>Parking at gate G13</i>
+</div>
+<a class="prev" onclick="plusSlides(-1,25)">❮</a>
+<a class="next" onclick="plusSlides(1,25)">❯</a>
+
+</div>
+\
+We plunged through the clouds again, this time to views of San Francisco Bay below. While I have undertaken this journey many times, it always takes some time for me to come to terms with the fact that a massive piece of mechanized equipment had just taken me across an ocean. We touched down on runway 28R at 1008 local time, with the flight clocking in just under nine hours. The ubiquitous blue globe tails of United made it clear that I was back in the US. We came to a stop a few minutes later at gate G13.
+
+<div class="slideshow-container">
+<div class="mySlides26">
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/ana_f_2023/IMG_4013.JPEG" style="width:100%">
+  <i>Disembarking through the jet bridge</i>
+</div>
+<div class="mySlides26">
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/ana_f_2023/IMG_4015.JPEG" style="width:100%">
+  <i>Baggage claim information at the end of the jet bridge</i>
+</div>
+<div class="mySlides26">
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/ana_f_2023/IMG_4020.JPEG" style="width:100%">
+  <i>Baggage claim area</i>
+</div>
+<div class="mySlides26">
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/ana_f_2023/IMG_4021.JPEG" style="width:100%">
+  <i>SFO international arrivals exit</i>
+</div>
+<a class="prev" onclick="plusSlides(-1,26)">❮</a>
+<a class="next" onclick="plusSlides(1,26)">❯</a>
+
+</div>
+\
+We disembarked through the second door, and the flight attendants invited the First Class passengers to proceed first. *Another Sky* was playing again as I made my way to the door, and I must say that this flight had truly made me feel like I was flying in another sky. I thanked the crew again as I left the plane and proceeded to the jetway. While I did not have any checked luggage, there was clear signage at the end of the jetway and the carousels. Border control was quick as there was no line, and I reached the arrivals hall about 10 minutes after disembarking. 
+
+##### Concluding Thoughts
+I come away from this flight with much gratitude for the crew that helped made my experience a special one and for ANA for a very well-executed product. I have always held ANA in high regard, and this flight certainly did not disappoint, despite some minor details that could be improved, and I only wish that this flight could have been longer. Flights like these will probably be a once-in-a-lifetime experience for me, but I would certainly be very happy to fly this product again. 
+
+<script>
+
+/* Class the members of each slideshow group with different CSS classes */
+let slideId = ["mySlides1", "mySlides2", "mySlides3","mySlides4","mySlides5","mySlides6","mySlides7","mySlides8","mySlides9","mySlides10","mySlides11","mySlides12","mySlides13","mySlides14","mySlides15","mySlides16","mySlides17","mySlides18","mySlides19","mySlides20","mySlides21","mySlides22","mySlides23","mySlides24","mySlides25","mySlides26"];
+let slideIndex = new Array(slideId.length);
+// let dotId = ["dot1", "dot2", "dot3","dot4","dot5"]
+for (i=0; i < slideIndex.length; i++) {
+  slideIndex[i]=1
+  showSlides(1,i+1);
+}
+
+</script>
+
+

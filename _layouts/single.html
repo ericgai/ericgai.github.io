@@ -18,6 +18,36 @@ layout: default
   {% endunless %}
 {% endif %}
 
+<head>
+  <script>
+    function plusSlides(n, no) {
+      showSlides(slideIndex[no-1] += n, no);
+    }
+    
+    function currentSlide(n, no) {
+      showSlides(slideIndex[no-1] = n, no);
+    }
+    
+    function showSlides(n, no) {
+      no=no-1
+      let i;
+      let x = document.getElementsByClassName(slideId[no]);
+      // let dots = document.getElementsByClassName(dotId[no]);
+      if (n > x.length) {slideIndex[no] = 1}
+      if (n < 1) {slideIndex[no] = x.length}
+      for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";
+      }
+      // for (i = 0; i < dots.length; i++) {
+      //   dots[i].className = dots[i].className.replace(" active", "");
+      // }
+      x[slideIndex[no]-1].style.display = "block";
+      // dots[slideIndex[no]-1].className += " active";
+    }
+    
+    </script>
+</head>
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -93,3 +123,4 @@ layout: default
     </div>
   {% endif %}
 </div>
+
