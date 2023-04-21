@@ -32,7 +32,7 @@ For better or worse, this flight might be one of the best redemptions I will eve
 
 Award space for ANA tends to be quite tough to come by. I was able to take advantage of a schedule change in January 2023, when the Boeing 777 was substituted for the Boeing 787 on this route for the summer schedule. This opened up quite a few award seats in First Class since the 777 has a First Class cabin while the 787 does not. This batch of award seats was gone within a few hours, and I was quite lucky to be able to score one of them. 
 
-##### Ground Experience
+##### The Journey
 ![keisei](/images/ana_f_2023/IMG_3784.JPEG)
 *Keisei Narita Airport Terminal 1 Station*  
 I arrived at Narita Airport on the Keisei Line (京成線), one of the more affordable but slightly slower ways from the city. The journey from Shinjuku took a little under two hours, and the check in area for Terminal 1 was just a short walk from the train. 
@@ -922,5 +922,3 @@ for (i=0; i < slideIndex.length; i++) {
 }
 
 </script>
-
-
