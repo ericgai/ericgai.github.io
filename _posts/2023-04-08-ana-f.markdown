@@ -9,7 +9,8 @@ categories:
 title: "Another Sky"
 excerpt: "ANA First Class Tokyo Narita-San Francisco"
 date: "2023-04-02"
-last_modified_at: "2023-04-18"
+toc: true
+last_modified_at: "2024-01-13"
 
 
 ---
@@ -19,9 +20,9 @@ My Asia trip for spring 2023 would end on a high note with this flight, which I 
 ##### Flight Details
 All Nippon Airways (ANA/NH) Flight 8  
 Origin: Tokyo Narita International, NRT, Gate 53  
-Departure: 17:15, 2 April 2023 (Japan Standard Time)  
+Departure: 17:15, 2 April 2023 (UTC+9)  
 Destination: San Francisco International, SFO, Gate G13  
-Arrival: 10:09, 2 April 2023 (Pacific Daylight Time)  
+Arrival: 10:09, 2 April 2023 (UTC-7)  
 Duration: 8:54 hours  
 Aircraft: JA790A, Boeing 777-300ER, delivered March 2015  
 Seat: 1K (First)
@@ -32,7 +33,7 @@ For better or worse, this flight might be one of the best redemptions I will eve
 
 Award space for ANA tends to be quite tough to come by. I was able to take advantage of a schedule change in January 2023, when the Boeing 777 was substituted for the Boeing 787 on this route for the summer schedule. This opened up quite a few award seats in First Class since the 777 has a First Class cabin while the 787 does not. This batch of award seats was gone within a few hours, and I was quite lucky to be able to score one of them. 
 
-##### The Journey
+##### Departure Ground Experience
 ![keisei](/images/ana_f_2023/IMG_3784.JPEG)
 *Keisei Narita Airport Terminal 1 Station*  
 I arrived at Narita Airport on the Keisei Line (京成線), one of the more affordable but slightly slower ways from the city. The journey from Shinjuku took a little under two hours, and the check in area for Terminal 1 was just a short walk from the train. 
@@ -224,6 +225,7 @@ I made my way to the ANA Suite Lounge, which is a level up from the rotunda wher
 \
 The food and drinks selection featured a standard buffet with salads, appetizers, sandwiches, desserts, a lineup of alcoholic and nonalcoholic drinks, as well as a made-to-order menu that was processed through a QR code. There was also a freezer with mini Häagen-Dasz ice creams. The full menu can be viewed [here](/images/ana_f_2023/lounge.pdf). I had the sushi set featuring a standard selection of fish. The sushi was of average quality for Japan, though I was slightly disappointed that the miso soup used freeze-dried tofu cubes. The small plates were quite creative, as was the chocolate baguette sandwich, although the thick slice of butter inside made it a little less appealing. The lounge staff were outstanding, however. Everyone was warm, attentive, and always ready to help. Overall, while this was a pleasant lounge, some elements could definitely be improved upon.
 
+##### Onboard Experience
 <div class="slideshow-container">
 <div class="mySlides5">
   <div class="numbertext">1 / 3</div>
@@ -246,11 +248,11 @@ The food and drinks selection featured a standard buffet with salads, appetizers
 
 </div>
 
-<!-- <div style="text-align:center">
+<div style="text-align:center">
   <span class="dot5" onclick="currentSlide(1,5)"></span> 
   <span class="dot5" onclick="currentSlide(2,5)"></span> 
   <span class="dot5" onclick="currentSlide(3,5)"></span> 
-</div> -->
+</div>
 \
 I left the lounge about an hour before departure and made some last minute *omiyage* purchases. The anticipation for the flight built as I made my way to the gate, and when boarding started precisely at the scheduled time of 16:30, I could not contain the excitement as I made my way down the jet bridge. First Class passengers were invited to board with Group 1 after passengers needing special assistance, and direction signs in the jet bridge pointed me to the L1 door right behind the cockpit. The purser welcomed me at the gate and directed me to my seat in the right side aisle. 
 
@@ -879,6 +881,7 @@ The headphones were collected about half an hour before landing, and the flight 
 \
 We plunged through the clouds again, this time to views of San Francisco Bay below. While I have undertaken this journey many times, it always takes some time for me to come to terms with the fact that a massive piece of mechanized equipment had just taken me across an ocean. We touched down on runway 28R at 1008 local time, with the flight clocking in just under nine hours. The ubiquitous blue globe tails of United made it clear that I was back in the US. We came to a stop a few minutes later at gate G13.
 
+##### Arrival
 <div class="slideshow-container">
 <div class="mySlides26">
   <div class="numbertext">1 / 4</div>
