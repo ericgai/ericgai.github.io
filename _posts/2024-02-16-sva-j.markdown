@@ -6,91 +6,90 @@ comments: true
 categories:
   - Travel
   - Flights
-title: "Feels Good to Move"
-excerpt: "Cathay Pacific First Class Los Angeles-Hong Kong, and onward to Dubai"
-date: "2023-08-14"
+title: "A Saudi Encounter"
+excerpt: "Saudia Business Class Tunis-Beijing, with visits to Jeddah and Riyadh in transit"
+date: "2024-01-24"
 toc: true
 last_modified_at: "2024-01-15" 
-header:
-  teaser: /images/cpa_f_2023/IMG_4996.JPEG
 
 
 ---
 
-With the last few weeks of summer 2023, I was very excited to finally head back to China after it had been closed to the world for three pandemic years. I chose to take a rather circuitous route that began with a positioning journey from Boston to Los Angeles via Chicago, followed by this itinerary on Cathay Pacific. With a home base in "Asia's world city" Hong Kong, Cathay Pacific flourished during the British colonial era with an impressive international network and was regarded as one of the world's top airlines at one point. However, the pandemic dealt a heavy blow to the airline. It flew less than three percent of its pre-pandemic capacity for the better part of two years, which resulted in many staff being let go. With restrictions finally being lifted, Cathay has been slowly rebuilding its global network. ["Feels Good to Move"](https://www.youtube.com/watch?v=DbgQ6uA74wc) has become its latest marketing tagline, and it was surely a pleasant experience moving with this storied carrier across the Pacific. 
+After spending a few days in Tunisia, I continued my winter 2024 journey with this rather winded itinerary to China. Flying nearly eighty years through the rise of the Kingdom of Saudi Arabia to a major regional power, Saudia has undergone rapid growth in the last few years, playing a major part in the effort to transform the Saudi economy and reduce its dependence on oil sales. This itinerary took me through the two major cities in the Kingdom, Jeddah and Riyadh, and I got to have a taste of this country that is only starting to gain attention as a tourist destination. Saudia adopted a new brand identity in 2023, reverting to a simplified historic logo and colour scheme, marking a new era for the airline and its expanding global network. I was quite curious to try this airline that seems to carry a certain mystique, and I am happy to report back on a pleasant experience in their Business cabin. 
 
 ##### Flight Details
-Cathay Pacific (CPA/CX) Flight 881   
-Origin: Los Angeles International, LAX, Gate 130   
-Departure: 01:14, 14 August 2023 (UTC-7)   
-Destination: Hong Kong International (Chek Lap Kok), HKG, Gate 62   
-Arrival: 06:10, 15 August 2023 (UTC+8)   
-Duration: 13:56 hours   
-Aircraft: B-KQH, Boeing 777-300ER, delivered September 2013   
-Seat: 1A (First)  
+Saudia (SVA/SV) Flight 366    
+Origin: Tunis Carthage, TUN, Gate 54   
+Departure: 11:48, 22 January 2024 (UTC+1)   
+Destination: Jeddah King Abulaziz, JED, Gate A25   
+Arrival: 17:41, 22 January 2024 (UTC+3)   
+Duration: 03:53 hours   
+Aircraft: HZ-AQL, Airbus A330-300, delivered April 2014, Skyteam livery  
+Seat: 2A (Business)  
   
-Cathay Pacific (CPA/CX) Flight 731    
-Origin: Hong Kong International (Chek Lap Kok), HKG, Gate 30  
-Departure: 18:07, 15 August 2023 (UTC+8)  
-Destination: Dubai International, DXB, Gate D6  
-Arrival: 22:59, 15 August 2023 (UTC+4)  
-Duration: 07:52 hours  
-Aircraft: B-LRE, Airbus A350-900, delivered August 2016  
-Seat: 20A (Business)  
+Saudia (SVA/SV) Flight 1020  
+Origin: Jeddah King Abdulaziz, JED, Gate A01  
+Departure: 07:12, 23 January 2024 (UTC+3)  
+Destination: Riyadh King Khalid, RUH 
+Arrival: 08:20, 23 January 2023 (UTC+3)  
+Duration: 01:08 hours  
+Aircraft: HZ-AK27, Boeing 777-300ER, delivered June 2015  
+Seat: 1A (Business)  
+
+Saudia (SVA/SV) Flight 888  
+Origin: Riyad King Khalid, RUH, Gate 431  
+Departure: 03:24, 24 January 2024 (UTC+3)  
+Destination: Beijing Daxing, PKX, Gate E88  
+Arrival: 16:23, 24 January 2023 (UTC+8)  
+Duration: 07:59 hours  
+Aircraft: HZ-AR23, Boeing 787-9, delivered April 2018  
+Seat: 2A (Business)  
 
 
 ##### Booking
-Cathay Pacific has so far (as of September 2023) brought back its highly regarded First Class service to its London, Paris, Los Angeles, Beijing, and Tokyo routes. I booked this flight using 70,000 Alaska Airlines miles and $49.40 in fees.
+Saudia frequently has very reasonably priced tickets between cities in its network. I paid $583.66 for this one-way Business Class ticket from Tunis to Beijing.
 
-Award availability for Cathay Pacific is quite rare these days. A few seats for the Los Angeles route were released in February, and I quickly booked one for a date that might work. While I would have preferred planning things out a little more beforehand, I decided to act quickly to secure these seats, which were booked out in less than two days. 
+##### Tunis Ground Experience
+![tun_departure](/images/sva_j_2024/IMG_7434.JPEG)
+*Departure Hall*  
 
-##### Departure Ground Experience
-![tbit](/images/cpa_f_2023/IMG_4694.JPEG)
-*Taxiing past Tom Bradley International Terminal*  
+I took a taxi from my guesthouse to the airport, which dropped me off at the departure level. The main departure hall at Tunis Carthage Airport, an open space that leads directly to the secured area, is decorated with traditional Tunisian motifs, which was a pleasant refrain of the sights I had seen during my trip. With many departures scheduled around noon, the area was quite busy as I arrived.  
 
-I arrived at Los Angeles International Airport on an American Airlines flight, which parked at Terminal 5. We taxied past Tom Bradley International Terminal (TBIT) where I would be flying from tonight as we made our way to the gate, which was busy as always. As one of the major international gateways for the US, TBIT is the first glimpse of America for many travellers, evidenced by the diverse array of foreign carriers parked here. 
+![tun_counters](/images/sva_j_2024/IMG_7437.JPEG)
+*Saudia Check In Area*  
 
-![qf_entrance](/images/cpa_f_2023/IMG_4700.JPEG)
-*Entrance to Qantas First Lounge*  
-
-I made my way to the Qantas First Lounge at TBIT, which is available to First Class passengers departing on flights operated by **one**world carriers. While I did not have a boarding pass in hand yet for the evening's flight, the lounge attendant allowed me to enter after seeing my itinerary confirmation. Curiously, she was not aware of Cathay Pacific having resumed First Class service from LAX and called a supervisor to confirm before admitting me. I felt quite lucky to be able to experience this newly reinstated product before many others.
+The check in desks were off to the side of the main hall, with more reserved decor and a lower ceiling. There were a row of counters for my Saudia flight to Jeddah. The queues to the counters were short, and the SkyPriority lane for Business Class and Skyteam Elite Plus passengers made for an even quicker experience. The staff took a few minutes to verify my entry documents for Saudi Arabia and China, and I asked to check my carry-on bag all the way to Beijing so I didn't have to deal with it during transit, which they were happy to do. 
 
 <div class="slideshow-container">
 
 <div class="mySlides1">
-  <div class="numbertext">1 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4701.JPEG" style="width:100%">
-  <i>Qantas First Lounge seating</i>
+  <div class="numbertext">1 / 5</div>
+  <img src="/images/sva_j_2024/IMG_7449.JPEG" style="width:100%">
+  <i>Espace Privilege lounge entrance</i>
 </div>
 
 <div class="mySlides1">
-  <div class="numbertext">2 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4703.JPEG" style="width:100%">
-  <i>Qantas First Lounge seating</i>
+  <div class="numbertext">2 / 5</div>
+  <img src="/images/sva_j_2024/IMG_7451.JPEG" style="width:100%">
+  <i>Lounge seating</i>
 </div>
 
 <div class="mySlides1">
-  <div class="numbertext">3 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4707.JPEG" style="width:100%">
-  <i>Qantas First Lounge seating</i>
+  <div class="numbertext">3 / 5</div>
+  <img src="/images/sva_j_2024/IMG_7452.JPEG" style="width:100%">
+  <i>Espace Privilege pastries</i>
 </div>
 
 <div class="mySlides1">
-  <div class="numbertext">4 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4704.JPEG" style="width:100%">
-  <i>Qantas First Lounge self-serve red wines and snacks</i>
+  <div class="numbertext">4 / 5</div>
+  <img src="/images/sva_j_2024/IMG_7453.JPEG" style="width:100%">
+  <i>Espace Privilege salad bar</i>
 </div>
 
 <div class="mySlides1">
-  <div class="numbertext">5 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4705.JPEG" style="width:100%">
-  <i>Qantas First Lounge self-serve white wines</i>
-</div>
-
-<div class="mySlides1">
-  <div class="numbertext">6 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4716.JPEG" style="width:100%">
-  <i>Qantas First Lounge bathroom</i>
+  <div class="numbertext">5 / 5</div>
+  <img src="/images/sva_j_2024/IMG_7450.JPEG" style="width:100%">
+  <i>Espace Privilege ramp view</i>
 </div>
 
 <a class="prev" onclick="plusSlides(-1,1)">❮</a>
@@ -98,128 +97,122 @@ I made my way to the Qantas First Lounge at TBIT, which is available to First Cl
 
 </div>
 
-<div style="text-align:center">
-  <span class="dot1" onclick="currentSlide(1,1)"></span> 
-  <span class="dot1" onclick="currentSlide(2,1)"></span> 
-  <span class="dot1" onclick="currentSlide(3,1)"></span> 
-  <span class="dot1" onclick="currentSlide(4,1)"></span>
-  <span class="dot1" onclick="currentSlide(5,1)"></span>  
-  <span class="dot1" onclick="currentSlide(6,1)"></span>  
-
-</div>
-
 \
-The lounge was quite empty, making extensive use of Qantas' colour palette of red, black, and grey while also featuring a honeycomb motif. There was plenty of comfortable seating available and an additional à la carte dining area off to one side. A selection of wines was available for self-serve, with many among them coming from the airline's native Australia. The decor was modern but composed. While there were no views of the tarmac, the lounge looks directly down at the busy check-in hall of TBIT, where many travellers mark the beginning of their long journeys.
+After clearing security and immigration inspection, I headed for the Espace Privilege, the only lounge in the airport. The lounge was operated by Tunisair but is used by many airlines for their premium passengers. There was a simple selection of pastries, salads, small bites, and drinks. Although the lounge was busy, it was not hard to find a open seat, and I took a place next to the window looking over the gates, which reminded me of my time on the ramp. In view was an Air France A320 bound for Paris and a Tunisair A330 bound for Montreal. 
 
 <div class="slideshow-container">
 
 <div class="mySlides2">
-  <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4710.JPEG" style="width:100%">
-  <i>Qantas First Lounge salt and pepper squid</i>
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/sva_j_2024/IMG_7460.JPEG" style="width:100%">
+  <i>Gate 54 boarding</i>
 </div>
 
 <div class="mySlides2">
-  <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4711.JPEG" style="width:100%">
-  <i>Qantas First Lounge drink</i>
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/sva_j_2024/IMG_7464.JPEG" style="width:100%">
+  <i>Jetbridge lineup</i>
 </div>
+
+<div class="mySlides2">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/sva_j_2024/IMG_7468.JPEG" style="width:100%">
+  <i>Skyteam livery with old logo</i>
+</div>
+
 <a class="prev" onclick="plusSlides(-1,2)">❮</a>
 <a class="next" onclick="plusSlides(1,2)">❯</a>
 
 </div>
 
-<div style="text-align:center">
-  <span class="dot2" onclick="currentSlide(1,2)"></span> 
-  <span class="dot2" onclick="currentSlide(2,2)"></span> 
-</div>
 \
-I headed over to the dining area to grab a bite. The lunch and dinner [menu](/images/cpa_f_2023/IMG_4708.JPEG) designed by Australian chef Neil Perry featured local produce and seasonal flavours. I tried the salt and pepper squid, which Qantas is known for serving in many of its global lounges. The pieces of squid were quite thick, but also soft and tender. The squid itself was not heavily seasoned, but the garlic aioli and green chili sauce provided some contrasting flavours. The meaty serving and bold flavours represented Australian seafood quite well. I also tried the lychee and watermelon-based drink they had on offer, which was quite refreshing for the summer day. 
+I headed over to the gate about 50 minutes before departure and was surprised to find that the boarding process was well under way. I quickly went through with my boarding pass, only to find that everyone was simply standing in the jetway while the cabin crew were still preparing. Fortunately it was not a long wait before passengers were allowed to enter the cabin. I caught a glimpse of our Airbus A330 painted in the Skyteam livery scheme, still sporting the old Saudia logo. The crew conducted a bag check at the door, the purpose of which was not clear to me, but the process was fairly quick and painless. 
+
+
+##### Tunis to Jeddah Onboard Experience 
 
 <div class="slideshow-container">
 
 <div class="mySlides3">
-  <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4712.JPEG" style="width:100%">
-  <i>Qantas First Lounge striped bass</i>
+  <div class="numbertext">1 / 7</div>
+  <img src="/images/sva_j_2024/IMG_7471.JPEG" style="width:100%">
+  <i>Saudia A330 business class cabin</i>
 </div>
 
 <div class="mySlides3">
-  <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4714.JPEG" style="width:100%">
-  <i>Qantas First Lounge caramel flan</i>
+  <div class="numbertext">2 / 7</div>
+  <img src="/images/sva_j_2024/IMG_7472.JPEG" style="width:100%">
+  <i>Business class seat</i>
 </div>
+
+<div class="mySlides3">
+  <div class="numbertext">3 / 7</div>
+  <img src="/images/sva_j_2024/IMG_7473.JPEG" style="width:100%">
+  <i>Entertainment screen and literature pocket</i>
+</div>
+
+<div class="mySlides3">
+  <div class="numbertext">4 / 7</div>
+  <img src="/images/sva_j_2024/IMG_7475.JPEG" style="width:100%">
+  <i>Seat controls</i>
+</div>
+
+<div class="mySlides3">
+  <div class="numbertext">5 / 7</div>
+  <img src="/images/sva_j_2024/IMG_7476.JPEG" style="width:100%">
+  <i>Tray table compartment</i>
+</div>
+
+<div class="mySlides3">
+  <div class="numbertext">6 / 7</div>
+  <img src="/images/sva_j_2024/IMG_7479.JPEG" style="width:100%">
+  <i>Safety information card</i>
+</div>
+
+<div class="mySlides3">
+  <div class="numbertext">7 / 7</div>
+  <img src="/images/sva_j_2024/IMG_7480.JPEG" style="width:100%">
+  <i>Shoulder lamps and divider</i>
+</div>
+
 <a class="prev" onclick="plusSlides(-1,3)">❮</a>
 <a class="next" onclick="plusSlides(1,3)">❯</a>
 
 </div>
-\
-The seared striped bass was simple but pleasant, with a crusty salted skin and flakey meat. I finished with the muscovado flan. The molasses flavour added some complexity to the dish, though the pieces of mango were a bit tough. The portion sizes were on the small side, which was perfect since I did not want to overeat before the flight.
 
-As the night approached, I took a shower in the lounge to freshen up a bit before the flight. There was a short waitlist, mostly of passengers on the Qantas flight that night to Sydney, and I waited about 10 minutes before being called back. I am always happy to be able to take a shower while waiting at the airport as it can be hard to find a place to refresh during long-haul travel. 
+\
+Business Class passengers were invited to board through the L1 door, and I settled into my window seat in the second row. The Business Class cabin on this aircraft occupies the space between the first and second doors, with 36 front-facing lie-flat seats laid out in a 2-2-2 configuration across six rows. The seats were comfortable and well-cushioned. A pillow and a blanket were prepared at the seat, while the headphones and a bottle of water were in the literature pocket in front, below the entertainment screen. Seat controls were in the left armrest, and the tray table popped out of the right, with a USB charging port further beneath. At shoulder level there were additional lamps and an extendable privacy partition, which I did not end up using as the seat beside me remained empty.  
 
 <div class="slideshow-container">
 <div class="mySlides4">
-  <div class="numbertext">1 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4737.JPEG" style="width:100%">
-  <i><b>one</b>world lounge interior</i>
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/sva_j_2024/IMG_7488.JPEG" style="width:100%">
+  <i>Saudi coffee and dates</i>
 </div>
 <div class="mySlides4">
-  <div class="numbertext">2 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4739.JPEG" style="width:100%">
-  <i><b>one</b>world lounge interior</i>
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/sva_j_2024/IMG_7482.JPEG" style="width:100%">
+  <i>Pre-departure hot towel</i>
 </div>
 <div class="mySlides4">
-  <div class="numbertext">3 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4740.JPEG" style="width:100%">
-  <i><b>one</b>world lounge interior</i>
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/sva_j_2024/IMG_7486.JPEG" style="width:100%">
+  <i>Packaged preserved dates</i>
 </div>
 <div class="mySlides4">
-  <div class="numbertext">4 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4743.JPEG" style="width:100%">
-  <i><b>one</b>world lounge buffet: salads</i>
-</div>
-<div class="mySlides4">
-  <div class="numbertext">5 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4744.JPEG" style="width:100%">
-  <i><b>one</b>world lounge buffet: cold dishes</i>
-</div>
-<div class="mySlides4">
-  <div class="numbertext">6 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4745.JPEG" style="width:100%">
-  <i><b>one</b>world lounge hot buffet</i>
-</div>
-<div class="mySlides4">
-  <div class="numbertext">7 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4741.JPEG" style="width:100%">
-  <i><b>one</b>world lounge buffet: cakes</i>
-</div>
-<div class="mySlides4">
-  <div class="numbertext">8 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4747.JPEG" style="width:100%">
-  <i><b>one</b>world lounge buffet: desserts</i>
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/sva_j_2024/IMG_7487.JPEG" style="width:100%">
+  <i>Saudi coffee poured from the dallah</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,4)">❮</a>
 <a class="next" onclick="plusSlides(1,4)">❯</a>
 
 </div>
 
-<div style="text-align:center">
-  <span class="dot3" onclick="currentSlide(1,3)"></span> 
-  <span class="dot3" onclick="currentSlide(2,3)"></span> 
-  <span class="dot3" onclick="currentSlide(3,3)"></span> 
-  <span class="dot3" onclick="currentSlide(4,3)"></span>
-  <span class="dot3" onclick="currentSlide(5,3)"></span>
-  <span class="dot3" onclick="currentSlide(6,3)"></span> 
-  <span class="dot3" onclick="currentSlide(7,3)"></span>
-  <span class="dot3" onclick="currentSlide(8,3)"></span>
-
-</div>
-
 \
-Qantas' flights to Australia leave LAX around 2230 in the evening, and the first class lounge closed at 2330. With another two hours before my flight leaves, I headed over to the adjacent **one**world business class lounge which was also operated by Qantas. The branding also featured **one**world partners British Airways and Cathay Pacific. Several other airlines also contract this lounge for their premium customers, with many passengers on China Southern this evening. This lounge was noticeably more crowded, but there was still plenty of seating available. The atmosphere was more reserved, with a darker tone in the decor. The dining provided was a buffet area with a selection of hot and cold dishes. I had some salad, curry chicken, and a small oreo pudding, which were all flavourful and relatively fresh. 
+After most of the Business Class passengers had boarded, the pre-departure service began with a hot towel brought in a tray. The flight attendants then came around offering Arabic dates and Saudi coffee, which was poured from a traditional dallah pot and served in a small finjan cup. As is typical for coffee from the region, it carried strong fragrances of cardamom and cloves along with the acidity and bitterness of the lightly roasted beans, which went well with the sweet dried dates. The crew then returned to offer a second round of coffee and dates, in accordance with Saudi traditions of hosting guests. Although the crew was mostly foreign, the prominent Saudi cultural elements left me excited to discover more about this country.  
 
-![gate_lax](/images/cpa_f_2023/IMG_4752.JPEG)
+![gate_lax](/images/sva_j_2024/IMG_4752.JPEG)
 *Gate 130 boarding area*  
 
 I headed over to the gate about an hour before departure. Late night is now a popular time for departures to Asia, and flights to Taipei, Seoul, and Tokyo at neighbouring gates kept the terminal busy at this hour. 
@@ -227,12 +220,12 @@ I headed over to the gate about an hour before departure. Late night is now a po
 <div class="slideshow-container">
 <div class="mySlides5">
   <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4753.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4753.JPEG" style="width:100%">
   <i>B-KQH in the night</i>
 </div>
 <div class="mySlides5">
   <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4757.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4757.JPEG" style="width:100%">
   <i>Jetbridge directions</i>
 </div>
 
@@ -248,17 +241,17 @@ The stately appearance of the Boeing 777-300ER is always a sight to behold at th
 <div class="slideshow-container">
 <div class="mySlides6">
   <div class="numbertext">1 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4758.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4758.JPEG" style="width:100%">
   <i>Boarding through the L1 door</i>
 </div>
 <div class="mySlides6">
   <div class="numbertext">2 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4762.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4762.JPEG" style="width:100%">
   <i>First class seat</i>
 </div>
 <div class="mySlides6">
   <div class="numbertext">3 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4760.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4760.JPEG" style="width:100%">
   <i>Footwell</i>
 </div>
 
@@ -278,37 +271,37 @@ Two crew members welcomed me at the door and led me to my seat on the left side 
 <div class="slideshow-container">
 <div class="mySlides7">
   <div class="numbertext">1 / 7</div>
-  <img src="/images/cpa_f_2023/IMG_4763.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4763.JPEG" style="width:100%">
   <i>First Class cabin</i>
 </div>
 <div class="mySlides7">
   <div class="numbertext">2 / 7</div>
-  <img src="/images/cpa_f_2023/IMG_4768.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4768.JPEG" style="width:100%">
   <i>Entertainment screen and storage below</i>
 </div>
 <div class="mySlides7">
   <div class="numbertext">3 / 7</div>
-  <img src="/images/cpa_f_2023/IMG_4769.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4769.JPEG" style="width:100%">
   <i>Entertainment screen slides across the suite</i>
 </div>
 <div class="mySlides7">
   <div class="numbertext">4 / 7</div>
-  <img src="/images/cpa_f_2023/IMG_4773.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4773.JPEG" style="width:100%">
   <i>Remote screen control and seat control</i>
 </div>
 <div class="mySlides7">
   <div class="numbertext">5 / 7</div>
-  <img src="/images/cpa_f_2023/IMG_4774.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4774.JPEG" style="width:100%">
   <i>Storage compartment with headphones</i>
 </div>
 <div class="mySlides7">
   <div class="numbertext">6 / 7</div>
-  <img src="/images/cpa_f_2023/IMG_4775.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4775.JPEG" style="width:100%">
   <i>Table compartment and power ports</i>
 </div>
 <div class="mySlides7">
   <div class="numbertext">7 / 7</div>
-  <img src="/images/cpa_f_2023/IMG_6981.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_6981.JPEG" style="width:100%">
   <i>Bamford amenity kit</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,7)">❮</a>
@@ -317,22 +310,22 @@ Two crew members welcomed me at the door and led me to my seat on the left side 
 </div>
 
 \
-With no overhead bins installed, the six-seat cabin felt very open and spacious. The entertainment screen slid across for optimal viewing angles, with a touch-screen controller at hand level. There was also a seat control screen on the side, power ports, and a storage compartment where there were some Bose headsets. A [menu](/images/cpa_f_2023/881_F_menu.pdf) and an amenity kit from the British brand Bamford with a few skincare products were also at the seat. The amenity kit included a [booklet](/images/cpa_f_2023/881_F_booklet.pdf) that described the bedding and other amenities available onboard.
+With no overhead bins installed, the six-seat cabin felt very open and spacious. The entertainment screen slid across for optimal viewing angles, with a touch-screen controller at hand level. There was also a seat control screen on the side, power ports, and a storage compartment where there were some Bose headsets. A [menu](/images/sva_j_2024/881_F_menu.pdf) and an amenity kit from the British brand Bamford with a few skincare products were also at the seat. The amenity kit included a [booklet](/images/sva_j_2024/881_F_booklet.pdf) that described the bedding and other amenities available onboard.
 
 <div class="slideshow-container">
 <div class="mySlides8">
   <div class="numbertext">1 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4766.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4766.JPEG" style="width:100%">
   <i>Mixed nuts, Jing sparkling tea, and Krug Champagne</i>
 </div>
 <div class="mySlides8">
   <div class="numbertext">2 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4770.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4770.JPEG" style="width:100%">
   <i>Pajamas by PYE </i>
 </div>
 <div class="mySlides8">
   <div class="numbertext">3 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4771.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4771.JPEG" style="width:100%">
   <i>Welcome card</i>
 </div>
 
@@ -350,17 +343,17 @@ While I was hoping to have the Chinese supper menu to kick off the Asia trip, on
 <div class="slideshow-container">
 <div class="mySlides9">
   <div class="numbertext">1 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4778.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4778.JPEG" style="width:100%">
   <i>Safety Video Screening</i>
 </div>
 <div class="mySlides9">
   <div class="numbertext">2 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4786.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4786.JPEG" style="width:100%">
   <i>LAX Taxi</i>
 </div>
 <div class="mySlides9">
   <div class="numbertext">3 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4787.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4787.JPEG" style="width:100%">
   <i>LAX Takeoff</i>
 </div>
 
@@ -372,7 +365,7 @@ While I was hoping to have the Chinese supper menu to kick off the Asia trip, on
 \
 We soon pushed back from the gate and the [safety video](https://www.youtube.com/watch?v=N2s_AJySdS0) was screened. This was a fairly conventional safety video, made cheerful by the animated figures that were smiling throughout. With a quick taxi to runway 25R, we took off into the cloudy night sky of Los Angeles. It was well past midnight by now on the North American East Coast where I began my journey. I was quite tired and dosed off for a little bit as we climbed toward the moonlit sky.  
 
-![nuts](/images/cpa_f_2023/IMG_4796.JPEG)
+![nuts](/images/sva_j_2024/IMG_4796.JPEG)
 *Mixed nuts and Cathay delight*
 
 Soon after takeoff, the seat belt sign was turned off and the service began. The crew brought some mixed nuts as the cabin lights were still dimmed. I ordered a glass of Cathay's signature drink, Cathay Delight, to go along. This kiwi-based drink with flavours of coconut and mint was creamy but refreshing, and I ended up having a few more glasses along my journey with Cathay.
@@ -381,12 +374,12 @@ Soon after takeoff, the seat belt sign was turned off and the service began. The
 
 <div class="mySlides10">
   <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4800.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4800.JPEG" style="width:100%">
   <i>Caviar course</i>
 </div>
 <div class="mySlides10">
   <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4799.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4799.JPEG" style="width:100%">
   <i>Rare Champagne</i>
 </div>
 
@@ -401,12 +394,12 @@ Soon after takeoff, the seat belt sign was turned off and the service began. The
 <div class="slideshow-container">
 <div class="mySlides11">
   <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4802.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4802.JPEG" style="width:100%">
   <i>Pumpkin and chickpea salad appetizer</i>
 </div>
 <div class="mySlides11">
   <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4801.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4801.JPEG" style="width:100%">
   <i>Bordeaux wine</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,11)">❮</a>
@@ -420,12 +413,12 @@ As this was a late-night departure, the meal service proceeded fairly quickly. T
 <div class="slideshow-container">
 <div class="mySlides12">
   <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4805.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4805.JPEG" style="width:100%">
   <i>Lamb chops main course</i>
 </div>
 <div class="mySlides12">
   <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4806.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4806.JPEG" style="width:100%">
   <i>Cheese plate</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,12)">❮</a>
@@ -436,7 +429,7 @@ As this was a late-night departure, the meal service proceeded fairly quickly. T
 \
 Next came the main dish of the roasted lamb chops which were tender and juicy, albeit a little bit fatty for my liking. The mashed sweet potato was smooth and rich, and the ginger flavouring brought out some spice in the dish. Some broccolini added a hint of green to the plate. The main dish was followed by a cheese course with Bijou, cheddar, and buttermilk blue.   
 
-![dessert](/images/cpa_f_2023/IMG_4807.JPEG)
+![dessert](/images/sva_j_2024/IMG_4807.JPEG)
 *Mixed beans soup dessert*
 
 The flight attendant then came by to ask if I wanted any dessert, and I asked for the mixed beans soup (喳咋) from the menu. Soon, she came back with a photo on her phone and said, "So the soup looks like this today, there is not much soup; I need to write a report on this, but would you still like to have it?" Although I was stuffed at this point, I still wanted to try it. The soup came more or less as a bowl of beans, and I only ended up having a little bit. She came back and joked, "See, this is why I told you before, or else you would think I drank all the soup!" I really appreciated her honesty, willingness to admit shortcomings of the onboard product, and humourous approach to temper passengers' expectations.  
@@ -444,17 +437,17 @@ The flight attendant then came by to ask if I wanted any dessert, and I asked fo
 <div class="slideshow-container">
 <div class="mySlides13">
   <div class="numbertext">1 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4811.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4811.JPEG" style="width:100%">
   <i>Praline chocolates</i>
 </div>
 <div class="mySlides13">
   <div class="numbertext">2 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4819.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4819.JPEG" style="width:100%">
   <i>First class lavatory</i>
 </div>
 <div class="mySlides13">
   <div class="numbertext">3 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4820.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4820.JPEG" style="width:100%">
   <i>First class lavatory</i>
 </div>
 
@@ -469,12 +462,12 @@ I was very tired by the time I finished the meal, and the crew asked if I would 
 
 <div class="mySlides14">
   <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4808.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4808.JPEG" style="width:100%">
   <i>Disassembled seat</i>
 </div>
 <div class="mySlides14">
   <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4809.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4809.JPEG" style="width:100%">
   <i>Disassembled seat</i>
 </div>
 
@@ -490,17 +483,17 @@ The crew decided to relocate me to an empty seat in business class while offerin
 <div class="slideshow-container">
 <div class="mySlides15">
   <div class="numbertext">1 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4812.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4812.JPEG" style="width:100%">
   <i>Crossing the International Date Line</i>
 </div>
 <div class="mySlides15">
   <div class="numbertext">2 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4813.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4813.JPEG" style="width:100%">
   <i>Hong Kong milk tea</i>
 </div>
 <div class="mySlides15">
   <div class="numbertext">3 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4815.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4815.JPEG" style="width:100%">
   <i>Cod and scallop egg noodle soup</i>
 </div>
 
@@ -515,12 +508,12 @@ The business class seat was decently comfortable, and I slept for about four hou
 <div class="slideshow-container">
 <div class="mySlides16">
   <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4817.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4817.JPEG" style="width:100%">
   <i>Espresso martini crumpet</i>
 </div>
 <div class="mySlides16">
   <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4821.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4821.JPEG" style="width:100%">
   <i>Quiche with pickled vegetables</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,16)">❮</a>
@@ -534,17 +527,17 @@ I spent the next few hours of the flight between eating, doing a little bit of w
 <div class="slideshow-container">
 <div class="mySlides17">
   <div class="numbertext">1 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4823.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4823.JPEG" style="width:100%">
   <i>Breakfast fresh fruits</i>
 </div>
 <div class="mySlides17">
   <div class="numbertext">2 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4824.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4824.JPEG" style="width:100%">
   <i>Miniature fruit jams</i>
 </div>
 <div class="mySlides17">
   <div class="numbertext">3 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_4826.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4826.JPEG" style="width:100%">
   <i>Chinese breakfast set</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,17)">❮</a>
@@ -560,12 +553,12 @@ The breakfast started with a plate of fresh fruits including passion fruit, kiwi
 <div class="slideshow-container">
 <div class="mySlides18">
   <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4829.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4829.JPEG" style="width:100%">
   <i>Sunrise over Taiwan</i>
 </div>
 <div class="mySlides18">
   <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4830.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4830.JPEG" style="width:100%">
   <i>Jasmine tea with butter cookie</i>
 </div>
 
@@ -579,22 +572,22 @@ The sun began to appear beneath the horizon as we flew over Taiwan, and I asked 
 <div class="slideshow-container">
 <div class="mySlides19">
   <div class="numbertext">1 / 4</div>
-  <img src="/images/cpa_f_2023/IMG_4835.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4835.JPEG" style="width:100%">
   <i>Approach route: Sai Tung</i>
 </div>
 <div class="mySlides19">
   <div class="numbertext">2 / 4</div>
-  <img src="/images/cpa_f_2023/IMG_4836.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4836.JPEG" style="width:100%">
   <i>Approach route: Sha Tin</i>
 </div>
 <div class="mySlides19">
   <div class="numbertext">3 / 4</div>
-  <img src="/images/cpa_f_2023/IMG_4838.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4838.JPEG" style="width:100%">
   <i>Approach route: Tsuen Wan</i>
 </div>
 <div class="mySlides19">
   <div class="numbertext">4 / 4</div>
-  <img src="/images/cpa_f_2023/IMG_4839.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4839.JPEG" style="width:100%">
   <i>Approach route: Ma Wan</i>
 </div>
 
@@ -608,12 +601,12 @@ Soon, the crew began preparing the cabin for landing and we descended through th
 <div class="slideshow-container">
 <div class="mySlides20">
   <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4842.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4842.JPEG" style="width:100%">
   <i>Hong Kong Airport 25R approach</i>
 </div>
 <div class="mySlides20">
   <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4850.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4850.JPEG" style="width:100%">
   <i>Window view after landing</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,20)">❮</a>
@@ -628,32 +621,32 @@ We touched down on runway 25R at Hong Kong's airport on Chek Lap Kok Airport. Th
 <div class="slideshow-container">
 <div class="mySlides21">
   <div class="numbertext">1 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4859.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4859.JPEG" style="width:100%">
   <i>Hong Kong airport departure board</i>
 </div>
 <div class="mySlides21">
   <div class="numbertext">2 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4889.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4889.JPEG" style="width:100%">
   <i>Departure hall</i>
 </div>
 <div class="mySlides21">
   <div class="numbertext">3 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4867.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4867.JPEG" style="width:100%">
   <i>Tarmac views</i>
 </div>
 <div class="mySlides21">
   <div class="numbertext">4 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4869.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4869.JPEG" style="width:100%">
   <i>Tarmac views</i>
 </div>
 <div class="mySlides21">
   <div class="numbertext">5 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4868.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4868.JPEG" style="width:100%">
   <i>Departure gates</i>
 </div>
 <div class="mySlides21">
   <div class="numbertext">6 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4895.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4895.JPEG" style="width:100%">
   <i>Tarmac views</i>
 </div>
 
@@ -667,12 +660,12 @@ The day was just getting started at Hong Kong airport as we arrived just past 06
 <div class="slideshow-container">
 <div class="mySlides22">
   <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4935.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4935.JPEG" style="width:100%">
   <i>Sky Bridge views</i>
 </div>
 <div class="mySlides22">
   <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4936.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4936.JPEG" style="width:100%">
   <i>Sky Bridge views</i>
 </div>
 
@@ -686,42 +679,42 @@ The Sky Bridge connecting the main terminal to the satellite concourse was opene
 <div class="slideshow-container">
 <div class="mySlides23">
   <div class="numbertext">1 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4870.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4870.JPEG" style="width:100%">
   <i>The Deck entrance</i>
 </div>
 <div class="mySlides23">
   <div class="numbertext">2 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4873.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4873.JPEG" style="width:100%">
   <i>The Deck furnishings</i>
 </div>
 <div class="mySlides23">
   <div class="numbertext">3 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4874.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4874.JPEG" style="width:100%">
   <i>Main lounge area</i>
 </div>
 <div class="mySlides23">
   <div class="numbertext">4 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4876.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4876.JPEG" style="width:100%">
   <i>Noodle bar</i>
 </div>
 <div class="mySlides23">
   <div class="numbertext">5 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4877.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4877.JPEG" style="width:100%">
   <i>Dim sum selection</i>
 </div>
 <div class="mySlides23">
   <div class="numbertext">6 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4880.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4880.JPEG" style="width:100%">
   <i>Bar area</i>
 </div>
 <div class="mySlides23">
   <div class="numbertext">7 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4881.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4881.JPEG" style="width:100%">
   <i>Lounge seating</i>
 </div>
 <div class="mySlides23">
   <div class="numbertext">8 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_4884.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4884.JPEG" style="width:100%">
   <i>Pastry selection</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,23)">❮</a>
@@ -734,52 +727,52 @@ I spent the rest of my eleven-hour transit time in Cathay Pacific's reputed loun
 <div class="slideshow-container">
 <div class="mySlides24">
   <div class="numbertext">1 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4896.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4896.JPEG" style="width:100%">
   <i>The Wing Business entrance</i>
 </div>
 <div class="mySlides24">
   <div class="numbertext">2 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4901.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4901.JPEG" style="width:100%">
   <i>Seating area</i>
 </div>
 <div class="mySlides24">
   <div class="numbertext">3 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4902.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4902.JPEG" style="width:100%">
   <i>Tarmac views</i>
 </div>
 <div class="mySlides24">
   <div class="numbertext">4 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4903.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4903.JPEG" style="width:100%">
   <i>Seating area</i>
 </div>
 <div class="mySlides24">
   <div class="numbertext">5 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4904.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4904.JPEG" style="width:100%">
   <i>Seating area</i>
 </div>
 <div class="mySlides24">
   <div class="numbertext">6 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4906.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4906.JPEG" style="width:100%">
   <i>Breakfast buffet</i>
 </div>
 <div class="mySlides24">
   <div class="numbertext">7 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4907.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4907.JPEG" style="width:100%">
   <i>Wonton noodle soup</i>
 </div>
 <div class="mySlides24">
   <div class="numbertext">8 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4899.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4899.JPEG" style="width:100%">
   <i>Drink dispenser</i>
 </div>
 <div class="mySlides24">
   <div class="numbertext">9 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4900.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4900.JPEG" style="width:100%">
   <i>Cold cuts and bread</i>
 </div>
 <div class="mySlides24">
   <div class="numbertext">10 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4908.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4908.JPEG" style="width:100%">
   <i>Entryway area</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,24)">❮</a>
@@ -793,52 +786,52 @@ In contrast to the cozy covered space of the Deck, the Wing was an open-air area
 <div class="slideshow-container">
 <div class="mySlides25">
   <div class="numbertext">1 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4910.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4910.JPEG" style="width:100%">
   <i>The Wing First seating area</i>
 </div>
 <div class="mySlides25">
   <div class="numbertext">2 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4926.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4926.JPEG" style="width:100%">
   <i>Work Area</i>
 </div>
 <div class="mySlides25">
   <div class="numbertext">3 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4924.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4924.JPEG" style="width:100%">
   <i>Hallway</i>
 </div>
 <div class="mySlides25">
   <div class="numbertext">4 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4912.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4912.JPEG" style="width:100%">
   <i>Lounge area buffet</i>
 </div>
 <div class="mySlides25">
   <div class="numbertext">5 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4915.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4915.JPEG" style="width:100%">
   <i>The Haven dining area</i>
 </div>
 <div class="mySlides25">
   <div class="numbertext">6 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4913.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4913.JPEG" style="width:100%">
   <i>The Haven breakfast buffet</i>
 </div>
 <div class="mySlides25">
   <div class="numbertext">7 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4916.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4916.JPEG" style="width:100%">
   <i>Dim sum buffet</i>
 </div>
 <div class="mySlides25">
   <div class="numbertext">8 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4917.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4917.JPEG" style="width:100%">
   <i>Pastries</i>
 </div>
 <div class="mySlides25">
   <div class="numbertext">9 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4914.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4914.JPEG" style="width:100%">
   <i>À la carte menu</i>
 </div>
 <div class="mySlides25">
   <div class="numbertext">10 / 10</div>
-  <img src="/images/cpa_f_2023/IMG_4921.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4921.JPEG" style="width:100%">
   <i>Crab meat omlette</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,25)">❮</a>
@@ -848,7 +841,7 @@ In contrast to the cozy covered space of the Deck, the Wing was an open-air area
 \
 I went over to the First Class section of the Wing, which was largely in a similar style, except it was much less crowded. The lounge featured expansive seating areas, as well as work zones with desks, monitors, and printers. There were a few buffet items in the main lounge area, but the mainstay of the dining service here is a covered room called the Haven, which features an à la carte dining service in addition to a small buffet of snacks and pastries. I ordered the Vietnamese crab omlette, which was served quickly but steaming hot and nicely plated. The hoisin sauce and coriander gave a distinctively Asian flavour to the egg dish. 
 
-![mimosa](/images/cpa_f_2023/IMG_4925.JPEG)
+![mimosa](/images/sva_j_2024/IMG_4925.JPEG)
 *Mimosa from the Wing bar*
 
 I ordered a mimosa from the bar and spent some time watching the morning ramp traffic get moving. Cheers!
@@ -856,47 +849,47 @@ I ordered a mimosa from the bar and spent some time watching the morning ramp tr
 <div class="slideshow-container">
 <div class="mySlides26">
   <div class="numbertext">1 / 9</div>
-  <img src="/images/cpa_f_2023/IMG_4938.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4938.JPEG" style="width:100%">
   <i>The Pier Entrance</i>
 </div>
 <div class="mySlides26">
   <div class="numbertext">2 / 9</div>
-  <img src="/images/cpa_f_2023/IMG_4942.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4942.JPEG" style="width:100%">
   <i>Entryway</i>
 </div>
 <div class="mySlides26">
   <div class="numbertext">3 / 9</div>
-  <img src="/images/cpa_f_2023/IMG_4944.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4944.JPEG" style="width:100%">
   <i>Hallway</i>
 </div>
 <div class="mySlides26">
   <div class="numbertext">4 / 9</div>
-  <img src="/images/cpa_f_2023/IMG_4946.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4946.JPEG" style="width:100%">
   <i>Buffet area</i>
 </div>
 <div class="mySlides26">
   <div class="numbertext">5 / 9</div>
-  <img src="/images/cpa_f_2023/IMG_4947.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4947.JPEG" style="width:100%">
   <i>Dessert buffet</i>
 </div>
 <div class="mySlides26">
   <div class="numbertext">6 / 9</div>
-  <img src="/images/cpa_f_2023/IMG_4948.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4948.JPEG" style="width:100%">
   <i>Beverage cooler</i>
 </div>
 <div class="mySlides26">
   <div class="numbertext">7 / 9</div>
-  <img src="/images/cpa_f_2023/IMG_4949.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4949.JPEG" style="width:100%">
   <i>Bar and lounge area</i>
 </div>
 <div class="mySlides26">
   <div class="numbertext">8 / 9</div>
-  <img src="/images/cpa_f_2023/IMG_4950.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4950.JPEG" style="width:100%">
   <i>Seating area</i>
 </div>
 <div class="mySlides26">
   <div class="numbertext">9 / 9</div>
-  <img src="/images/cpa_f_2023/IMG_4961.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4961.JPEG" style="width:100%">
   <i>Work zone</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,26)">❮</a>
@@ -909,32 +902,32 @@ I then walked through the main terminal to the Pier near gate 62. While this lou
 <div class="slideshow-container">
 <div class="mySlides27">
   <div class="numbertext">1 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4952.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4952.JPEG" style="width:100%">
   <i>The Dining Room</i>
 </div>
 <div class="mySlides27">
   <div class="numbertext">2 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4965.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4965.JPEG" style="width:100%">
   <i>The Dining Room menu</i>
 </div>
 <div class="mySlides27">
   <div class="numbertext">3 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4954.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4954.JPEG" style="width:100%">
   <i>Belgian waffles</i>
 </div>
 <div class="mySlides27">
   <div class="numbertext">4 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4966.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4966.JPEG" style="width:100%">
   <i>Shrimp with bamboo shoots</i>
 </div>
 <div class="mySlides27">
   <div class="numbertext">5 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4967.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4967.JPEG" style="width:100%">
   <i>Rare beef salad</i>
 </div>
 <div class="mySlides27">
   <div class="numbertext">6 / 6</div>
-  <img src="/images/cpa_f_2023/IMG_4969.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4969.JPEG" style="width:100%">
   <i>Lychee and ginger panna cotta</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,27)">❮</a>
@@ -947,27 +940,27 @@ There was similarly an à la carte dining area called the Dining Room, where I e
 <div class="slideshow-container">
 <div class="mySlides28">
   <div class="numbertext">1 / 5</div>
-  <img src="/images/cpa_f_2023/IMG_4959.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4959.JPEG" style="width:100%">
   <i>Massage service area</i>
 </div>
 <div class="mySlides28">
   <div class="numbertext">2 / 5</div>
-  <img src="/images/cpa_f_2023/IMG_4960.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4960.JPEG" style="width:100%">
   <i>THIA Wellness promotional materials</i>
 </div>
 <div class="mySlides28">
   <div class="numbertext">3 / 5</div>
-  <img src="/images/cpa_f_2023/IMG_4958.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4958.JPEG" style="width:100%">
   <i>Day Suites hallway</i>
 </div>
 <div class="mySlides28">
   <div class="numbertext">4 / 5</div>
-  <img src="/images/cpa_f_2023/IMG_4956.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4956.JPEG" style="width:100%">
   <i>Day Suites</i>
 </div>
 <div class="mySlides28">
   <div class="numbertext">5 / 5</div>
-  <img src="/images/cpa_f_2023/IMG_4957.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4957.JPEG" style="width:100%">
   <i>Day Suites</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,28)">❮</a>
@@ -980,27 +973,27 @@ The Pier also offered a complimentary massage service in partnership with THIA W
 <div class="slideshow-container">
 <div class="mySlides29">
   <div class="numbertext">1 / 5</div>
-  <img src="/images/cpa_f_2023/IMG_4980.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4980.JPEG" style="width:100%">
   <i>Cabanas hallway</i>
 </div>
 <div class="mySlides29">
   <div class="numbertext">2 / 5</div>
-  <img src="/images/cpa_f_2023/IMG_4975.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4975.JPEG" style="width:100%">
   <i>Shower and bathtub</i>
 </div>
 <div class="mySlides29">
   <div class="numbertext">3 / 5</div>
-  <img src="/images/cpa_f_2023/IMG_4976.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4976.JPEG" style="width:100%">
   <i>Daybed</i>
 </div>
 <div class="mySlides29">
   <div class="numbertext">4 / 5</div>
-  <img src="/images/cpa_f_2023/IMG_4977.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4977.JPEG" style="width:100%">
   <i>Vanity</i>
 </div>
 <div class="mySlides29">
   <div class="numbertext">5 / 5</div>
-  <img src="/images/cpa_f_2023/IMG_4979.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4979.JPEG" style="width:100%">
   <i>Sink</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,29)">❮</a>
@@ -1013,27 +1006,27 @@ I headed back to the Wing to check out the Cabanas, each featuring a full-size b
 <div class="slideshow-container">
 <div class="mySlides30">
   <div class="numbertext">1 / 5</div>
-  <img src="/images/cpa_f_2023/IMG_4983.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4983.JPEG" style="width:100%">
   <i>Appetizer buffet</i>
 </div>
 <div class="mySlides30">
   <div class="numbertext">2 / 5</div>
-  <img src="/images/cpa_f_2023/IMG_4984.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4984.JPEG" style="width:100%">
   <i>Beef chow fun</i>
 </div>
 <div class="mySlides30">
   <div class="numbertext">3 / 5</div>
-  <img src="/images/cpa_f_2023/IMG_4988.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4988.JPEG" style="width:100%">
   <i>Steamed chicken</i>
 </div>
 <div class="mySlides30">
   <div class="numbertext">4 / 5</div>
-  <img src="/images/cpa_f_2023/IMG_4989.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4989.JPEG" style="width:100%">
   <i>Sweet and sour pork</i>
 </div>
 <div class="mySlides30">
   <div class="numbertext">5 / 5</div>
-  <img src="/images/cpa_f_2023/IMG_4982.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4982.JPEG" style="width:100%">
   <i>Dessert buffet</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,30)">❮</a>
@@ -1046,12 +1039,12 @@ I spent the next few hours in the lounge planespotting and planning my subsequen
 <div class="slideshow-container">
 <div class="mySlides31">
   <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4996.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4996.JPEG" style="width:100%">
   <i>B-LRE in the afternoon sun</i>
 </div>
 <div class="mySlides31">
   <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_4994.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_4994.JPEG" style="width:100%">
   <i>Boarding at gate 30</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,31)">❮</a>
@@ -1066,42 +1059,42 @@ I again made my way through the busy terminal, now with the afternoon sun fillin
 <div class="slideshow-container">
 <div class="mySlides32">
   <div class="numbertext">1 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_5001.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5001.JPEG" style="width:100%">
   <i>Main Business Class cabin </i>
 </div>
 <div class="mySlides32">
   <div class="numbertext">2 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_5003.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5003.JPEG" style="width:100%">
   <i>Mini Business Class cabin </i>
 </div>
 <div class="mySlides32">
   <div class="numbertext">3 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_5004.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5004.JPEG" style="width:100%">
   <i>Entertainment screen</i>
 </div>
 <div class="mySlides32">
   <div class="numbertext">4 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_5009.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5009.JPEG" style="width:100%">
   <i>Slippers, bedding, and padded surfaces</i>
 </div>
 <div class="mySlides32">
   <div class="numbertext">5 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_5010.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5010.JPEG" style="width:100%">
   <i>Side storage compartment</i>
 </div>
 <div class="mySlides32">
   <div class="numbertext">6 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_5007.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5007.JPEG" style="width:100%">
   <i>Seat and screen control</i>
 </div>
 <div class="mySlides32">
   <div class="numbertext">7 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_5006.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5006.JPEG" style="width:100%">
   <i>Shoulder-level storage compartment</i>
 </div>
 <div class="mySlides32">
   <div class="numbertext">8 / 8</div>
-  <img src="/images/cpa_f_2023/IMG_6982.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_6982.JPEG" style="width:100%">
   <i>Amenity kit</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,32)">❮</a>
@@ -1109,17 +1102,17 @@ I again made my way through the busy terminal, now with the afternoon sun fillin
 
 </div>
 \
-We boarded through the L1 door, and I passed through the main Business Class cabin before reaching my seat 20A in the mini-cabin behind the second door. This section contained only eight Business Class seats, which felt quite intimate. Cathay's Business Class seats on the A350 were introduced in 2016 in partnership with Studio F.A. Porsche. With plenty of storage space, a screen that swivels out from the casing, and extra padded surfaces that make for a larger surface when fully reclined, the seat makes for a comfortable space for long journeys. Seat controls were at the shoulder level along with a remote controller for the screen. Headphones, water, slippers, bedding, an amenity kit, and the [menu](/images/cpa_f_2023/731_J_menu.pdf) were waiting at the seat as we boarded.
+We boarded through the L1 door, and I passed through the main Business Class cabin before reaching my seat 20A in the mini-cabin behind the second door. This section contained only eight Business Class seats, which felt quite intimate. Cathay's Business Class seats on the A350 were introduced in 2016 in partnership with Studio F.A. Porsche. With plenty of storage space, a screen that swivels out from the casing, and extra padded surfaces that make for a larger surface when fully reclined, the seat makes for a comfortable space for long journeys. Seat controls were at the shoulder level along with a remote controller for the screen. Headphones, water, slippers, bedding, an amenity kit, and the [menu](/images/sva_j_2024/731_J_menu.pdf) were waiting at the seat as we boarded.
 
 <div class="slideshow-container">
 <div class="mySlides33">
   <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_5013.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5013.JPEG" style="width:100%">
   <i>Pre-departure Cathay Delight</i>
 </div>
 <div class="mySlides33">
   <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_5016.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5016.JPEG" style="width:100%">
   <i>Hot towel service</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,33)">❮</a>
@@ -1129,7 +1122,7 @@ We boarded through the L1 door, and I passed through the main Business Class cab
 \
 The flight attendants came through the cabin with beverages and hot towels as I settled in. They also confirmed my online pre-order for dinner and took orders for the appetizer course. I was still quite full from the lounge and tired due to the time difference, so I hoped to go straight to sleep after takeoff and asked to have the dinner later during the flight, which they were happy to do. 
 
-![panel](/images/cpa_f_2023/IMG_5015.JPEG)
+![panel](/images/sva_j_2024/IMG_5015.JPEG)
 *Wall panel with brushwing*
 
 My seat was right beside the wall panel with a large illuminated brushwing, appearing like a graceful bird flying through the cabin and across the world. 
@@ -1137,12 +1130,12 @@ My seat was right beside the wall panel with a large illuminated brushwing, appe
 <div class="slideshow-container">
 <div class="mySlides34">
   <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_5017.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5017.JPEG" style="width:100%">
   <i>Pushback</i>
 </div>
 <div class="mySlides34">
   <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_5018.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5018.JPEG" style="width:100%">
   <i>Tail camera</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,34)">❮</a>
@@ -1152,12 +1145,12 @@ My seat was right beside the wall panel with a large illuminated brushwing, appe
 \
 We pushed back about half an hour past our scheduled departure departure time with the sky bridge still in view. The tail camera on the entertainment system is always a joy to follow, although I promptly fell asleep before we reached runway 25L for departure. 
 
-![beef_appetizer](/images/cpa_f_2023/IMG_5023.JPEG)
+![beef_appetizer](/images/sva_j_2024/IMG_5023.JPEG)
 *Thai beef salad appetizer*  
 
 I woke up about halfway through the seven-hour flight, and the night had already fallen. I asked to have the dinner service, and the crew came to set my table a few minutes later. Since I was the only one dining at the time, the crew brought each course on a tray promptly throughout the service. I started with the Thai beef salad, and its zingy lime flavours did well to wake me from my slumber. The appetizer was served with some warm and soft garlic bread. 
 
-![main_lobster](/images/cpa_f_2023/IMG_5024.JPEG)
+![main_lobster](/images/sva_j_2024/IMG_5024.JPEG)
 *Wok-fried seafood in lobster broth*  
 
 Next came the main course of wok-fried seafood in lobster broth with rice. This is one of Cathay's classic Business Class dishes, and the oceanic flavours came through well with the rich broth. The combination of crispy rice with steamed rice made every bite an adventure in the brittleness of the grains. I asked for the Burgundy wine to go along, and its vivacious profile was a nice pairing for the dish. 
@@ -1165,12 +1158,12 @@ Next came the main course of wok-fried seafood in lobster broth with rice. This 
 <div class="slideshow-container">
 <div class="mySlides35">
   <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_5025.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5025.JPEG" style="width:100%">
   <i>Cheese course</i>
 </div>
 <div class="mySlides35">
   <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_5026.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5026.JPEG" style="width:100%">
   <i>Mango sticky rice dessert</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,35)">❮</a>
@@ -1183,12 +1176,12 @@ Next came the cheese course of Tomme, cheddar, and Bleu d'Auvergne, followed by 
 <div class="slideshow-container">
 <div class="mySlides36">
   <div class="numbertext">1 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_5020.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5020.JPEG" style="width:100%">
   <i>Lavatory sink</i>
 </div>
 <div class="mySlides36">
   <div class="numbertext">2 / 2</div>
-  <img src="/images/cpa_f_2023/IMG_5021.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5021.JPEG" style="width:100%">
   <i>Lavatory amenities</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,36)">❮</a>
@@ -1200,7 +1193,7 @@ I did some work for the next hour or so and got up to visit the lavatory. This w
 
 I spent some time in the galley chatting with the inflight service manager, a thirty-year veteran with Cathay Pacific. It was fascinating to hear his perspective on how the airline has evolved over the years, from the Lockheed Tristars to the Boeing 747s to the Airbus A350s of today. He was also very honest with his concerns regarding the current state and direction of the company, and I appreciated hearing a frontline perspective of the challenges that the airline is facing in the arduous recovery from the pandemic. 
 
-![light_dinner](/images/cpa_f_2023/IMG_5028.JPEG)
+![light_dinner](/images/sva_j_2024/IMG_5028.JPEG)
 *Light dinner service, chicken egg noodles, Banoffee pie, fruits* 
 
 With a little over an hour to go in the flight, the second meal service began, with all the dishes served on one tray. I again chose the Chinese option of egg noodles with chicken and mushrooms, which came with some fresh fruits and a banana cream pie. This was a light but hearty meal, and I appreciated the chance to enjoy some more Hong Kong flavours from its home carrier. 
@@ -1208,22 +1201,22 @@ With a little over an hour to go in the flight, the second meal service began, w
 <div class="slideshow-container">
 <div class="mySlides37">
   <div class="numbertext">1 / 4</div>
-  <img src="/images/cpa_f_2023/IMG_5030.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5030.JPEG" style="width:100%">
   <i>Flight route map</i>
 </div>
 <div class="mySlides37">
   <div class="numbertext">2 / 4</div>
-  <img src="/images/cpa_f_2023/IMG_5032.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5032.JPEG" style="width:100%">
   <i>Approach views</i>
 </div>
 <div class="mySlides37">
   <div class="numbertext">3 / 4</div>
-  <img src="/images/cpa_f_2023/IMG_5037.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5037.JPEG" style="width:100%">
   <i>Approach views: Burj Khalifa</i>
 </div>
 <div class="mySlides37">
   <div class="numbertext">4 / 4</div>
-  <img src="/images/cpa_f_2023/IMG_5050.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5050.JPEG" style="width:100%">
   <i>Approach views</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,37)">❮</a>
@@ -1236,17 +1229,17 @@ The crew cleaned up the meal service items and prepared the cabin for arrival as
 <div class="slideshow-container">
 <div class="mySlides38">
   <div class="numbertext">1 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_5059.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5059.JPEG" style="width:100%">
   <i>Landing at Dubai</i>
 </div>
 <div class="mySlides38">
   <div class="numbertext">2 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_5064.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5064.JPEG" style="width:100%">
   <i>Taxi: Mahan Air A340</i>
 </div>
 <div class="mySlides38">
   <div class="numbertext">3 / 3</div>
-  <img src="/images/cpa_f_2023/IMG_5067.JPEG" style="width:100%">
+  <img src="/images/sva_j_2024/IMG_5067.JPEG" style="width:100%">
   <i>Parking at terminal</i>
 </div>
 <a class="prev" onclick="plusSlides(-1,38)">❮</a>

@@ -11,6 +11,8 @@ excerpt: "ANA First Class Tokyo Narita-San Francisco"
 date: "2023-04-02"
 toc: true
 last_modified_at: "2024-01-13"
+header:
+  teaser: /images/ana_f_2023/IMG_3807.JPEG
 
 
 ---
