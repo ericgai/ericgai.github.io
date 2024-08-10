@@ -11,6 +11,8 @@ excerpt: "Cathay Pacific First Class Los Angeles-Hong Kong, and onward to Dubai"
 date: "2023-08-14"
 toc: true
 last_modified_at: "2024-01-15" 
+header:
+  teaser: /images/cpa_f_2023/IMG_4996.JPEG
 
 
 ---
@@ -38,7 +40,7 @@ Seat: 20A (Business)
 
 
 ##### Booking
-Cathay Pacific has so far (as of September 2023) brought back its highly regarded First Class service to its London, Paris, Los Angeles, Beijing, and Tokyo routes. I booked this flight using 70,000 Alaska Airlines miles and $49.40 in fees. 
+Cathay Pacific has so far (as of September 2023) brought back its highly regarded First Class service to its London, Paris, Los Angeles, Beijing, and Tokyo routes. I booked this flight using 70,000 Alaska Airlines miles and $49.40 in fees.
 
 Award availability for Cathay Pacific is quite rare these days. A few seats for the Los Angeles route were released in February, and I quickly booked one for a date that might work. While I would have preferred planning things out a little more beforehand, I decided to act quickly to secure these seats, which were booked out in less than two days. 
 

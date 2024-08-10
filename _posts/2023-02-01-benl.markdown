@@ -8,6 +8,8 @@ categories:
   - Destinations
 title: "Highlights from the Low Countries"
 excerpt: "A very happy holidays in Belgium and the Netherlands"
+header:
+  teaser: /images/BENL_trip/IMG_1578.jpeg
 ---
 
 I spent two and a half weeks in Belgium and the Netherlands over the holidays at the end of 2022. This region is historically known as the Low Countries due to their low elevation, and this is precisely the meaning of "Nederland," the name of the Netherlands in Dutch. The two countries were once part of one kingdom, eventually splitting on religious lines, with Protestantism dominating in the North (the Netherlands) and Catholicism in the South (Belgium). I had just finished my first semester of grad school, which was preceded by my time with the freedom of flight benefits at Air Canada. I was therefore quite excited to get away for a little bit! Here are some highlights from my trip.
