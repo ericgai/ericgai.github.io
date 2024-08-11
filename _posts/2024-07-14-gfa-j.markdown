@@ -12,19 +12,19 @@ date: "2024-05-28"
 toc: true
 last_modified_at: "2024-08-10" 
 header:
-  teaser: \images\gfa_j_2024\IMG_0623.JPEG
+  teaser: /images/gfa_j_2024/IMG_0623.JPEG
 
 ---
 
-Back in October 2023, Bahrain's national carrier Gulf Air annouced plans to add routes to the Chinese cities of Shanghai and Guanghzou. While the initial annoucement anticipated the routes launching in January 2024, the date of the first flight ended up delayed to May 2024. As I was making a quick trip to China around this time, I was very happy to score a seat on the inaugural flight in the Falcon Gold cabin, Gulf Air's business class product, as part of a ticket connecting Boston-Montréal-Zürich-Milano-Bahrain-Shanghai, operated by Air Canada, Swiss Air Lines, Ethiopian Airlines, and finally Gulf Air for the last two legs.   
+Back in October 2023, Bahrain's national carrier Gulf Air announced plans to add routes to the Chinese cities of Shanghai and Guangzhou. While the initial announcement anticipated the routes launching in January 2024, a slight delay pushed the date of the first flight to May 2024. As I happened to be making a quick trip to China around this time, I was thrilled to score a seat on the inaugural flight in the Falcon Gold cabin, Gulf Air's business class product, as part of a ticket connecting Boston-Montréal-Zürich-Milano-Bahrain-Shanghai, operated by Air Canada, Swiss Air Lines, Ethiopian Airlines, and finally Gulf Air for the last two legs.   
 
-While aviation in the Middle East is dominated by the likes of Emirates and Qatar Airways, Gulf Air claims the title of the oldest airline in the region, founded in 1950 as a collaboration between the governments of Bahrain, Oman, Qatar and the United Arab Emirates. However, one by one, the latter three countries withdrew from the partnership to focus on their own national airline, leaving Bahrain with full ownership of a Gulf Air sustaining heavy losses and shrinking in stature. Gulf Air began a path of restructuring and has recently emerged as a growing carrier in much better financial shape, with Shanghai being just one of many destinations being added to the network this summer. I was very excited to witness this noteworthy step forward for the airline, and it was surely a joy joining in this celebration with everyone along the way. 
+While today's aviation market in the Middle East is dominated by the likes of Emirates and Qatar Airways, Gulf Air holds the distinction of being the oldest airline in the region, founded in 1950 as a collaboration between the governments of Bahrain, Oman, Qatar, and the United Arab Emirates. However, one by one, the latter three countries withdrew from the partnership to focus on their own national airline, leaving Bahrain with full ownership of a Gulf Air shrinking in stature and sustaining heavy losses. Gulf Air embarked on a path of restructuring and has recently emerged as a fast-growing carrier in much better financial shape, with Shanghai being just one of many destinations being added to the network this summer. I was delighted to be a part of this noteworthy step forward for the airline, and it was surely a joy joining in this celebration with everyone along the way. 
 
 ##### Flight Details
 Gulf Air (GFA/GF) Flight 26    
 Origin: Milan Malpensa, MXP   
 Departure: 10:28, 27 May 2024 (UTC+2)   
-Intermediate stop: Rome Fiumicino, FCO
+Intermediate stop: Rome Fiumicino, FCO  
 Destination: Bahrain International, BAH   
 Arrival: 18:25, 27 May 2024 (UTC+3)   
 Duration: 06:57 hours   
@@ -34,14 +34,14 @@ Seat: 3F (Business)
 Gulf Air (GFA/GF) Flight 124  
 Origin: Bahrain International, BAH  
 Departure: 21:36, 28 May 2024 (UTC+3)  
-Destination: Shanghai Pudong, PVG 
+Destination: Shanghai Pudong, PVG  
 Arrival: 11:17, 29 May 2023 (UTC+8)  
 Duration: 08:41 hours  
 Aircraft: A9C-FG, Boeing 787-9, delivered October 2019  
 Seat: 1A (Business)  
 
 ##### Booking
-Gulf Air has a frequent flyer partnership with Air Canada and its Aeroplan program, which prices its awards by region and distance. Redeeming 87,500 points for itineraries in business class from North America to Asia covering 7,501 to 11,000 miles presents some interesting possibilities. This overall itinerary of BOS-YUL-ZRH-MXP-BAH-PVG cost a total of 92,500 Aeroplan points and CA$103 in taxes and fees (my 27-hour stay in Bahrain triggered a 5,000 point stopover charge). I earned these points through a combination of credit card sign up bonuses, some flights that I credited to Aeroplan, as well as a conversion of my balance of Shine Points, Air Canada's employee recognition program, from back in the days when I worked on the ramp. 
+Gulf Air has a frequent flyer partnership with Air Canada and its Aeroplan program, which prices its awards by region and distance. Redeeming 87,500 points for itineraries in business class from North America to Asia covering 7,501 to 11,000 miles presents some interesting possibilities. This overall itinerary from Boston to Shanghai cost 92,500 Aeroplan points and CA$103 in taxes and fees (my 27-hour stay in Bahrain triggered a 5,000 point stopover charge). I earned these points through a combination of credit card sign-up bonuses, some flights that I credited to Aeroplan, as well as a conversion of my balance of Shine Points, Air Canada's employee recognition program, from back in the days when I worked on the ramp. 
 
 ##### Milan Departure Ground Experience
 
@@ -65,7 +65,7 @@ Gulf Air has a frequent flyer partnership with Air Canada and its Aeroplan progr
 </div>
 
 \
-I flew to Milano the previous night on Ethiopian Airlines' fifth freedom flight from Zürich. As the aircraft and most passengers continues onto Addis Ababa, I had already cleared Schengen border control on departure, so I spent the night in the international departures zone of Malpensa airport. Few flights were operating in the late evening, and I spent some time walking around the quiet terminal. Malpensa has struggled in Italy's difficult aviation market, having seen little growth in passenger numbers since the start of the century. Italy's national carrier Alitalia connected this airport to many destinations around the world before it moved the bulk of its operations to Roma, and the last decade saw Air Italy's failed attempt to run an intercontinental hub operation here. Fortunately, Malpensa has been able to partially maintain its connectivity and its status as the second busiest airport in Italy with service on foreign carriers.  
+I flew to Milano the previous night on Ethiopian Airlines' fifth freedom flight from Zürich, where I received my boarding pass for the flight from Milano to Bahrain. As the aircraft and most passengers continued onto Addis Ababa, I had already cleared Schengen border control on departure, so I spent the night in the international departures zone of Malpensa airport. Few flights were operating in the late evening, and I spent some time walking around the quiet terminal. Malpensa has struggled in Italy's difficult aviation market, having seen little growth in passenger numbers since the start of the century. Italy's national carrier Alitalia connected this airport to many global destinations before it moved the bulk of its operations to Roma, and the last decade saw Air Italy's failed attempt to run an intercontinental hub operation here. Fortunately, Malpensa has been able to partially maintain its connectivity and its status as the second busiest airport in Italy with service on foreign carriers.  
 
 <div class="slideshow-container"> 
 
@@ -133,7 +133,7 @@ SEA Group, which manages Milano's two airports, operates several lounges at Malp
 </div>
 
 \
-As one passes the reception desk, there are a few lounge chairs on the left and a bar area on the right, which remained unstaffed throughout my stay. Further along is a buffet, and additional seating areas against the window. There were several other passengers in the lounge as it opened, but as Turkish Airlines' flight to Istanbul left at 0650, I had the entire lounge to myself for the next two hours or so, giving me plenty of space to sit back. The windows offered an expansive view of the ramp, and I enjoyed watching the early morning movements marking the beginning of another day at this airport. 
+As one passes the reception desk, there are a few lounge chairs on the left and a bar area on the right, which remained unstaffed throughout my stay. Further along is a buffet and additional seating areas against the window. There were several other passengers in the lounge as it opened, but as Turkish Airlines' flight to Istanbul left at 0650, I had the entire lounge to myself for the next two hours or so, giving me plenty of space to sit back. The windows offered an expansive view of the ramp, and I enjoyed watching the early morning movements marking the beginning of another day at this airport. 
 
 <div class="slideshow-container"> 
 
@@ -185,7 +185,7 @@ As one passes the reception desk, there are a few lounge chairs on the left and 
 </div>
 
 \
-Hot dishes would not be served at the buffet until 0900, and unfortunately I had to leave before that to board my flight, so I did not get to see what was available. Before then, there was a variety of cold items on offer, including some small sandwiches, cakes, pastries, fruits, and yoghurt. The showers happened to not be open at the time I visited. The reception agent noted that shower use was not included with lounge access in any case, and there would be a 18EUR charge to use them normally. I found this somewhat disappointing for a lounge marketed as the premium option. Overall, I found the lounge comfortable and spacious, although I wouldn't go out of my way to spend time here. 
+Hot dishes would not be served at the buffet until 0900, and unfortunately I had to leave before that to board my flight, so I did not get to see what was available. Until then, there was a variety of cold items on offer, including some small sandwiches, cakes, pastries, fruits, and yoghurt. The showers happened to not be open at the time I visited. The reception agent noted that shower use was not included with lounge access in any case, and normally there would be an 18EUR charge to use them. I found this somewhat disappointing for a lounge marketed as the premium option. Overall, the lounge was comfortable and spacious, although I wouldn't go out of my way to spend time here. 
 
 <div class="slideshow-container"> 
 
@@ -213,7 +213,7 @@ Hot dishes would not be served at the buffet until 0900, and unfortunately I had
 </div>
 
 \
-I left the lounge for the gate about an hour before our scheduled departure. Aircrafts parked at the terminal around that time included a Delta A330 to New York, a Cathay Pacific Boeing 777 to Hong Kong, and a Singapore Airlines Airbus A350 with the fifth freedom service to Barcelona, which made for some nice views. 
+I left the lounge for the gate about an hour before our scheduled departure. Aircrafts parked at the terminal around that time included a Delta A330 to New York, a Cathay Pacific Boeing 777 to Hong Kong, and a Singapore Airlines Airbus A350 flying the fifth freedom service to Barcelona, which made for some nice views. 
 
 <div class="slideshow-container">
 
@@ -253,7 +253,7 @@ I left the lounge for the gate about an hour before our scheduled departure. Air
 </div>
 
 \
-Four days a week, the morning service from Milano to Bahrain operates via Roma, where additional passengers board for the journey toward the Gulf. Boarding began with a bit of a delay around 0935, and perhaps since this first leg of the flight was quite empty, all passengers were invited to board at the same time. The position of gate B50 allowed me to only catch a glimpse of the golden falcon tail from the terminal, but as usual, I was very excited making my way down the jet bridge to experience my journey with Gulf Air. 
+Four days a week, the morning service from Milano to Bahrain operates via Roma, where additional passengers board for the journey toward the Gulf. Boarding began with a bit of a delay around 0935, and perhaps since this first leg of the flight was quite empty, all passengers were invited to board at the same time. The position of gate B50 allowed me to only catch a glimpse of the Golden Falcon tail, Gulf Air's iconic logo. As usual, I was very excited making my way down the jet bridge to experience my journey with Gulf Air. 
 
 ![qr_headstart](\images\gfa_j_2024\IMG_0398.JPEG)
 *Qatar Airways A350 pushing back to Doha*
@@ -267,7 +267,7 @@ We were held on the jet bridge for a few minutes, during which a Qatar Airways A
 <div class="mySlides7">
   <div class="numbertext">1 / 3</div>
   <img src="/images/gfa_j_2024/IMG_0400.JPEG" style="width:100%">
-  <i>Boarding through L1 door</i>
+  <i>Boarding through the L1 door</i>
 </div>
 
 <div class="mySlides7">
@@ -288,7 +288,7 @@ We were held on the jet bridge for a few minutes, during which a Qatar Airways A
 </div>
 
 \
-We were invited to board through the forward door after a brief delay, and the crew was there to greet us as we made our way onto the young A321neo. The front of the cabin features four rows of business class seats in a 2-2 configuration. The cabin finishes were luxurious but not gaudy, mostly making use of shades of black and grey with touches of metallic gold. 
+We were invited to board through the forward door after a brief delay, and the crew greeted us as we made our way onto the young A321neo. The front of the cabin features four rows of business class seats in a 2-2 configuration. The cabin finishes were luxurious but not gaudy, mostly making use of shades of black and grey with touches of metallic gold. 
 
 <div class="slideshow-container">
 
@@ -352,7 +352,7 @@ We were invited to board through the forward door after a brief delay, and the c
 </div>
 
 \
-I settled into my window seat on the right side of the aisle, with A pillow and blanket set at the seat. The seat is a rendition of the popular Collins Aerospace Diamond product, with rather modern finishes fitting for this relatively new jet. The center console featured the literature pocket, seat controls, and USB and AC charging ports. There was also a touch screen controller for the 17-inch screen in front, and there was the option to operate the entertainment system using the screen itself as well. There was some shelving below the screen and an ottoman space for storage. A retractable armrest was on the other side of the seat, with usb ports, a lamp, and additional seat controls at shoulder level. The tray table slides out of the center console, and can be deployed either in a smaller folded configuration or as a full table. An adjustable panel served as a device holder. There was also a privacy divider that could be raised between the seats. All together, this was a functional and comfortable seat for these medium haul narrowbody flights. 
+I settled into my window seat on the right side of the aisle, with a pillow and blanket set at the seat. The seat is a rendition of the popular Collins Aerospace Diamond product, with rather modern finishes fitting for this relatively new jet. The centre console featured the literature pocket, seat controls, and USB and AC charging ports. There was also a touchscreen controller for the 17-inch screen in front, and there was the option to operate the entertainment system using the screen itself as well. There was some shelving below the screen and an ottoman space for storage. A retractable armrest was on the other side of the seat, with USB ports, a lamp, and additional seat controls at shoulder level. The tray table slides out of the centre console and can be deployed either in a smaller folded configuration or as a full table. An adjustable panel served as a device holder. There was also a privacy divider that could be raised between the seats. All together, this was a functional and comfortable seat for these medium-haul narrowbody flights. 
 
 
 <div class="slideshow-container">
@@ -393,7 +393,7 @@ I settled into my window seat on the right side of the aisle, with A pillow and 
 </div>
 
 \
-The ground service began with a welcome drink, with a choice between orange juice and a specialty lemonade with mint. I chose the latter option, which was a refreshing start to the journey. Another flight attendant then came around with scented towels, with a choice of either hot or cold. I was also asked if I would like to have some champagne, and I enjoyed the its drier flavour along with the sweet lemonade. The crew then came to offer Arabic dates and coffee, a traditional service element that Gulf Air embraces like many of its peers in the region. This made for quite an elaborate pre-departure service and an excellent start to the journey. 
+The ground service began with a welcome drink, with a choice between orange juice and a specialty lemonade with mint. I chose the latter option, which was a refreshing start to the journey. Another flight attendant then came around with scented towels, with a choice of either hot or cold. I was also asked if I would like to have some champagne, and I enjoyed its drier flavour along with the sweet lemonade. The crew then came to offer Arabic dates and coffee, an Arabic tradition for welcoming guests. This made for quite an elaborate pre-departure service and an excellent start to the journey. 
 
 <div class="slideshow-container">
 
@@ -461,7 +461,7 @@ Boarding was complete in just a few minutes, and the traditional Islamic travel 
 </div>
 
 \
-Our short taxi took us past the terminal and aircrafts from many carriers, European and beyond. 
+Our short taxi took us past the terminal and aircraft from many carriers, European and beyond. 
 
 
 <div class="slideshow-container">
@@ -495,7 +495,7 @@ Soon, we took off toward the North and turned South, with views of Milano sprawl
 ![refreshment](\images\gfa_j_2024\IMG_0455.JPEG)
 *Sandwiches and cannoli*
 
-Due to the short duration of the hop to Roma, there was only a light meal served. The flight attendant came by and offered a variety of small sandwiches, with a choice between tomato, aubergine, salmon, or roast beef. There was also a choice of sweet bites between a cupcake and a cannoli. I asked for the roast beef and the cannoli, and I also had some sparkling water to go along. These bites were simple but enjoyable, and I thought this was a solid offering for the short flight. 
+Due to the short duration of the hop to Roma, only a light meal was served. The flight attendant came by and offered a variety of small sandwiches, with a choice between tomato, aubergine, salmon, or roast beef. There was also a choice of sweet bites between a cupcake and a cannoli. I asked for the roast beef, the cannoli, and some sparkling water to go along. These bites were simple but enjoyable, and I thought this was a solid offering for the short flight. 
 
 <div class="slideshow-container">
 
@@ -535,7 +535,7 @@ Due to the short duration of the hop to Roma, there was only a light meal served
 </div>
 
 \
-There was one lavartory toward the front for Falcon Gold passengers, stocked with a diffuser and a specially blended lotion.The cabin crew came by to hand out a simple amenity kit consisting of an eye-mask and socks, a sufficient offering for the journey.
+There was one lavatory toward the front for Falcon Gold passengers, stocked with a diffuser and a specially blended lotion. The cabin crew came by to hand out a simple amenity kit consisting of an eye mask and socks, a sufficient offering for the journey.
 
 <div class="slideshow-container">
 
@@ -569,7 +569,7 @@ There was one lavartory toward the front for Falcon Gold passengers, stocked wit
 </div>
 
 \
-Our route to Roma took us along the Western Italian coast along the Mediterranean Sea. With the sunlight glistening on the turqoise water and beaming on the long streches of sand, Italy's charm as a beach destination struck me like never before. This was also my first time paying close attention to the rugged coastline of the Italian peninsula. Monte Argentario, a small peninsula sandwiching a lagoon with the mainland, was quite distinctive. 
+Our route to Roma took us along the Western Italian coast along the Mediterranean Sea. With the sunlight glistening on the turquoise water and beaming on the long stretches of sand, Italy's charm as a beach destination struck me like never before. This was also my first time paying close attention to the rugged coastline of the Italian peninsula. Monte Argentario, a small peninsula sandwiching a lagoon with the mainland, was a distinctive feature. 
 
 <div class="slideshow-container">
 
@@ -602,7 +602,7 @@ Our route to Roma took us along the Western Italian coast along the Mediterranea
 
 </div>
 
-Soon we began to make our way inland as we approached the hilly terrain of the central peninsula, touching down at Roma's Fiumincino airport after less than an hour in the air. The blue-bodied planes marked the hub for ITA Airways, the rebranded flag carrier Alitalia. 
+Soon we began to make our way inland as we approached the hilly terrain of the central peninsula, touching down at Roma's Fiumicino airport after less than an hour in the air. The blue-bodied planes marked the hub for ITA Airways, the rebranded flag carrier Alitalia. 
 
 ![321_eco](\images\gfa_j_2024\IMG_0497.JPEG)
 *A321 Economy cabin*
@@ -629,7 +629,7 @@ Passengers from Milano were asked to remain in the cabin while the crew prepared
 </div>
 
 \
-After about ten minutes on the ground, boarding began for the onward journey to Bahrain. Many passengers boarded in Roma, and the plane quickly became full except for a few seats. The crew came again with the pre-departure offerings of lemonade, champagne, coffee, and dates, while also handing out a noise cancelling headphone for each passenger. 
+After about ten minutes on the ground, boarding began for the onward journey to Bahrain. Many passengers boarded in Roma, and the plane quickly became full except for a few seats. The crew came again with the pre-departure offerings of lemonade, champagne, coffee, and dates, while also handing out a noise-cancelling headphones for each passenger. 
 
 <div class="slideshow-container">
 
@@ -663,7 +663,7 @@ After about ten minutes on the ground, boarding began for the onward journey to 
 </div>
 
 \
-Boarding was completed shortly and we were ready for pushback again after about an hour on the ground, a fairly efficient turn. The safety video was screen again and we taxiied past the terminal toward the runway. 
+Boarding was completed shortly and we were ready for pushback again after about an hour on the ground, a fairly efficient turn. The safety video was shown again and we taxiied past the terminal toward the runway. 
 
 <div class="slideshow-container">
 
@@ -691,12 +691,12 @@ Boarding was completed shortly and we were ready for pushback again after about 
 </div>
 
 \
-We took off westward with closer-up views of the beaches and Mediterranean sea as we climbed out of Roma. Soon the Italian peninsula was no longer in sight as we made our way above the clouds. 
+We took off westward with closer-up views of the beaches and the Mediterranean Sea as we climbed out of Roma. Soon the Italian peninsula was no longer in sight as we made our way above the clouds. 
 
 ![docu](\images\gfa_j_2024\IMG_0535.JPEG)
 *Entertainment system programming*
 
-The crew came around to distribute menus for the flight after takeoff, which was provided in English and Arabic. While the standard procedure was to collect the menus shortly after when orders were taken, the crew was happy to allow me to hold on to my copy. I browsed the entertainment system, which included a solid selection of movies and TV shows, and decided to watch a documentary about Pope Francis' historical visit to Bahrain. 
+The crew came around to distribute [menus](/images/gfa_j_2024/026_J_menu.pdf) for the flight after takeoff, which were provided in English and Arabic. While the standard procedure was to collect the menus shortly after when orders were taken, the crew was happy to allow me to hold onto my copy. I browsed the entertainment system, which included a solid selection of movies and TV shows, and decided to watch a documentary about Pope Francis' historical visit to Bahrain back in 2023. 
 
 <div class="slideshow-container">
 
@@ -718,12 +718,12 @@ The crew came around to distribute menus for the flight after takeoff, which was
 </div>
 
 \
-The appetizer was served approximately 40 minutes after takeoff, and as usual, I went with the local option of the Arabic Mezza, consisting of hummus (a chickpea sauce), sarma (stuff grape leaf), mutabal (a roasted eggplant dip), labneh (yoghurt cheese) balls, and fattoush salad. The crew also came with bread baskets from which passengers could choose what they wanted. They were out of Pita bread by the time they reached my seat, but I enjoyed some garlic bread and focaccia. 
+The appetizer was served approximately 40 minutes after takeoff, and as usual, I went with the local option of the Arabic Mezza, consisting of hummus (a chickpea sauce), sarma (stuffed grape leaf), mutabal (a roasted eggplant dip), labneh (yoghurt cheese) balls, and fattoush salad. The crew also came with bread baskets from which passengers could choose what they wanted. They were out of Pita bread by the time they reached my seat, but I enjoyed some garlic bread and focaccia. 
 
 ![main_gf26](\images\gfa_j_2024\IMG_0531.JPEG)
 *Veal osso buco main course* 
 
-While I was hoping to enjoy some Middle Eastern cuisine for the main course, it was unfortunately not offered on the menu, probably in part due to the fact that the flight was catered in Italy. This meant that there were some Italian dishes available though, and I enjoyed the braised veal shanks, osso buco style but without the bone. The gremolata sauce was buried in the jus, but the tomato and parsley flavours came through nonetheless. The meat itself was quite tender and flavourful, and the carrots and mashed potatoes were solid accompaniments for the dish. 
+While I was hoping to enjoy some Middle Eastern cuisine for the main course, it was unfortunately not offered on the menu, probably in part due to the fact that the flight was catered in Italy. This meant that there were some Italian dishes available though, and I enjoyed the braised veal shanks, osso buco style but without the bone. The gremolata sauce was buried in the jus, but the tomato and parsley flavours stood out distinctly. The meat itself was quite tender and flavourful, and the carrots and mashed potatoes were nice accompaniments for the dish. 
 
 <div class="slideshow-container">
 
@@ -747,15 +747,15 @@ While I was hoping to enjoy some Middle Eastern cuisine for the main course, it 
 \
 After the plates were collected from the main course, the crew rolled out a dessert cart, where the choices included fruit, cheeses, a raspberry cheesecake, a chocolate cake, or a lemon meringue cake. I asked for the lemon cake and some black tea to go along. The meringue topping was light and fluffy, and the lemon base was tangy and refreshing, although a little sweet for my liking. 
 
-![flight_map](\images\gfa_j_2024\IMG_0531.JPEG)
+![flight_map](\images\gfa_j_2024\IMG_0537.JPEG)
 *Flight progress over the Mediterranean*
 
-We continued making our way across the Mediterranean while I laid down and slept for about an hour. I then stopped by the galley and had a nice chat with the purser Rashid, a Bahraini local and a 34-year veteran of the airline. He was very excited that I was visiting Bahrain and was eager to tell me about his country. We also chatted about his favorite destinations to fly to, and he also shared that he thought Athens and Istanbul have the best outstation catering. He certainly takes great joy in his job, though he also admitted that Gulf Air's network has seen better days. 
+We continued making our way across the Mediterranean while I laid down and slept for about an hour. I then stopped by the galley and had a nice chat with the purser Rashid, a Bahraini local and a 34-year veteran of the airline. He was very excited that I was visiting Bahrain and was eager to tell me about his country. We also chatted about his favorite destinations to fly to, and he remarked that Athens and Istanbul have the best outstation catering. He certainly takes great joy in his job, though he also admitted that Gulf Air's network has seen better days. 
 
 ![pre_landing_gf026](\images\gfa_j_2024\IMG_0540.JPEG)
 *Pre-landing refreshments* 
 
-With an hour left in the flight, the crew offered some refreshments before landing, which happened to be the same ones that were offered on the flight from Milan. I asked for the salmon and aubergine sandwiches, which were again simple but nice. I also asked if there were any leftover desserts from the meal service, and the crew offered the chocolate cake, which was hearty and tasteful. 
+With an hour left in the flight, the crew offered some refreshments before landing, which happened to be the same choices as the flight from Milan. I asked for the salmon and aubergine sandwiches. I also asked if there were any leftover desserts from the meal service, and the crew offered the chocolate cake, which was hearty and tasteful. 
 
 <div class="slideshow-container">
 
@@ -885,7 +885,7 @@ I met up with some friends I had met in Riyadh earlier in the year. Originally f
 ![manama_bab](\images\gfa_j_2024\IMG_0588.JPEG)
 *Bab al Bahrain*
 
-I stayed near the old city centre of the capital Manama, which is now an area sprinkled with small shops and restaurants, and spent some time walking around in the morning. The Bab al Bahrain stands as an imposing entry to the souq, the Arabic word for the street markets.
+I stayed near the old city centre of the capital Manama, now an area sprinkled with small shops and restaurants, and spent some time walking around in the morning. The Bab al Bahrain stands as an imposing entry to the souq, Arabic for the street markets.
 
 <div class="slideshow-container">
 
@@ -908,7 +908,7 @@ I stayed near the old city centre of the capital Manama, which is now an area sp
 
 
 \
-Further along the main road, one can have views of the Bahrain World Trade Centre, the triangular twin building with wind turbines revolving between and a defining feature of Bahrain's skyline today. The twin towers of the Bahrain Financial Harbour also stands prominently. 
+Further along the main road, the Bahrain World Trade Centre comes into sight. The triangular twin building with wind turbines revolving between is a defining feature of Bahrain's skyline today. The twin towers of the Bahrain Financial Harbour also stand prominently. 
 
 <div class="slideshow-container">
 
@@ -930,7 +930,7 @@ Further along the main road, one can have views of the Bahrain World Trade Centr
 </div>
 
 \
-The narrow streets of the city centre was also home to many of the migrant workers that make up a bulk of the labour force, as in the other Gulf countries. Little India is situated in this area, and I enjoyed some dosa for breakfast at a casual eatery. 
+The narrow streets of the city centre were also home to many of the migrant workers that make up a bulk of the labour force here, as in the other Gulf countries. Little India is situated in this area, and I enjoyed some dosa for breakfast at a casual eatery. 
 
 ![manama_mosque](\images\gfa_j_2024\IMG_0595.JPEG)
 *Al Khawaja mosque*
@@ -940,7 +940,7 @@ Dotting the densely occupied area were also many mosques, a mark of the religiou
 ![dragon_city](\images\gfa_j_2024\IMG_0599.JPEG)
 *Dragon city in Muharraq*
 
-I spent the rest of the day with my local friends, and I stopped by Dragon City, a recently completed mall with housing many small businesses. These shops are mostly Chinese owned and imports most of their products from China. My friends have made this place home over the years and built a social circle with other local Chinese, a testament to the vibrant expat communities in Bahrain. 
+I spent the rest of the day with my local friends, and I stopped by Dragon City, a recently completed mall housing many small businesses. These shops are mostly Chinese-owned and import their products from China. My friends have made this place home over the years and built a social circle with other local Chinese merchants, a testament to the vibrant expat communities in Bahrain. 
 
 ##### Bahrain Departure Ground Experience 
 
@@ -976,7 +976,7 @@ I spent the rest of the day with my local friends, and I stopped by Dragon City,
 </div>
 
 \
-My friends dropped me back off at the airport in the early evening, and I was beyond excited to experience Gulf Air's inaugural service to China. The newly renovated international airport of Bahrain is smaller in size than many of its peers in the region, but is overall a beautiful space. The check in hall was bright and open with white marble finishes. 
+My friends dropped me back off at the airport in the early evening, and I was looking forward to witness Gulf Air's inaugural service to China. Bahrain's airport is smaller in size than many of its peers in the region but no less visually appealing. The check-in hall was bright and open with white marble finishes. 
 
 <div class="slideshow-container">
 
@@ -1004,7 +1004,7 @@ My friends dropped me back off at the airport in the early evening, and I was be
 </div>
 
 \
-Falcon Gold customers on Gulf Air were directed to check in counters in row F, with seating at every counter as the agents processed each guest. There were few other passengers at the time I arrived, and a friendly agent helped check me in for the flight within a few minutes. The Falcon Gold check in area led to a separated immigration inspection and security line, and within a few minutes I arrived at the airside departure zone of the airport. 
+Falcon Gold customers on Gulf Air were directed to check-in counters in row F, with seating at every counter as the agents processed each guest. There were few other passengers at the time I arrived, and a friendly agent helped check me in for the flight within a few minutes. The Falcon Gold check-in area led to a separate immigration inspection and security line, and within a few minutes, I arrived at the airside departure zone of the airport. 
 
 <div class="slideshow-container">
 
@@ -1032,7 +1032,7 @@ Falcon Gold customers on Gulf Air were directed to check in counters in row F, w
 </div>
 
 \
-Immediately after security were some duty free shops, leading to the gate area with floor to ceiling views of the ramp. There was also a set of stairs in the middle of the departure area that led down to a nicely equipped play area for kids.
+Immediately after security was some duty-free shops, leading to the gate area with floor-to-ceiling views of the ramp. There was also a set of stairs in the middle of the departure area that led down to a nicely equipped play area for kids.
 
 <div class="slideshow-container">
 
@@ -1060,7 +1060,7 @@ Immediately after security were some duty free shops, leading to the gate area w
 </div>
 
 \
-A set of escalators among the shops led to the Falcon Gold lounge on the level above. Near the entrance of the lounge were model aircrafts of the first Avro Anson of Gulf Aviation as well as the latest Boeing 787-9 of Gulf Air, condensing the ups and downs of the seventy-year-history of the airline into a miniature display case. 
+A set of escalators among the shops led to Gulf Air's business class lounge, named the Falcon Gold lounge, on the level above. Near the entrance of the lounge were model aircrafts of the first Avro Anson of Gulf Aviation as well as the latest Boeing 787-9, condensing the seventy-year history of the airline into a miniature display case. 
 
 <div class="slideshow-container">
 
@@ -1082,7 +1082,7 @@ A set of escalators among the shops led to the Falcon Gold lounge on the level a
 </div>
 
 \
-The agent at the front desk quickly checked me in, and the main section was immediately to the left, starting with a business center with some monitors and a copy printer. 
+The agent at the front desk quickly checked me in, and the main section was immediate to the left, starting with a business centre with some monitors and a copy printer. 
 
 <div class="slideshow-container">
 
@@ -1122,7 +1122,7 @@ The agent at the front desk quickly checked me in, and the main section was imme
 </div>
 
 \
-Next along the entrance corridor were two walls displaying Gulf Air's historical fleet and logos, with the golden falcon soaring over the decades in its various incarnations, propelling the new Gulf Air toward new heights. With relatively dim lighting and accents of dark wood and black throughout, the overall ambience of the lounge was modern but calming. Glass panes look down at the gate areas and offer a view of the ramp. A variety of seating options from couches to lounge chairs and dining tables were also available. 
+Next along the corridor were two walls displaying Gulf Air's historical fleet and logos. The collection portrays the Golden Falcon soaring over the decades in its various incarnations, propelling the airline toward further heights in a new era. With relatively dim lighting and accents of dark wood and black throughout, the overall ambiance of the lounge was modern but calming. Glass panes look down at the gate areas and offer a view of the ramp. A variety of seating options from couches to lounge chairs and dining tables were also available. 
 
 <div class="slideshow-container">
 
@@ -1192,7 +1192,7 @@ Next along the entrance corridor were two walls displaying Gulf Air's historical
 </div>
 
 \
-Further into the lounge was the dining area, beginning with a station with pastries, sandwiches, and coffee. There was then a station with cold dishes, one with hot dishes, one with desserts, as well as a staffed counter serving other items including pizza and noodle bowls. There were also stations with popcorn, coffee, ice cream, as well as a bar area. The buffet consisted of a variety of Western, Middle Eastern, and South Asian dishes. Celebrating the launch of service to China, there was also a selection of Chinese items specially prepared. Most of the dishes were very well executed, and I especially enjoyed the beef machboos and chicken biryani, getting another fill of delicious local cuisine. I found some of the Chinese items a little strange though, which included options like a Chinese pizza, soup dumplings drenched in thick sauce, and egg tarts with a thick crust. 
+Further into the lounge was the dining area. There was then a station with cold dishes including salads and dips, one with hot dishes, one with desserts, as well as a staffed counter serving other items such as pizza and noodle bowls. There were also stations with popcorn, coffee, ice cream, as well as a bar area. The buffet consisted of a variety of Western, Middle Eastern, and South Asian dishes. Celebrating the launch of service to China, there was also a special selection of Chinese items. Most of the dishes were quite delicious, and I especially enjoyed the beef machboos and chicken biryani, getting another fill of the local cuisine. I found some of the Chinese items a little strange though, which included options like a Chinese pizza, soup dumplings drenched in  sauce, and egg tarts with a thick crust. 
 
 <div class="slideshow-container">
 
@@ -1220,7 +1220,7 @@ Further into the lounge was the dining area, beginning with a station with pastr
 </div>
 
 \
-The lounge also had a small kid's area, a dimly lit movie theater, and a pool table. Overall, I found the entertainment options in the lounge quite impressive. 
+The lounge also had a small kid's area, a dimly lit movie theater, and a pool table. Overall, the entertainment options in the lounge were quite impressive. 
 
 <div class="slideshow-container">
 
@@ -1248,12 +1248,12 @@ The lounge also had a small kid's area, a dimly lit movie theater, and a pool ta
 </div>
 
 \
-The bathroom was staffed with a lounge attendant, who did a great job of keeping the area clean. Tucked away at the end of the bathroom was the shower suite. The front desk provided towels and toiletries, and shower gel was available in dispensers. I appreciated being able to freshen up a bit before my flight, although I found the suite quite minimally furnished. A chair and additional hooks to place belongings, as well as a bath mat for the floor would have made for a much more comfortable experience. 
+The bathroom was staffed with a lounge attendant who worked hard to keep the area clean. Tucked away at the end of the bathroom was the shower suite. The front desk provided towels and toiletries, and shower gel was available in dispensers. I appreciated being able to freshen up a bit before my flight, though the suite was quite minimally furnished. A chair, additional hooks for storing belongings,and a bath mat for the floor would have made for a much more comfortable experience. 
 
-![gf_dreamlier](\images\gfa_j_2024\IMG_6023.JPEG)
+![gf_dreamlier](\images\gfa_j_2024\IMG_0623.JPEG)
 *A9C-FG retro livery Boeing 787-9*
 
-I headed to the gate much earlier than usual to catch the preflight celebrations. Gulf Air choose to use a Dreamliner with a retro livery to fly the route today, an acknowledgement of its heritage as it reaches new horizons.
+I headed to the gate much earlier than usual to catch the preflight celebrations. Gulf Air chose to use a Dreamliner with a retro livery to fly the route today, an acknowledgment of its heritage as it reaches further across the globe.
 
 <div class="slideshow-container">
 
@@ -1287,20 +1287,20 @@ I headed to the gate much earlier than usual to catch the preflight celebrations
 </div>
 
 \
-There was a large sign marking the inaugural service. It was not very obivous, but I discovered that the reverse of the sign would be used for the first flight to Guangzhou the next day. Talk about an efficient use of resources! Some staff walked around offering special cupcakes to passengers as more people arrived for the occasion.
+There was a large sign marking the inaugural service. It was not very obvious, but I discovered that the reverse of the sign would be used for the first flight to Guangzhou the next day. Talk about an efficient use of resources! Some staff walked around offering special cupcakes to passengers as more people arrived for the occasion.
 
 <div class="slideshow-container">
 
 <div class="mySlides37">
   <div class="numbertext">1 / 3</div>
   <img src="/images/gfa_j_2024/IMG_0691.JPEG" style="width:100%">
-  <i>Selfie with CEO Dr. Jeffrey Goh</i>
+  <i>CEO Dr. Jeffrey Goh</i>
 </div>
 
 <div class="mySlides37">
   <div class="numbertext">2 / 3</div>
   <img src="/images/gfa_j_2024/IMG_0700.JPEG" style="width:100%">
-  <i>With CTO Mazin Saleh</i>
+  <i>CTO Mazin Saleh</i>
 </div>
 
 <div class="mySlides37">
@@ -1315,7 +1315,7 @@ There was a large sign marking the inaugural service. It was not very obivous, b
 </div>
 
 \
-I was really glad to meet some of the company's leadership, including Chief Executive Officer Dr. Jeffrey Goh, Chief Technical Officer Mazin Saleh, and Chief Customer Experience Officer Hanadi Alaali. I shared with them my excitement for the inaugural journey, and they were very glad to see that I came from Boston to take part in this historical flight. Mr. Saleh told me about the work they have been doing behind the scenes to make this route happen, along with the other destinations that Gulf Air is starting this summer. He also shared that they had just completed an FAA inspection earlier that week, and they are getting closer to launching service to the US, which would be quite a significant milestone for the airline. Local Bahraini media and Chinese state broadcaster CCTV were also there for the event, and I was please to give a brief interview!
+I was really glad to meet some of the company's leadership, including Chief Executive Officer Dr. Jeffrey Goh, Chief Technical Officer Mazin Saleh, and Chief Customer Experience Officer Hanadi Alaali. I shared with them my excitement for the inaugural journey, and they were very glad to see that I came from Boston to take part in this historical flight. Mr. Saleh told me about the work they have been doing behind the scenes to make this route happen, along with the other destinations that Gulf Air is starting this summer. He also shared that they had just completed an FAA inspection earlier that week, and they are getting closer to launching service to the US, which would be quite a significant milestone for the airline. Local Bahraini media and Chinese state broadcaster CCTV were also there for the event, and I was pleased to give a brief interview!
 
 <div class="slideshow-container">
 
@@ -1349,7 +1349,7 @@ I was really glad to meet some of the company's leadership, including Chief Exec
 </div>
 
 \
-Soon the crew for the flight arrived and posed for a photo before boarding the aircraft. The flight was again quite empty, and at 2110, all passengers were invited onboard. With cameras clicking as each boarding pass was scanned, I made my way down the jet bridge toward the beautiful Dreamliner that would take us across the continent tonight. 
+Soon the crew for the flight arrived and posed for a photo before boarding the aircraft. The flight was again quite empty, and at 2110, all passengers were invited onboard. With cameras clicking as each boarding pass was scanned, I made my way down the jet bridge toward the Dreamliner that would take us across the continent tonight. 
 
 ##### Bahrain to Shanghai Onboard Experience
 
@@ -1358,7 +1358,7 @@ Soon the crew for the flight arrived and posed for a photo before boarding the a
 <div class="mySlides39">
   <div class="numbertext">1 / 3</div>
   <img src="/images/gfa_j_2024/IMG_0723.JPEG" style="width:100%">
-  <i>Boariding through door L2</i>
+  <i>Boarding through door L2</i>
 </div>
 
 <div class="mySlides39">
@@ -1379,7 +1379,7 @@ Soon the crew for the flight arrived and posed for a photo before boarding the a
 </div>
 
 \
-The cabin manager welcomed us at the L2 door and directed me toward the Falcon Gold cabin on the left. Gulf Air's Boeing 787-9 fleet features the Apex Suites product in the front cabin, initially developed by B/E Aerospace, which is now part of Collins Aerospace. This is one of the most highly regarded business class products in the air, exuding a unique elegance with Gulf Air's neutral colour tones and golden finishes. 
+The cabin manager greeted passengers at the second door and directed me toward the Falcon Gold cabin on the left. The cabin on Gulf Air's Boeing 787-9 fleet features the Apex Suites product developed by B/E Aerospace. This is one of the most highly regarded business class products in the air, exuding a unique elegance with Gulf Air's neutral colour tones and golden finishes. 
 
 <div class="slideshow-container">
 
@@ -1431,7 +1431,7 @@ The cabin manager welcomed us at the L2 door and directed me toward the Falcon G
 </div>
 
 \
-I settled into seat 1A by the window. These seats in this configuration offer an impressive level of privacy, especially with the divider raised, and allows one to access the aisle without stepping over the neighbouring passenger due to a small gap in front of the adjacent seat.The only downside I noticed was that the small gap made for a slightly awkward angle for the service procedures. A pillow was prepared at the seat, while an amenity kit and blanket were placed on the ottoman in front. The storage space on the right contained a bottle of water, the menu, safety card, as well as noise cancelling headphones. Along the right armrest was a remote controller for the entertainment screen and the weighty and sturdy tray table which pops out. Seat controls were found on the left armrest. Ports for headphones and USB charging were under the armrest and behind the literature pocket, a slightly awkward placement. 
+I settled into seat 1A by the window. These seats in this configuration offer an impressive level of privacy, especially with the divider raised, and allow one to access the aisle without stepping over the neighbouring passenger due to a small gap in front of the adjacent seat, though it made for a slightly awkward angle for the service procedures. A pillow was prepared at the seat, while an amenity kit and blanket were placed on the ottoman in front. The storage space on the right contained a bottle of water, the menu, the safety card, as well as headphones. Along the right armrest was a remote controller for the entertainment screen and the weighty and sturdy tray table that slides out. Seat controls were found on the left armrest. Ports for headphones and USB charging were under the armrest and behind the literature pocket, a slightly awkward placement. 
 
 <div class="slideshow-container">
 
@@ -1462,7 +1462,7 @@ I settled into seat 1A by the window. These seats in this configuration offer an
 <div class="mySlides41">
   <div class="numbertext">5 / 5</div>
   <img src="/images/gfa_j_2024/IMG_0794.JPEG" style="width:100%">
-  <i>With Saad Ahmad from LocalBH</i>
+  <i>Saad Ahmad from LocalBH</i>
 </div>
 
 <a class="prev" onclick="plusSlides(-1,41)">❮</a>
@@ -1471,7 +1471,7 @@ I settled into seat 1A by the window. These seats in this configuration offer an
 </div>
 
 \
-As with the last few flights, the crew came around with lemonade, hot and cold towels, coffee, and dates to welcome us onboard. With most seats in the cabin occupied by company executives and media representatives, the atmosphere onboard was palpably different from an ordinary flight: everyone was excited and engaged. I happened to sit next to Saad Ahmed, the founder of LocalBH, a new digital media company based in Bahrain. We chatted throughout the flight about Gulf Air and the local aviation scene at length, and it was great to make a new friend on this journey!
+As with the last few flights, the crew came around with lemonade, hot and cold towels, coffee, and dates to welcome us onboard. With most seats in the cabin occupied by company executives and media representatives, the atmosphere onboard was palpably different from an ordinary flight: everyone was excited and engaged. I happened to sit next to Saad Ahmad, the founder of LocalBH, a new digital media company based in Bahrain. We chatted throughout the flight about Gulf Air and the local aviation scene, and it was great to make a new friend on this journey!
 
 <div class="slideshow-container">
 
@@ -1499,7 +1499,7 @@ As with the last few flights, the crew came around with lemonade, hot and cold t
 </div>
 
 \
-Boarding was completed quickly, and the travel prayer and safety video were screened while we taxiied out for departure. 
+Boarding was completed quickly, and the travel prayer and safety video were screened while we taxied out for departure. 
 
 <div class="slideshow-container">
 
@@ -1521,12 +1521,12 @@ Boarding was completed quickly, and the travel prayer and safety video were scre
 </div>
 
 \
-At 2150, we thrusted off into the night sky of Bahrain. The gorgeous coastline and ocean was not quite as visible as during the day, but the brightly lit skyline remained in sight as we climbed toward the Persian Gulf until the Arabian peninsula was well behind us. 
+At 2150, we thrust off into the night sky of Bahrain. The gorgeous coastline and ocean were not quite as prominent as during the day, but the brightly lit skyline remained in sight as we climbed toward the Persian Gulf away from the Arabian peninsula. 
 
 ![fan](\images\gfa_j_2024\IMG_0765.JPEG)
 *Commemorative fan*
 
-Soon after take off, the crew came around to hand out commemerative handheld fans and took orders for the dinner service. In contrast to the previous flight, the menu for this flight was printed in English, Chinese, as well as Arabic. Although Gulf Air has hired Chinese cabin crew, they were not rostered on this flight. While no issues that arose, Chinese routes can certainly be challenging without local crew helping out, and I hope that Gulf Air will be able to provide service in Chinese soon. 
+Soon after take-off, the crew came around to hand out commemorative handheld fans and took orders for the dinner service. In contrast to the previous flight, the [menu](/images/gfa_j_2024/124_J_menu.pdf) for this flight was printed in English, Chinese, as well as Arabic. Although Gulf Air has hired Chinese cabin crew, they were not rostered on this flight. While no issues arose, Chinese routes can certainly be challenging without local crew helping out, and I hope that Gulf Air will be able to provide service in Chinese soon. 
 
 <div class="slideshow-container">
 
@@ -1553,12 +1553,12 @@ Having had a mezze on the previous flight, I decided to go with the prawn cevich
 ![kabsa](\images\gfa_j_2024\IMG_0768.JPEG)
 *Lamb kabsa main dish*
 
-For the main course, I chose the lamb kabsa, a spiced rice dish popular in the gulf region. The fragrances of cloves and black pepper steamed from the rice, and the lamb was also quite tender even after reheating. The tomato-based makhani sauce added some more flavours on top, and the zucchinis were a nice accompaniment to the dish. Overall, I was very pleased with this plate. 
+For the main course, I chose the lamb kabsa, a spiced rice dish popular in the Gulf region. The fragrances of cloves and black pepper steamed from the rice, and the lamb was also quite tender even after reheating. The tomato-based makhani sauce added some more flavours on top, and the zucchinis were a nice accompaniment to the dish. Overall, I was very pleased with this plate. 
 
 ![fish_cake](\images\gfa_j_2024\IMG_0770.JPEG)
 *Saad's fish cake*
 
-The other options on the menu were intriguing. Between the soya ginger flavoured chicken, fish cakes with wasabi mayonnaise, and sesame chili cauliflower, there seems to be an evident attempt to offer dishes with a Chinese touch, but I thought many of the side dishes offered were curious choices to go along. Saad had the fish cakes for his main course, and offered some for me to try. While the umami flavour was appetizing, the panko crust did not reheat very well, leaving the dish somewhat soggy.
+The other options on the menu were intriguing. Between the soya ginger flavoured chicken, fish cakes with wasabi mayonnaise, and sesame chili cauliflower, there was an evident attempt to offer dishes with a Chinese touch, but I thought many of the side dishes offered were curious choices to go along. Saad had the fish cakes for his main course and offered some for me to try. While the umami flavour was appetizing, the panko crust did not reheat very well, leaving the dish somewhat soggy.
 
 <div class="slideshow-container">
 
@@ -1580,19 +1580,19 @@ The other options on the menu were intriguing. Between the soya ginger flavoured
 </div>
 
 \
-After plates were collected for the main course, the crew rolled out the dessert cart, again with cheese and fruits. The dessert choices included a ginger date tiramisu or a banana coconut cake, and I chose to have the former. The spicy flavour of the ginger accentuated the sweet cream, which was rounded out by the hint of dates.  This was quite a creative take on the tiramisu, which I very much enjoyed. While I appreciated ceremonial presentation of the dessert cart, waiting for all passengers to finish the main course before offering dessert might not be the best in terms of allowing passengers to maximize rest given this is an overnight flight. 
+After plates were collected for the main course, the crew rolled out the dessert cart, again with cheese and fruits. The dessert choices included a ginger date tiramisu or a banana coconut cake, and I went with the former. The spicy ginger accentuated the sweet cream, which was rounded out by the rich flavour of dates.  This was quite a creative take on the tiramisu, which I very much enjoyed. While I appreciated the ceremonial presentation of the dessert cart, waiting for all passengers to finish the main course before offering dessert does take away some time for rest on the overnight flight. 
 
 ![y_787](\images\gfa_j_2024\IMG_0763.JPEG)
 *Economy cabin on the Dreamliner*
 
-I took a quick peak at the economy cabin, which went out fairly empty on this inaugural flight, making for quite a peaceful cabin.
+I took a quick peek at the economy cabin, which went out fairly empty on this flight, making for quite a peaceful cabin.
 
 <div class="slideshow-container">
 
 <div class="mySlides46">
   <div class="numbertext">1 / 4</div>
   <img src="/images/gfa_j_2024/IMG_0775.JPEG" style="width:100%">
-  <i>Pajamas and slipers</i>
+  <i>Pajamas and slippers</i>
 </div>
 
 <div class="mySlides46">
@@ -1624,12 +1624,12 @@ Pajamas and slippers were available on request for the flight, and I went to the
 ![y_787](\images\gfa_j_2024\IMG_0781.JPEG)
 *Bed after turndown*
 
-Gulf Air offered a turn down service, although there was just an extra blanket for padding instead of a mattress pad. The bed was quite comfortable though, with plenty of length to stretch out. The air above the Indian subcontinent was a little turbulent on this day, but the gentle rocking made for some restful sleep as we continued East across Asia. 
+Gulf Air offered a turn-down service, though there was just an extra blanket for padding instead of a mattress pad. The bed was still quite comfortable, with plenty of length to stretch out. The air above the Indian subcontinent was a little turbulent on this day, but the gentle rocking made for some restful sleep as we continued East across Asia. 
 
 ![sunrise_124](\images\gfa_j_2024\IMG_0785.JPEG)
 *Sunrise through the dimmed windows*
 
-I woke up after a few hours and spent some time in the galley chatting with the crew, who were very excited for the new destination on the route map and the two-day layover in China. The sun began to appear in the horizon as a bright purple spot due to the dimmed windows. 
+I woke up after a few hours and spent some time in the galley chatting with the crew, who were very excited about the new destination on the route map and the two-day layover in China. The sun began to appear on the horizon as a bright purple spot due to the dimmed windows, a rather unique look.
 
 <div class="slideshow-container">
 
@@ -1651,7 +1651,7 @@ I woke up after a few hours and spent some time in the galley chatting with the 
 </div>
 
 \
-The crew offered me some chamomile tea along with a cardamom cookie, which I enjoyed at the sky continued to brighten up. Free wifi was purportedly available on the flight, although it ended up being unavailable for most of the journey. 
+The crew offered me some chamomile tea along with a cardamom cookie, which I enjoyed as the sky continued to brighten up. Free wifi was purportedly available on the flight, although it ended up being unavailable for most of the journey. 
 
 <div class="slideshow-container">
 
@@ -1673,12 +1673,12 @@ The crew offered me some chamomile tea along with a cardamom cookie, which I enj
 </div>
 
 \
-With about an hour and a half to landing, the breakfast service began. The crew brought pastries from a basket along with a fruit plate, and offered choices among a banana cinnamon smoothie, a muesli, and a congee. The smoothie was quite rich and filling. I also tried the congee, which came with toasted peanuts, chicken, and mushrooms. The dish was warm and hearty, although I would have preferred some more traditional accompaniments with stronger flavours. 
+With about an hour and a half to landing, the breakfast service began. The crew brought pastries from a basket along with a fruit plate and offered choices among a banana cinnamon smoothie, a muesli, and a congee. The smoothie was quite rich and filling. I also tried the congee, which came with toasted peanuts, chicken, and mushrooms. The dish was warm and hearty, although I would have preferred some more traditional accompaniments with stronger flavours. 
 
 ![mimosa](\images\gfa_j_2024\IMG_0789.JPEG)
 *Mimosa after breakfast*
 
-The overall portion size for the breakfast was relatively small, but I found it a nice pre-landing meal, especially since dinner was served just a few hours prior. I was still in a celebratory mood though, so I asked for a mimosa to round off the flight. Cheers!
+The overall portion size for the breakfast was relatively small, but it was a nice pre-landing meal, especially since dinner was served just a few hours prior. I was still in a celebratory mood though, so I asked for a mimosa to round off the flight. Cheers!
 
 <div class="slideshow-container">
 
@@ -1706,7 +1706,7 @@ Soon the cabin lights were turned on and we began our descent as we crossed the 
 ![huangpu_approach](\images\gfa_j_2024\IMG_0809.JPEG)
 *Approach over Huangpu River*
 
-The final approach took us over the Huangpu River, with a view of the skyline of the glitzy Lujiazui and the busy shipping operations on the river, flowing as the bloodline of China's economy.
+The final approach took us over the Huangpu River, with a view of the skyline of the glitzy Lujiazui and the busy shipping operations on the river, flowing as a bloodline of China's economy.
 
 <div class="slideshow-container">
 
@@ -1746,7 +1746,7 @@ The final approach took us over the Huangpu River, with a view of the skyline of
 </div>
 
 \
-Taking a sharp turn West, we were soon lined up with the runway and touched down at Pudong Airport, marking the return of the Golden Falcon to China after more than a decade's absence. Taxiing to the terminal tends to be a lengthy passage at Pudong, and we made our way around the main terminal building before reaching our parking stand in Terminal 2. 
+Taking a sharp turn West, we were soon lined up with the runway and touched down at Pudong Airport, marking the Golden Falcon's entry into China's aviation market. The taxi to the terminal tends to be lengthy at Pudong, and we made our way around the main terminal building before reaching our parking stand in Terminal 2. 
 
 <div class="slideshow-container">
 
@@ -1774,7 +1774,7 @@ Taking a sharp turn West, we were soon lined up with the runway and touched down
 </div>
 
 \
-Firetrucks and many excited airport staff awaited our arrival at the gate, and we were met with a water cannon salute as we pulled into the stand. Amusingly, the captain came over the PA to let us know that there would be water sprayed on the aircraft: it was normal procedure and we did not have to worry!
+Firetrucks and many excited airport staff awaited our arrival at the gate, and we were met with a water cannon salute as we pulled into the stand. Amusingly, the captain came over the PA to let us know that there would be water sprayed on the aircraft: it was normal procedure in aviation tradition and we did not have to worry!
 
 ##### Arrival Ground Experience 
 <div class="slideshow-container">
@@ -1809,12 +1809,12 @@ Firetrucks and many excited airport staff awaited our arrival at the gate, and w
 </div>
 
 \
-I thanked the crew as we left the aircraft after the celebratory journey. Representatives from local partners of Gulf Air met our flight at the gate, and posed for some photos with Dr. Goh. Border control was not too busy at the time we arrived, and we headed upstairs for some addtional celebrations. 
+I thanked the crew as we left the aircraft after the celebratory journey. Representatives from local partners of Gulf Air met our flight at the gate and posed for some photos with the company leadership. Border control was not too busy at the time we arrived, after which we headed upstairs for some additional celebrations. 
 
 ![gf_pvg_checkin](\images\gfa_j_2024\IMG_0856.JPEG)
-*Gulf Air check in counters in Shanghai*
+*Gulf Air check-in counters in Shanghai*
 
-The check in counters for the return flight to Bahrain was quite crowded. With the highly competitive aviation market in China, Gulf Air has taken the rather unique strategy to partner with Jinjiang group, a major Chinese travel provider, to serve as the carrier for their package tours. Many passengers at these busy counters were heading with tour groups to Dubai, a sign of the success of this approach to claiming market share. 
+The check-in counters for the return flight to Bahrain was quite crowded. With a highly competitive aviation market in China, Gulf Air has taken a rather unique strategy of partnering with Jinjiang Group, a major Chinese travel provider, to serve as the carrier for their package tours. Many passengers at these busy counters were heading with tour groups to Dubai, a sign of the success of this approach in claiming market share. 
 
 <div class="slideshow-container">
 
@@ -1836,7 +1836,7 @@ The check in counters for the return flight to Bahrain was quite crowded. With t
 </div>
 
 \
-A billboard commemorating the inaugural service was placed next to the check in counters. Many passengers were holding signs and excited to pose for pictures, and Dr. Goh was happy to be featured in their frames.
+A billboard commemorating the inaugural service was next to the check-in counters. Many passengers were holding signs and excited to pose for pictures, and Gulf Air executives were happy to be featured in their frames.
 
 <div class="slideshow-container">
 
@@ -1864,7 +1864,7 @@ A billboard commemorating the inaugural service was placed next to the check in 
 </div>
 
 \
-A more formal ceremony was later held in the departure hall, with addresses from Dr. Goh as well as representatives from Jinjiang group and the airport, expressing their excitement for the fruition of the collaborative effort and the opportunities that the new air connection brings.
+A more formal ceremony was later held in the departure hall, with addresses from CEO Dr. Goh as well as representatives from Jinjiang and the airport, expressing their excitement for the fruition of the collaborative effort and the opportunities that the new air connection brings.
 
 <div class="slideshow-container">
 
@@ -1886,21 +1886,21 @@ A more formal ceremony was later held in the departure hall, with addresses from
 </div>
 
 \
-The speeches were followed by a ribbon cutting ceremony. A lion dance performance ensued, a tradition for businesses to bring good luck and prosperity to new ventures. 
+The speeches were followed by a ribbon-cutting ceremony. Then, under the rhythmic beat of the drums, a lion dance performance took centre stage. Two lions bolted back and forth on the stage, at times raising their heads in a show of power and vigour. The dynamic dance routine is a tradition for celebrations in China and especially in the business world, meant to bring good luck and prosperity to new ventures. 
 
 ![eye_dotting](\images\gfa_j_2024\IMG_0922.JPEG)
 *Eye-dotting of the lion*
 
-Representatives took part in the eye-dotting of the lion, meant to bring the lion and its protection for the people to life.
+Representatives took part in the eye-dotting of the lion, a traditional part of a lion dance that symbolizes vitalizing the sleeping lion and its might in fending off bad luck and evil spirits.
 
 ![eye_dotting](\images\gfa_j_2024\IMG_0925.JPEG)
 *Banners from the lion*
 
-Concluding the ceremony, banners dropped from the lion, reading "上海巴林逐梦启航 空中丝路连通全球" (flying Shanghai to Bahrain following the dreams, aerial silk road connecting the world). In addition to its commercial significances, the new route also represents part of a push from the Chinese government to increase air connectivity to its partners around the world. The past year has seen many other routes to the Middle East inaugurated as well, including Shanghai-Riyadh, Xiamen-Doha, and Hangzhou-Dubai, a sign of the deepening economic ties between China and the region. 
+Concluding the ceremony, banners dropped from the lion, reading "上海巴林逐梦启航 空中丝路连通全球" (flying from Shanghai to Bahrain following the dreams, aerial silk road connecting the world). In addition to its commercial significance, the new route also represents part of a push from the Chinese government to increase air connectivity with its partners around the world. The past year has seen many other routes to the Middle East inaugurated as well, including Shanghai-Riyadh, Xiamen-Doha, and Hangzhou-Dubai, a sign of the deepening economic ties between China and the region. 
 
 ##### Concluding Thoughts
 
-As an aviation enthusiast, being able to partake in the celebrations marking a major expansion for an airline's route network was beyond exciting, and I thoroughly enjoyed meeting all the people at Gulf Air that made this route a reality. Overall, I thought Gulf Air offers a competitive product and boasts employees who make a genuine effort to make passengers feel comfortable, making for a pleasant experience. I do hope that they will be able to find success in the competitive market between China and the Middle East, and that the golden falcon will continue to soar across the skies for many years to come. 
+As an aviation enthusiast, being able to partake in the celebrations marking a major expansion for an airline's route network was a very special opportunity, and I thoroughly enjoyed meeting all the people at Gulf Air who made this route a reality. Overall, Gulf Air offers a competitive product and boasts employees who make a genuine effort to make passengers feel comfortable. I do hope that they will be able to find success in the competitive market between China and the Middle East and that the Golden Falcon will continue to soar across the skies for many years to come. 
 
 <script>
 
