@@ -7,7 +7,9 @@ categories:
   - Travel
   - Flights
 title: "New Horizons with the Golden Falcon"
+meta_title: "Review: Gulf Air Falcon Gold Class Inaugural flight to Shanghai"
 excerpt: "Gulf Air Falcon Gold Class Milan to Bahrain, a day in Bahrain, and inaugural flight Bahrain to Shanghai "
+description: "Here I review Gulf Air's inaugural service from Bahrain to Shanghai in their Falcon Gold Business Class cabin, flown May 2024. A solid product all around with delightful celebrations for the historical flight. Also includes a review of their Milano-Roma-Bahrain flight, the Gae Aulenti Lounge at Malpensa, the Falcon Gold Lounge in Bahrain, and some snippets of my day in transit going around Bahrain."
 date: "2024-05-28"
 toc: true
 last_modified_at: "2024-08-10" 
@@ -18,7 +20,7 @@ header:
 
 Back in October 2023, Bahrain's national carrier Gulf Air announced plans to add routes to the Chinese cities of Shanghai and Guangzhou. While the initial announcement anticipated the routes launching in January 2024, a slight delay pushed the date of the first flight to May 2024. As I happened to be making a quick trip to China around this time, I was thrilled to score a seat on the inaugural flight in the Falcon Gold cabin, Gulf Air's business class product, as part of a ticket connecting Boston-Montréal-Zürich-Milano-Bahrain-Shanghai, operated by Air Canada, Swiss Air Lines, Ethiopian Airlines, and finally Gulf Air for the last two legs.   
 
-While today's aviation market in the Middle East is dominated by the likes of Emirates and Qatar Airways, Gulf Air holds the distinction of being the oldest airline in the region, founded in 1950 as a collaboration between the governments of Bahrain, Oman, Qatar, and the United Arab Emirates. However, one by one, the latter three countries withdrew from the partnership to focus on their own national airline, leaving Bahrain with full ownership of a Gulf Air shrinking in stature and sustaining heavy losses. Gulf Air embarked on a path of restructuring and has recently emerged as a fast-growing carrier in much better financial shape, with Shanghai being just one of many destinations being added to the network this summer. I was delighted to be a part of this noteworthy step forward for the airline, and it was surely a joy joining in this celebration with everyone along the way. 
+While today's aviation market in the Middle East is dominated by the likes of Emirates and Qatar Airways, Gulf Air holds the distinction of being one of the oldest airline in the region. Founded in 1950, it evolved into a collaboration between the governments of Bahrain, Oman, Qatar, and the United Arab Emirates and served as the flag carrier for all four countries. However, one by one, the latter three countries withdrew from the partnership to focus on their own national airline, leaving Bahrain with full ownership of a Gulf Air shrinking in stature and sustaining heavy losses. Gulf Air embarked on a path of restructuring and has recently emerged as a fast-growing carrier in much better financial shape, with Shanghai being just one of many destinations being added to the network this summer. I was delighted to be a part of this noteworthy step forward for the airline, and it was surely a joy joining in this celebration with everyone along the way. 
 
 ##### Flight Details
 Gulf Air (GFA/GF) Flight 26    

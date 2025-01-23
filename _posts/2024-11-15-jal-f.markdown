@@ -1,0 +1,1206 @@
+---
+layout: single
+# author_profile: true
+# classes: wide
+comments: true
+categories:
+  - Travel
+  - Flights
+title: "On the Wings of Japan "
+meta_title: "Review: Japan Airlines A350-1000 First Class Tokyo Haneda to Dallas"
+excerpt: "Japan Airlines A350 First Class Tokyo to Dallas"
+description: "Here I review Japan Airlines' First Class on the new A350-1000 aircraft. An impressive product and refined service making for a memorable and pleasant journey."
+date: "2024-09-24"
+toc: true
+last_modified_at: "2025-01-23" 
+header:
+  teaser: /images/jal_f_2024/IMG_2055.JPEG
+
+---
+
+As the flag carrier of Japan and once the largest airline in Asia, Japan Airlines (JAL) holds a special place in my heart as my family consistently flew with them between China and Canada for many years. Following several years of heavy losses in the 2000s and emerging from bankruptcy protection in 2011, JAL has prudently evolved its operations while maintaining an internationally renowned high standard of service. The introduction of the new Airbus A350-1000 aircraft as its international flagship in 2023 marked a new era for the airline, and its industry-leading seats in all classes of service serves as a testament to JAL's continued commitment to offering an exceptional customer experience. I was fortunate to have the chance to experience JAL's First Class product on this new aircraft from Tokyo to Dallas, which was an outstanding experience that exceeded expectations in all regards. 
+
+##### Flight Details
+Japan Airlines (JAL/JL) Flight 12    
+Origin: Tokyo Haneda, HND   
+Departure: 11:20, 24 September 2024 (UTC+9)   
+Destination: Dallas Fort Worth, DFW   
+Arrival: 09:01, 24 September 2024 (UTC-5)  
+Duration: 11:41 hours   
+Aircraft: JA05WJ, Airbus A350-1000, delivered August 2024  
+Seat: 2A (First)  
+
+##### Booking
+JAL reliably releases award seats when flights initially go on sale, and First and Business class seats tend to be booked within days for long haul flights like this one. I booked this flight 360 days in advance through Cathay Pacific's frequent flyer program. Cathay prices mixed cabin itineraries according to the total distance travelled, adjusted to the segment lengths in each class of service, which can often result in favourable pricing. I booked this flight as part of an award ticket from Melbourne to Tokyo Narita in Business, followed by Tokyo Haneda to Dallas in First, which cost a total of 115,100 Asia Miles and 2,554 HKD in taxes and fees. For reference, the Tokyo to Dallas flight would have cost 120,000 miles had I booked it on its own. I obtained these miles through a combination of a compensation claim on my last Cathay flight and some transferred miles from RBC Avion and Capital One Rewards. 
+
+##### Tokyo Departure Ground Experience
+
+<div class="slideshow-container"> 
+
+<div class="mySlides1">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/jal_f_2024/IMG_1967.JPEG" style="width:100%">
+  <i>Haneda Airport departure hall</i>
+</div> 
+
+<div class="mySlides1">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/jal_f_2024/IMG_1969.JPEG" style="width:100%">
+  <i>Haneda departure flight information</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,1)">❮</a>
+<a class="next" onclick="plusSlides(1,1)">❯</a>
+
+</div>
+
+\
+I made my way to Haneda Airport using the Keikyu line early in the morning following an all-nighter walking around Tokyo. As the main international gateway for all of Japan, Terminal 3 was already bustling as I arrived around 0630. The morning sun shone through the glass windowpanes of the departure hall, sending passengers off on their journeys to all corners of the world. 
+
+<div class="slideshow-container">
+
+<div class="mySlides2">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/jal_f_2024/IMG_1970.JPEG" style="width:100%">
+  <i>First Class check-in entrance</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/jal_f_2024/IMG_1975.JPEG" style="width:100%">
+  <i>Custom bag tag</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,2)">❮</a>
+<a class="next" onclick="plusSlides(1,2)">❯</a>
+
+</div>
+
+\
+While row F of the check-in counters is marked for JAL First, there is also a more exclusive check-in lounge at the end of the main check-in area across from the terminal entrance, hidden behind an unassuming light brown automatic door. Two attendants greeted me as I entered the doors, asked for my name and destination, and tagged my bag with a First Class tab with my name and flight printed. JAL has a unique icon for each of its classes of service. While the Economy, Premium Economy, and Business Class brandings have a modern sans-serif typeface, the First Class mark is an elaborate cursive F with a more luxurious look. 
+
+<div class="slideshow-container">
+
+<div class="mySlides3">
+  <div class="numbertext">1 / 5</div>
+  <img src="/images/jal_f_2024/IMG_1971.JPEG" style="width:100%">
+  <i>Check in lounge</i>
+</div>
+
+<div class="mySlides3">
+  <div class="numbertext">2 / 5</div>
+  <img src="/images/jal_f_2024/IMG_1972.JPEG" style="width:100%">
+  <i>Check in lounge</i>
+</div>
+
+<div class="mySlides3">
+  <div class="numbertext">3 / 5</div>
+  <img src="/images/jal_f_2024/IMG_1973.JPEG" style="width:100%">
+  <i>Check in lounge</i>
+</div>
+
+<div class="mySlides3">
+  <div class="numbertext">4 / 5</div>
+  <img src="/images/jal_f_2024/IMG_1974.JPEG" style="width:100%">
+  <i>Check in lounge exit</i>
+</div>
+
+<div class="mySlides3">
+  <div class="numbertext">5 / 5</div>
+  <img src="/images/jal_f_2024/IMG_1978.JPEG" style="width:100%">
+  <i>Departure hall</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,3)">❮</a>
+<a class="next" onclick="plusSlides(1,3)">❯</a>
+
+</div>
+
+\
+The check-in lounge was furnished in a rather modern style, with lounge chairs and tables featuring JAL's colour palette of crimson, beige, and white. Plenty of seating was available, but most of it was unoccupied. The agents invited me to take a seat while they prepared my boarding pass at a desk to the side. I was then directed to a dedicated security checkpoint, which led to the border inspection area, and I was in the departures area within a few minutes of arriving. Overall, the check-in experience for JAL First was pleasant and efficient, a delightful start to the journey today.
+
+<div class="slideshow-container">
+
+<div class="mySlides4">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/jal_f_2024/IMG_1980.JPEG" style="width:100%">
+  <i>First Class lounge directions</i>
+</div>
+
+<div class="mySlides4">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/jal_f_2024/IMG_1981.JPEG" style="width:100%">
+  <i>First Class lounge entrance</i>
+</div>
+
+<div class="mySlides4">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/jal_f_2024/IMG_1983.JPEG" style="width:100%">
+  <i>Reception desk</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,4)">❮</a>
+<a class="next" onclick="plusSlides(1,4)">❯</a>
+
+</div>
+
+\
+A few steps to the right is the entrance to JAL's First Class lounge, one floor above the main departures level. The entrance to the lounge is brightly lit and ornamented with Japanese-style wood gratings, exuding a restful elegance. A relief art depicting sunrise and clouds, popular motifs in Japanese art, features prominently behind the reception desk to the right. The agent quickly checked me in by scanning my boarding pass and directed me to the main part of the lounge facing the entrance.  
+
+![lounge_map](\images\jal_f_2024\IMG_1984.JPEG)
+*First Class lounge map* 
+
+Standing near the passage to the lounge is a map that details the offerings here. The footprint of this lounge is quite large for one that serves First Class passengers, probably due to the ranks of JAL frequent flyers who also have access, and the space was already quite busy at this early morning hour. 
+
+<div class="slideshow-container">
+
+<div class="mySlides5">
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/jal_f_2024/IMG_1987.JPEG" style="width:100%">
+  <i>Entrance hallway</i>
+</div>
+
+<div class="mySlides5">
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/jal_f_2024/IMG_1988.JPEG" style="width:100%">
+  <i>Cell phone booths</i>
+</div>
+
+<div class="mySlides5">
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/jal_f_2024/IMG_1989.JPEG" style="width:100%">
+  <i>Smoking area directions</i>
+</div>
+
+<div class="mySlides5">
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2012.JPEG" style="width:100%">
+  <i>Luggage lockers</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,5)">❮</a>
+<a class="next" onclick="plusSlides(1,5)">❯</a>
+
+</div>
+
+\
+Immediately to the right of the entrance were some cell phone booths, a smoking area, a business centre, and some lockers, which were quite convenient to leave my luggage in while I explored the rest of the lounge. 
+
+<div class="slideshow-container">
+
+<div class="mySlides6">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/jal_f_2024/IMG_1990.JPEG" style="width:100%">
+  <i>JAL's Table</i>
+</div>
+
+<div class="mySlides6">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/jal_f_2024/IMG_1991.JPEG" style="width:100%">
+  <i>Green tea and hot towel</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,6)">❮</a>
+<a class="next" onclick="plusSlides(1,6)">❯</a>
+
+</div>
+
+\
+Further to the right is the main dining section of the lounge, named JAL's Table. As I took a seat, a lounge attendant came to offer a hot towel and drinks, and I asked for a glass of cold green tea to start the day off on a refeshing note. 
+
+![sushi](\images\jal_f_2024\IMG_1992.JPEG)
+*JAL lounge sushi*
+
+Each seat comes with a QR code that leads to an app, JAL Lounge+, through which one can order dishes delivered to the seat. JAL's First Lounge is known for its made-to-order sushi with a weekly rotating menu. On offer when I visited was bluefin tuna tenmi (本鮪天身), a very flavourful cut of the lean meat, along with sweet shrimp (甘えび), and a traditional futomaki (太巻). All three options were fresh and appetizing, with generous fillings and toppings.  
+
+![okazu](\images\jal_f_2024\IMG_1993.JPEG)
+*Okazu set and fish dish*
+
+I also ordered the Japanese set, which consisted of chikuzenni stew, goma-ae spinach, pickled plum, salted fish, pollock roe, and an egg roll, some traditional breakfast fixings. I tried the Western dish of ocean perch as well, which was hearty and pleasant.  
+
+<div class="slideshow-container">
+
+<div class="mySlides7">
+  <div class="numbertext">1 / 7</div>
+  <img src="/images/jal_f_2024/IMG_1994.JPEG" style="width:100%">
+  <i>JAL's Table preparation section</i>
+</div>
+
+<div class="mySlides7">
+  <div class="numbertext">2 / 7</div>
+  <img src="/images/jal_f_2024/IMG_1995.JPEG" style="width:100%">
+  <i>JAL's Table appetizers</i>
+</div>
+
+<div class="mySlides7">
+  <div class="numbertext">3 / 7</div>
+  <img src="/images/jal_f_2024/IMG_1996.JPEG" style="width:100%">
+  <i>JAL's Table soft drinks</i>
+</div>
+
+<div class="mySlides7">
+  <div class="numbertext">4 / 7</div>
+  <img src="/images/jal_f_2024/IMG_1997.JPEG" style="width:100%">
+  <i>JAL's Table wines</i>
+</div>
+
+<div class="mySlides7">
+  <div class="numbertext">5 / 7</div>
+  <img src="/images/jal_f_2024/IMG_1998.JPEG" style="width:100%">
+  <i>JAL's Table wine list</i>
+</div>
+
+<div class="mySlides7">
+  <div class="numbertext">6 / 7</div>
+  <img src="/images/jal_f_2024/IMG_1999.JPEG" style="width:100%">
+  <i>JAL's Table self-serve pastries and soup</i>
+</div>
+
+<div class="mySlides7">
+  <div class="numbertext">7 / 7</div>
+  <img src="/images/jal_f_2024/IMG_2002.JPEG" style="width:100%">
+  <i>JAL's Table spirits and sake</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,7)">❮</a>
+<a class="next" onclick="plusSlides(1,7)">❯</a>
+
+</div>
+
+\
+This section of the lounge also featured a buffet of small appetizers and snacks, along with a selection of beverages. 
+
+<div class="slideshow-container">
+
+<div class="mySlides8">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2004.JPEG" style="width:100%">
+  <i>Shower room directions</i>
+</div>
+
+<div class="mySlides8">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2005.JPEG" style="width:100%">
+  <i>Shower room desk</i>
+</div>
+
+<div class="mySlides8">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2011.JPEG" style="width:100%">
+  <i>Shower room hallway</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,8)">❮</a>
+<a class="next" onclick="plusSlides(1,8)">❯</a>
+
+</div>
+
+\
+I then headed off to the shower rooms, which are located near the entrance of the lounge. The showers were also handled through the JAL Lounge+ app. You can add yourself to a waitlist, and you will receive a notification when a shower room is ready, at which point you are invited to the front desk and will receive a key. There are about ten shower suites in total, and I was able to quickly get into one of them as there were few other passengers using them in the morning. 
+
+<div class="slideshow-container">
+
+<div class="mySlides9">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2008.JPEG" style="width:100%">
+  <i>Shower room</i>
+</div>
+
+<div class="mySlides9">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2009.JPEG" style="width:100%">
+  <i>Shower room</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,9)">❮</a>
+<a class="next" onclick="plusSlides(1,9)">❯</a>
+
+</div>
+
+\
+Each shower room comes with a shower enclosure with a glass door, a sink, and a toilet. Basic amenities like towels, dental kits, and hair dryers are also provided. The shower room was clean and well-maintained, and it was very nice to freshen up before the 12-hour flight.
+
+<div class="slideshow-container">
+
+<div class="mySlides10">
+  <div class="numbertext">1 / 9</div>
+  <img src="/images/jal_f_2024/IMG_2013.JPEG" style="width:100%">
+  <i>Red Suite entrance</i>
+</div>
+
+<div class="mySlides10">
+  <div class="numbertext">2 / 9</div>
+  <img src="/images/jal_f_2024/IMG_2014.JPEG" style="width:100%">
+  <i>Red Suite display</i>
+</div>
+
+<div class="mySlides10">
+  <div class="numbertext">3 / 9</div>
+  <img src="/images/jal_f_2024/IMG_2015.JPEG" style="width:100%">
+  <i>Red Suite display</i>
+</div>
+
+<div class="mySlides10">
+  <div class="numbertext">4 / 9</div>
+  <img src="/images/jal_f_2024/IMG_2016.JPEG" style="width:100%">
+  <i>Red Suite publications</i>
+</div>
+
+<div class="mySlides10">
+  <div class="numbertext">5 / 9</div>
+  <img src="/images/jal_f_2024/IMG_2017.JPEG" style="width:100%">
+  <i>Red Suite seating and Champagne</i>
+</div>
+
+<div class="mySlides10">
+  <div class="numbertext">6 / 9</div>
+  <img src="/images/jal_f_2024/IMG_2018.JPEG" style="width:100%">
+  <i>Red Suite chess boards</i>
+</div>
+
+<div class="mySlides10">
+  <div class="numbertext">7 / 9</div>
+  <img src="/images/jal_f_2024/IMG_2019.JPEG" style="width:100%">
+  <i>Red Suite display</i>
+</div>
+
+<div class="mySlides10">
+  <div class="numbertext">8 / 9</div>
+  <img src="/images/jal_f_2024/IMG_2020.JPEG" style="width:100%">
+  <i>Red Suite foosball table</i>
+</div>
+
+<div class="mySlides10">
+  <div class="numbertext">9 / 9</div>
+  <img src="/images/jal_f_2024/IMG_2021.JPEG" style="width:100%">
+  <i>Red Suite display</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,10)">❮</a>
+<a class="next" onclick="plusSlides(1,10)">❯</a>
+
+</div>
+
+\
+A rather unique section of the lounge is the Red Suite at the South end, open during the busier morning and afternoon hours of the day. Along with additional seating, there is an array of display cases with vintage model aircraft, travel books, and other aviation-related items. JAL also offers a shoe shining service here, which seemed to be popular though I did not take advantage of it. In contrast to the lighter accents of the rest of the lounge, this section is furnished with black and dark red finishings, providing a more elevated and reserved ambiance.
+
+<div class="slideshow-container">
+
+<div class="mySlides11">
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2022.JPEG" style="width:100%">
+  <i>Sushi Tsurutei hallway</i>
+</div>
+
+<div class="mySlides11">
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2024.JPEG" style="width:100%">
+  <i>Tsurutei seating</i>
+</div>
+
+<div class="mySlides11">
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2025.JPEG" style="width:100%">
+  <i>Tsurutei buffet</i>
+</div>
+
+<div class="mySlides11">
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2027.JPEG" style="width:100%">
+  <i>Tsurutei decor</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,11)">❮</a>
+<a class="next" onclick="plusSlides(1,11)">❯</a>
+
+</div>
+
+\
+The section on the opposite side of the lounge is the Sushi Tsurutei, open from 0700 to 1100 daily. While it is advertised as a refined sushi bar, the items served here are identical to those from the menu over at JAL's Table, although this area was much more quiet. I was particularly fascinated by the five collections of stone blocks on lighted pedestals in the centre of the space, and it took me a while to figure out that these are depictions of skylines of some of JAL's major destinations: London, Paris, Tokyo, Shanghai, and New York, a clever global touch that blends in with the traditional Japanese ambiance imparted by the wood finishings throughout. 
+
+<div class="slideshow-container">
+
+<div class="mySlides12">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2028.JPEG" style="width:100%">
+  <i>Staircase to JAL's Salon</i>
+</div>
+
+<div class="mySlides12">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2030.JPEG" style="width:100%">
+  <i>JAL's Salon views</i>
+</div>
+
+<div class="mySlides12">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2032.JPEG" style="width:100%">
+  <i>JAL's Salon views</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,12)">❮</a>
+<a class="next" onclick="plusSlides(1,12)">❯</a>
+
+</div>
+
+\
+The last section of the lounge, JAL's Salon, is on the fifth level of the terminal, a flight of stairs above the main part of the lounge. The higher vantage point offers a more expansive view of the tarmac, though partially obstructed by the roofing below. I caught a glimpse of the Airbus that would be flying me to Dallas today. 
+
+<div class="slideshow-container">
+
+<div class="mySlides13">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2029.JPEG" style="width:100%">
+  <i>JAL's Salon seating</i>
+</div>
+
+<div class="mySlides13">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2031.JPEG" style="width:100%">
+  <i>JAL's Salon seating</i>
+</div>
+
+<div class="mySlides13">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2042.JPEG" style="width:100%">
+  <i>Massage chair</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,13)">❮</a>
+<a class="next" onclick="plusSlides(1,13)">❯</a>
+
+</div>
+
+\
+On the right as one comes up the staircase is a seating area and some massage chairs, which I enjoyed briefly and helped me loosen up a little. 
+
+<div class="slideshow-container">
+
+<div class="mySlides14">
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2033.JPEG" style="width:100%">
+  <i>JAL's Salon bar</i>
+</div>
+
+<div class="mySlides14">
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2034.JPEG" style="width:100%">
+  <i>JAL's Salon bar menu</i>
+</div>
+
+<div class="mySlides14">
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2035.JPEG" style="width:100%">
+  <i>JAL's Salon coffee and sweets</i>
+</div>
+
+<div class="mySlides14">
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2037.JPEG" style="width:100%">
+  <i>JAL's Salon spirits</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,14)">❮</a>
+<a class="next" onclick="plusSlides(1,14)">❯</a>
+
+</div>
+
+\
+The other side of this section is in the style of a upscale bar, serving a selection of Japanese spirits and beers, along with coffee and tea. JAL's Salon features a unique Japanese sweet each month, and the kotoji by Saneido, a sugar-coated red bean confectionery, was on offer when I visited. I ordered a cup of coffee to go along, and the attendant also brought some Godiva chocolate squares. 
+
+![yamazaki](\images\jal_f_2024\IMG_2036.JPEG)
+*Yamazaki whiskey*
+
+I also had a glass of the Yamazaki 12 Single Malt, a flagship Japanese whiskey. I enjoyed the fragrance of the Japanese oak while I watched the busy morning runway traffic. 
+
+![JA05WJ](\images\jal_f_2024\IMG_2050.JPEG)
+*JA05WJ parked at gate 111*
+
+After enjoying my time in the lounge, it was soon time to board, and I headed to our departure gate 111, which was just a short walk away. Our newly delivered A350-1000, with its red-tinted winglets and black windshield, sat elegantly at the gate as it was loaded for the flight. 
+
+<div class="slideshow-container">
+
+<div class="mySlides15">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2052.JPEG" style="width:100%">
+  <i>Boarding at gate 111</i>
+</div>
+
+<div class="mySlides15">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2055.JPEG" style="width:100%">
+  <i>Boarding views</i>
+</div>
+
+<div class="mySlides15">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2056.JPEG" style="width:100%">
+  <i>Boarding views</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,15)">❮</a>
+<a class="next" onclick="plusSlides(1,15)">❯</a>
+
+</div>
+
+\
+Boarding began at 1035, ten minutes after the originally scheduled time, and First Class passengers were invited to board first. The escalator ride down to the door-level of the plane allowed a view of the aircraft at a few different angles, highlighting the sleek curvatures of the fuselage. 
+
+##### Inflight Experience
+
+<div class="slideshow-container">
+
+<div class="mySlides16">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2060.JPEG" style="width:100%">
+  <i>Boarding through door 2</i>
+</div>
+
+<div class="mySlides16">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2061.JPEG" style="width:100%">
+  <i>Business Class cabin</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,16)">❮</a>
+<a class="next" onclick="plusSlides(1,16)">❯</a>
+
+</div>
+
+\
+We boarded through the second door, where the crew greeted me and led me to my seat while JAL's [cheerful soundtrack](https://www.youtube.com/watch?v=CnN2Zbtxti0) played in the background. We made a left turn at the aisle and passed through a few rows of the Business Class cabin. With the aircraft having been in commercial service for just a month, the interior was all in immaculate shape. JAL debuted a new Business Class seat on the A350, which looked functional and spacious.
+
+![screen](\images\jal_f_2024\IMG_2062.JPEG)
+*Entertainment screen*
+
+I would have been very happy taking this flight in Business already, but the First Class cabin with a 1-1-1 layout was simply stunning. The dark crimson and grey accents of the cabin felt luxurious but reserved. As I was brought to my seat for the flight, 2A, the 43-inch entertainment screen caught my eye immediately, bigger than anything I would expect to find on an aircraft. 
+
+<div class="slideshow-container">
+
+<div class="mySlides17">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2063.JPEG" style="width:100%">
+  <i>Seat</i>
+</div>
+
+<div class="mySlides17">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2066.JPEG" style="width:100%">
+  <i>Side seat and tray table</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,17)">❮</a>
+<a class="next" onclick="plusSlides(1,17)">❯</a>
+
+</div>
+
+\
+The purser introduced herself and briefly explained the amenities at my seat. Each First Class seat comes as an exceptionally wide enclosed suite, with the posted placard indicating that up to three people may occupy the suite during cruise. The seat itself consists of a main seat and a side seat. A small tray table and armrest is folded into the side seat. Two pillows, a blanket, and a pair of slippers were prepared at the seat. The ottoman below the screen could also be used for seating, and the enclosed storage space can accommodate two carry-on suitcases. Two dimmable windows were along the fuselage. 
+
+![screen](\images\jal_f_2024\IMG_2074.JPEG)
+*Welcome drink and hot towel*
+
+As I settled into the seat, the two other flight attendants working in the First Class cabin also came to introduce themselves. They were pleased to hear that I chose the Dallas flight so I could fly the new A350 and asked if I would like some Champagne before departure. In First Class, JAL is known for offering Salon Champagne, a small but highly regarded mark, although the flight attendant informed me that it would only be served once in the air. I thus asked for a glass of sparkling water instead, with the Perrier brand being featured. She quickly came back with a glass and a hot towel, and I spent some more time exploring the seat while I enjoyed my drink. 
+
+<div class="slideshow-container">
+
+<div class="mySlides18">
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2064.JPEG" style="width:100%">
+  <i>Left armrest</i>
+</div>
+
+<div class="mySlides18">
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2082.JPEG" style="width:100%">
+  <i>Tablet controller and seat controls</i>
+</div>
+
+<div class="mySlides18">
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2080.JPEG" style="width:100%">
+  <i>Reading lamps</i>
+</div>
+
+<div class="mySlides18">
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2072.JPEG" style="width:100%">
+  <i>Literature pocket</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,18)">❮</a>
+<a class="next" onclick="plusSlides(1,18)">❯</a>
+
+</div>
+
+\
+USB and AC charging ports, as well as some stylish reading lamps, were available at shoulder level at both the main and side seats, while a wireless charging station was at arm level. A detachable tablet is also found here, which can be used to control the seats and the entertainment screen. A dedicated panel for seat adjustment is also available. A small literature pocket below held the safety information card and air sickness bags. 
+
+<div class="slideshow-container">
+
+<div class="mySlides19">
+  <div class="numbertext">1 / 5</div>
+  <img src="/images/jal_f_2024/IMG_2065.JPEG" style="width:100%">
+  <i>Side counter, literature pocket</i>
+</div>
+
+<div class="mySlides19">
+  <div class="numbertext">2 / 5</div>
+  <img src="/images/jal_f_2024/IMG_2083.JPEG" style="width:100%">
+  <i>Seat operation pamphlet</i>
+</div>
+
+<div class="mySlides19">
+  <div class="numbertext">3 / 5</div>
+  <img src="/images/jal_f_2024/IMG_2078.JPEG" style="width:100%">
+  <i>Menus</i>
+</div>
+
+<div class="mySlides19">
+  <div class="numbertext">4 / 5</div>
+  <img src="/images/jal_f_2024/IMG_2077.JPEG" style="width:100%">
+  <i>Skincare kit</i>
+</div>
+
+<div class="mySlides19">
+  <div class="numbertext">5 / 5</div>
+  <img src="/images/jal_f_2024/IMG_2076.JPEG" style="width:100%">
+  <i>Amenity kit</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,19)">❮</a>
+<a class="next" onclick="plusSlides(1,19)">❯</a>
+
+</div>
+
+\
+Next to the screen was a larger literature pocket with the inflight magazine, a duty free shopping brochure, as well as an eight-page pamphlet explaining the seat functions and entertainment controls. The attention to detail that has gone into creating this product is evident, though I found it difficult to reach this pocket from the seat. Another small counter was right below the literature pocket, where the [meal](/images/jal_f_2024/meal_menu.pdf) and [drink](/images/jal_f_2024/drink_menu.pdf) menus with a leather casing, a Shiseido Men's skincare kit, and a well-stocked Herbalbony amenity kit were placed. 
+
+<div class="slideshow-container">
+
+<div class="mySlides20">
+  <div class="numbertext">1 / 5</div>
+  <img src="/images/jal_f_2024/IMG_2067.JPEG" style="width:100%">
+  <i>Storage compartment</i>
+</div>
+
+<div class="mySlides20">
+  <div class="numbertext">2 / 5</div>
+  <img src="/images/jal_f_2024/IMG_2068.JPEG" style="width:100%">
+  <i>Storage compartment</i>
+</div>
+
+<div class="mySlides20">
+  <div class="numbertext">3 / 5</div>
+  <img src="/images/jal_f_2024/IMG_2075.JPEG" style="width:100%">
+  <i>Note from crew</i>
+</div>
+
+<div class="mySlides20">
+  <div class="numbertext">4 / 5</div>
+  <img src="/images/jal_f_2024/IMG_2069.JPEG" style="width:100%">
+  <i>Wardrobe</i>
+</div>
+
+<div class="mySlides20">
+  <div class="numbertext">5 / 5</div>
+  <img src="/images/jal_f_2024/IMG_2173.JPEG" style="width:100%">
+  <i>Shoe rack</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,20)">❮</a>
+<a class="next" onclick="plusSlides(1,20)">❯</a>
+
+</div>
+
+\
+Below the counter, there were two additional storage spaces on the right, where there was a bottle of water and a small bag with some snacks and a handwritten note from the crew. On the left compartment that held the tray table, and farther to the right of the counter was a personal wardrobe, with a small rack to store shoes below. 
+
+![screen](\images\jal_f_2024\IMG_2130.JPEG)
+*Suite walls and overhead panels*
+
+With ample storage and lighting options built into the suite, the overhead panels only featured the seat belt sign and oxygen mask panels. The walls of the suites were quite high, ensuring privacy by putting other passengers out of view while seated, and the lack of overhead bins allowed the cabin to retain an airy ambiance. 
+
+![screen](\images\jal_f_2024\IMG_2079.JPEG)
+*Window view at gate*
+
+As boarding was completed, the captain came over the announcement to welcome us onboard and informed us that there will be a slight delay to finish loading the cargo hold and apologized for any inconvenience. Ten minutes later, he followed up stating that we will have to wait a little longer, but should be on our way shortly. I appreciated the effort to keep passengers informed despite the delay being minor. 
+
+<div class="slideshow-container">
+
+<div class="mySlides21">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2097.JPEG" style="width:100%">
+  <i>Safety video</i>
+</div>
+
+<div class="mySlides21">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2094.JPEG" style="width:100%">
+  <i>Pushback</i>
+</div>
+
+<div class="mySlides21">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2096.JPEG" style="width:100%">
+  <i>Pushback</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,21)">❮</a>
+<a class="next" onclick="plusSlides(1,21)">❯</a>
+
+</div>
+
+\
+About half an hour after our scheduled departure time, we began our pushback while the [safety video](https://www.youtube.com/watch?v=3BDIGt8MOD8) was screened. JAL's new safety video is short and to the point, a departure from the recent industry trend of catchy videos. It mostly featured animated characters while a flight attendant delivered the key points. The illustrations of situations that may arise when the safety procedures are not followed were quite effective at conveying the message. 
+
+<div class="slideshow-container">
+
+<div class="mySlides22">
+  <div class="numbertext">1 / 6</div>
+  <img src="/images/jal_f_2024/IMG_2099.JPEG" style="width:100%">
+  <i>Taxi-JAL zone</i>
+</div>
+
+<div class="mySlides22">
+  <div class="numbertext">2 / 6</div>
+  <img src="/images/jal_f_2024/IMG_2103.JPEG" style="width:100%">
+  <i>Taxi-JAL zone</i>
+</div>
+
+<div class="mySlides22">
+  <div class="numbertext">3 / 6</div>
+  <img src="/images/jal_f_2024/IMG_2105.JPEG" style="width:100%">
+  <i>Taxi-ANA zone</i>
+</div>
+
+<div class="mySlides22">
+  <div class="numbertext">4 / 6</div>
+  <img src="/images/jal_f_2024/IMG_2108.JPEG" style="width:100%">
+  <i>A350-900 to Sapporo</i>
+</div>
+
+<div class="mySlides22">
+  <div class="numbertext">5 / 6</div>
+  <img src="/images/jal_f_2024/IMG_2113.JPEG" style="width:100%">
+  <i>Taxi-ANA zone</i>
+</div>
+
+<div class="mySlides22">
+  <div class="numbertext">6 / 6</div>
+  <img src="/images/jal_f_2024/IMG_2109.JPEG" style="width:100%">
+  <i>Taxiing toward runway</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,22)">❮</a>
+<a class="next" onclick="plusSlides(1,22)">❯</a>
+
+</div>
+
+\
+As we taxiied toward the runway, the ANA/JAL duopoly at Haneda was evident with the alternating patches of blue and red tails. A -900 variant of the Airbus A350, now the workhorse of JAL's domestic fleet, took off to Sapporo in front of us. 
+
+
+![screen](\images\jal_f_2024\IMG_2100.JPEG)
+*Tail view camera*
+
+One of my favourite features on the A350 is that there are always cameras available to see the outside, with a choice between a tail view and a belly view. It was a joy to see our aircraft moving on the massive screen in front of me as we prepared for take off. 
+
+<div class="slideshow-container">
+
+<div class="mySlides23">
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2115.JPEG" style="width:100%">
+  <i>Take off</i>
+</div>
+
+<div class="mySlides23">
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2116.JPEG" style="width:100%">
+  <i>Take off-Odaiba</i>
+</div>
+
+<div class="mySlides23">
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2118.JPEG" style="width:100%">
+  <i>Take off-Tokyo skyline</i>
+</div>
+
+<div class="mySlides23">
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2119.JPEG" style="width:100%">
+  <i>Take off-Tokyo skyline with Skytree</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,23)">❮</a>
+<a class="next" onclick="plusSlides(1,23)">❯</a>
+
+</div>
+
+\
+At 1140, we took off toward the northwest from runway 34R. We then turned East toward Tokyo Bay, with a view of the artificial islands of Odaiba on my side of the aircraft. We then headed North around the Tokyo area and finally turned East again toward the Pacific Ocean. It was a cloudy day, but we enjoyed a nice view of the teeming skyscrapers of the Tokyo skyline, with the iconic Tokyo Skytree in the distance. 
+
+<div class="slideshow-container">
+
+<div class="mySlides24">
+  <div class="numbertext">1 / 5</div>
+  <img src="/images/jal_f_2024/IMG_2122.JPEG" style="width:100%">
+  <i>Climbing through the clouds</i>
+</div>
+
+<div class="mySlides24">
+  <div class="numbertext">2 / 5</div>
+  <img src="/images/jal_f_2024/IMG_2128.JPEG" style="width:100%">
+  <i>Climbing above the clouds</i>
+</div>
+
+<div class="mySlides24">
+  <div class="numbertext">3 / 5</div>
+  <img src="/images/jal_f_2024/IMG_2133.JPEG" style="width:100%">
+  <i>Cruise</i>
+</div>
+
+<div class="mySlides24">
+  <div class="numbertext">4 / 5</div>
+  <img src="/images/jal_f_2024/IMG_2132.JPEG" style="width:100%">
+  <i>Additional video screening</i>
+</div>
+
+<div class="mySlides24">
+  <div class="numbertext">5 / 5</div>
+  <img src="/images/jal_f_2024/IMG_2134.JPEG" style="width:100%">
+  <i>Hot towel</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,24)">❮</a>
+<a class="next" onclick="plusSlides(1,24)">❯</a>
+
+</div>
+
+\
+We soon dove through the clouds and met some sun, while another video was played with some information about the flight. The crew brought out a hot towel and confirmed my choice of the Japanese meal for the main meal service, which I had selected online before the flight. I was quite excited for this meal, as it is designed by Ishikawa and Torahaku, two Japanese restaurants with a three-Michelin-star rating. She also asked me what drink I would like to have to start, offering the Salon Champagne I had asked for earlier, which I was happy to finally try. 
+
+<div class="slideshow-container">
+
+<div class="mySlides25">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2137.JPEG" style="width:100%">
+  <i>Tray table with tablecloth</i>
+</div>
+
+<div class="mySlides25">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2138.JPEG" style="width:100%">
+  <i>Tray table extended from compartment</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,25)">❮</a>
+<a class="next" onclick="plusSlides(1,25)">❯</a>
+
+</div>
+
+\
+The crew then came and set up for the meal service. The table was very heavy and sturdy. A little too much so perhaps, the crew's careful maneuvers bringing it out of the storage compartment started the service off with a ceremonial air. I was quite excited for the feast ahead of me. 
+
+<div class="slideshow-container">
+
+<div class="mySlides26">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2139.JPEG" style="width:100%">
+  <i>Amuse course</i>
+</div>
+
+<div class="mySlides26">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2141.JPEG" style="width:100%">
+  <i>Salon Champagne</i>
+</div>
+
+<div class="mySlides26">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2143.JPEG" style="width:100%">
+  <i>Tail view camera</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,26)">❮</a>
+<a class="next" onclick="plusSlides(1,26)">❯</a>
+
+</div>
+
+\
+After a few moments, the crew brought out first course, which was not listed on the menu, and explained the items featured in the small plate of hors d'oeuvres. The plate contained a few traditional items: pickle, an olive, and some Iberico ham. Along with these came a few more experimental items: a puff with a filling of a seasoned beef puree, along with a piece of snow crab leg wrapped in smoked salmon served with an apple-flavoured jelly. They also brought out the 2013 Salon Champagne and poured it at my seat. I enjoyed its bright profile along with the relatively strong but intricate flavours of the first course, a pleasure as I watched our majestic aircraft cruising through the clouds. For a moment, I thought it would be nice to display the camera view on the main screen while playing the flight map on the tablet screen, so I fiddled with the system for a few minutes to no avail, resorting to asking the crew for help. The purser came by and tried to toggle with the settings with similar results. She told me it was only her second flight on the A350 and there is still a lot to get familiar with! 
+
+![appetizer](\images\jal_f_2024\IMG_2145.JPEG)
+*Appetizer course*
+
+The appetizer course "seasonal colourful delicacies" was brought out on a tray, with a small bowl for each of the items. The crew pointed out that the two dishes closest to me were served hot and recommended that I enjoy them first. I started with the bottom right dish, a Japanese chestnut simmered with matsutake, a highly regarded mushroom variety in Japan. The chestnut was soft and mushy, with a relatively neutral sweetness that accentuated the aroma of the mushrooms. I then tried the barracuda with the truffle cream sauce, a delicate balance of oceanic and earthy flavours. Next was a steamed fig with a miso cream sauce, and the cool dish with the crunchy fig seeds kept the umami and rich texture of the sauce without it being too heavy. The lime shavings on top were also a refreshing touch. Then was a simmered eggplant with grated ginger, infused with savoury flavours of dashi broth. The last dish consisted of boiled squid pieces, whose soft texture carried a well-balanced profile of the umami of the kombu seaweed, sesame fragrance, and refreshing flavour of the Japanese ginger shoots. Overall, the skillful use of seasonal ingredients and carefully curated flavour profiles of each dish made this course a vibrant start for the meal. 
+
+![suimono](\images\jal_f_2024\IMG_2146.JPEG)
+*Soup course*
+
+Next was the soup course served on a new tray, featuring a soft and mild tilefish alongside some crunchy Julienne cuts of celery, carrots, scallions, and mushrooms. The flight attendant noted that the soup base carried a yuzu flavour, which stood out quite intensely. The chunk of wax gourd also absorbed the flavour quite well, making for a relatively unassuming but comforting course. 
+
+![toyobijin](\images\jal_f_2024\IMG_2148.JPEG)
+*Toyo Bijin sake*
+
+As I finished my glass of Salon, the crew asked if I would like a refill. While the Champagne is a highlight of the menu, JAL also carries a selection of delicious Japanese sakes, and I decided to try the Toyo Bijin (東洋美人). The crew brought a new glass and again poured the sake at my seat. The sake carried profuse ripe, fruity aromas with a sweet but not overwhelming flavour and went well with the courses of the season.  
+
+![nakazara](\images\jal_f_2024\IMG_2152.JPEG)
+*Caviar and fish course*
+
+The next course was the nakazara (中皿), a piece of steamed rockfish in a soy-based thickened sauce, served alongside mukago yam bulbils and garland chrysanthemum, which I later realized was the same as tong ho (茼蒿) which is widely used in Chinese cuisine. On the side was the staple of First Class meal services, a tin of caviar. JAL served Arcane malossol sturgeon caviar from France, and the flight attendant explained that it is meant to go on top of the fish and eaten together. In contrast to the previous course, this fish was quite strong in flavour, although I thought it was still not enough to balance the rich profile of the caviar. The sweet sauce, slightly pungent vegetables, earthy yams, and delicately spicy wasabi rounded off the dish nicely, however. The sauce also took away the overtly fishy aftertaste of the caviar, making for a pleasant balance of tastes.  
+
+![dainomono](\images\jal_f_2024\IMG_2155.JPEG)
+*Main course*
+
+The main course of the meal was a plate of wagyu beef tongue served in a dashi and soy-based sauce infused with the subtle fragrance of chrysanthemum flower, which brought a calming flavour to the dish. The beef itself was quite soft and chewy, a gentler texture than the more commonplace cuts of beef. The plate also featured a soft fried tofu, chrysanthemum petals carrying a slight sourness, along with some firmer lotus root and edamame. The seasonal mushrooms that the rice is cooked with brought a strong umami taste to an otherwise simple bowl. Also in this course was a miso soup with fresh seaweed and a pickled plate of the slimy nagaimo and shiso-flavoured cucumbers, rounding out a traditional Japanese main course. 
+
+![hiroki](\images\jal_f_2024\IMG_2156.JPEG)
+*Hiroki sake*
+
+I also tried the other sake on offer, the Hiroki (飛露喜), which carried a lighter and sweeter profile. It was nonetheless equally enjoyable and went well with the more subdued flavours of the main course. 
+
+![bavarois](\images\jal_f_2024\IMG_2157.JPEG)
+*Matcha Bavarois dessert*
+
+Following the elaborate but not overfilling courses, I asked the crew if I could have desserts from both the Japanese and Western menus, which they were happy to provide. I started with the Japanese dessert of a matcha bavarois served with whipped cream, a slightly Westernized take. The cake was rich and creamy, but the bitterness of the matcha maintained a balanced profile. I am quite a fan of matcha-based desserts for this reason! 
+
+<div class="slideshow-container">
+
+<div class="mySlides27">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2158.JPEG" style="width:100%">
+  <i>Queen of Blue tea</i>
+</div>
+
+<div class="mySlides27">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2159.JPEG" style="width:100%">
+  <i>Blue tea in wine glass</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,27)">❮</a>
+<a class="next" onclick="plusSlides(1,27)">❯</a>
+
+</div>
+
+\
+I enjoyed the desserts with another signature beverage offering of JAL First Class, the Queen of Blues tea, served in a wine glass. A traditional but more refined Japanese green tea, I especially enjoyed the earthy wood tastes on the finish. 
+
+![kuri_gateau](\images\jal_f_2024\IMG_2160.JPEG)
+*Chestnut cake*
+
+The Western dessert was a creative chestnut cake, layered with sugar crisp, cream, cake, puree of chestnut flavours. Each layer carried its own complementary flavour to the chestnut theme while providing diverse textures, making for a rich treat. 
+
+<div class="slideshow-container">
+
+<div class="mySlides28">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2135.JPEG" style="width:100%">
+  <i>Lavatory amenities</i>
+</div>
+
+<div class="mySlides28">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2136.JPEG" style="width:100%">
+  <i>Lavatory sink</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,28)">❮</a>
+<a class="next" onclick="plusSlides(1,28)">❯</a>
+
+</div>
+
+\
+The meal service was complete about two and a half hours after departure. With a satisfying meal after a long night and morning, I headed to the lavatory to change into the provided pajamas to get ready for some rest. The lavatory was kept well-stocked and cleaned throughout the flight, with amenities including dental products, face towels, disposal bags, and skincare products.  
+
+<div class="slideshow-container">
+
+<div class="mySlides29">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2162.JPEG" style="width:100%">
+  <i>Seat reclined into bed</i>
+</div>
+
+<div class="mySlides29">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2174.JPEG" style="width:100%">
+  <i>Closed suite door</i>
+</div>
+
+<div class="mySlides29">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2163.JPEG" style="width:100%">
+  <i>Sunlight outside</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,29)">❮</a>
+<a class="next" onclick="plusSlides(1,29)">❯</a>
+
+</div>
+
+\
+The crew helped lower the seat into a bed and prepare the bedding as I was away. The two sides of the airweave mattress provides firm and soft support, respectively. The crew took care to ask me which side I preferred for sleeping, and I requested with the firm side. After a few moments, I returned to a comfortable and wide bed, closed the sliding suite door, and quickly fell asleep despite the sunlight outside the windows.  
+
+<div class="slideshow-container">
+
+<div class="mySlides30">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2165.JPEG" style="width:100%">
+  <i>Dark cabin</i>
+</div>
+
+<div class="mySlides30">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2166.JPEG" style="width:100%">
+  <i>Flight map</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,30)">❮</a>
+<a class="next" onclick="plusSlides(1,30)">❯</a>
+
+</div>
+
+\
+I slept soundly for about three hours before waking up to a dark cabin cruising through the night sky. The electronic dimming windows on the A350 do a great job of blocking the light from outside, even though it was not quite necessary at this point during the flight. 
+
+![donburi](\images\jal_f_2024\IMG_2169.JPEG)
+*Salmon ikura don*
+
+The crew came by and asked if I would like to have anything from the snack menu, and I decided to try the salmon ikura don, which came around 15 minutes later in a ceramic bowl, topped with roasted nori seaweed along with soy sauce and wasabi on the side. I was a little surprised to find that the salmon was served cooked rather than raw, as would be in a traditional serving of this dish, but then realized this was a reasonable offering given this was meant to be served at any time during the flight. I do think this could be marked more clearly on the menu though. The rice bowl itself was well seasoned and I enjoyed the flavourful salmon roe popping in my mouth. The side table was quite useful for these smaller dishes, as I did not have to bring out the tray table compartment and got to keep the seat reclined while enjoying the food.  
+
+![kushimono](\images\jal_f_2024\IMG_2171.JPEG)
+*Skewer dish*
+
+After working a little bit, I decided to watch a Japanese movie and make use of the massive screen. I went with "Silent Parade" (沈黙のパレード), a detective film based on a novel by Higashino Keigo. One of the intriguing features of the new JAL seats is the embedded speakers in the headrest. While a nice function to avoid the need for headphones, I found the audio volume to be a little too low. I also ordered the skewer set with grilled chicken, a meat ball, and a Japanese omlette, served with a dish of shichimi on the side. The tray was a hearty treat, and the size of the skewers were quite generous.  
+
+![kaki](\images\jal_f_2024\IMG_2172.JPEG)
+*Oysters and shochu*
+
+I also tried the dried oysters, which turned out to be less thoroughly dried out than I had expected. The flavour was quite intense, and the similarly intense hyakunen no kodoku (百年の孤独) shochu turned out to be a great complement. For a second, I thought I was drinking whiskey after the first sip, although the almost colourless clear liquid in the glass convinced me otherwise. 
+
+![sunrise](\images\jal_f_2024\IMG_2176.JPEG)
+*Tail camera sunrise view*
+
+I spent the next few hours between dozing off some more and doing some work. The crew was very attentive throughout, often checking the cabin and noting if I needed something. We approached Dallas as the sun began rising over the horizon, with the screen again providing a gorgeous tail camera view. 
+
+![choshoku](\images\jal_f_2024\IMG_2175.JPEG)
+*Japanese breakfast set*
+
+With about an hour and half to go in the flight, I asked for the Japanese breakfast set. The menu was adorably titled "Fumiko's washoku", as it was designed in collaboration with chef Kono Fumiko. The main dish was a soft and buttery grilled swordfish filet, along with a lotus root stuffed with shrimp and amaranth paste, picked cabbage, and grilled maitake mushrooms. Chrysanthemum petals also made a second appearance. A bowl of rice, miso soup, and a side dish of bok choy and walnuts was also served. I found the meal set to be much gentler than the main meal, without equally intense marriages of flavours and textures, but a very comforting dish after a long flight. 
+
+![dessert_tray](\images\jal_f_2024\IMG_2180.JPEG)
+*Dessert tray and gifts from crew*
+
+I finished the meal with the petit dessert tray, consisting of a gelatinized rare berry cheesecake and a slice of opera cake, with a sweet potato base and chestnut puree vermicelli topping. I also ordered some coffee for the morning arrival, which was served from a press at my seat. While I was just expecting a simple sweet ending to the fantastic journey, the crew made it even sweeter when they came out with some surprise gifts: a plastic model aircraft, an A350-themed luggage tag, and a sticker with a note from the cockpit crew. They cheerfully thanked me for flying with JAL, and I also thanked them for their efforts throughout the flight to deliver a comfortable journey. As it goes in Japan, many bows were exchanged, continuing even as the purser was walking away from my seat along the aisle. The professionalism and dedication of the crew was nothing short of impressive.  
+
+<div class="slideshow-container">
+
+<div class="mySlides31">
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2181.JPEG" style="width:100%">
+  <i>Begin of descent with halo</i>
+</div>
+
+<div class="mySlides31">
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2186.JPEG" style="width:100%">
+  <i>Descent-Texas plains</i>
+</div>
+
+<div class="mySlides31">
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2193.JPEG" style="width:100%">
+  <i>Descent-Grapevine lake</i>
+</div>
+
+<div class="mySlides31">
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/jal_f_2024/IMG_2197.JPEG" style="width:100%">
+  <i>Descent</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,31)">❮</a>
+<a class="next" onclick="plusSlides(1,31)">❯</a>
+
+</div>
+
+\
+The morning sun made a halo around the aircraft from the tail camera as we made our descent over the lush green plains of Texas. Our final approach took us by Grapevine lake, and the rays of the morning sun glistened in the water as the sprawling suburbs of Dallas moved closer. With a few misty clouds softening the sunlight, I savoured the last bit of my time in my suite. 
+
+<div class="slideshow-container">
+
+<div class="mySlides32">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2199.JPEG" style="width:100%">
+  <i>Touchdown</i>
+</div>
+
+<div class="mySlides32">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2200.JPEG" style="width:100%">
+  <i>Taxi to terminal</i>
+</div>
+
+<div class="mySlides32">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/jal_f_2024/IMG_2203.JPEG" style="width:100%">
+  <i>Windows fogging</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,32)">❮</a>
+<a class="next" onclick="plusSlides(1,32)">❯</a>
+
+</div>
+
+\
+We touched down at Dallas Fort Worth after the twelve-hour journey across the Pacific. Although it was already fall, the humidity in the air still fogged up the windows as we taxiied toward the terminal.
+
+![parking](\images\jal_f_2024\IMG_2205.JPEG)
+*Tail camera parking view*
+
+We parked at gate D14 and opened the second door. The crew led First Class passengers through the Business cabin so we could disembark first. I thanked them again for their service throughout the flight and bid farewell. 
+
+##### Arrival
+
+<div class="slideshow-container">
+
+<div class="mySlides33">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2206.JPEG" style="width:100%">
+  <i>Looking back at the aircraft</i>
+</div>
+
+<div class="mySlides33">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/jal_f_2024/IMG_2207.JPEG" style="width:100%">
+  <i>Arrival walkway</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,33)">❮</a>
+<a class="next" onclick="plusSlides(1,33)">❯</a>
+
+</div>
+
+\
+I glanced back at our aircraft as I made my way down to the immigration hall. The red crane, with its wings spread wide, carries its unique Japanese elegance to all the corners of the world it flies to. 
+
+![dfw_checkin](\images\jal_f_2024\IMG_2213.JPEG)
+*Return flight check in desks*
+
+The checkpoint was not busy and I reached the arrival hall less than ten minutes later. With passengers checking in for the flight back to Tokyo, the young A350 continues its work in connecting people across the globe. 
+
+##### Concluding Thoughts
+Having booked this flight long in advance, I had quite high expectations for the experience, and I am glad to say that JAL's new flagship offering did not disappoint. The Japanese hospitality and professionalism that I have always associated with JAL, combined with the industry-leading product, made for a wonderful flight across the Pacific. I will no doubt cherish my memories from this journey and continue looking forward to every JAL flight I get to take.
+
+<script>
+
+/* Class the members of each slideshow group with different CSS classes */
+let slideId = ["mySlides1", "mySlides2", "mySlides3","mySlides4","mySlides5","mySlides6","mySlides7","mySlides8","mySlides9","mySlides10","mySlides11","mySlides12","mySlides13","mySlides14","mySlides15","mySlides16","mySlides17","mySlides18","mySlides19","mySlides20","mySlides21","mySlides22","mySlides23","mySlides24","mySlides25","mySlides26","mySlides27","mySlides28","mySlides29","mySlides30","mySlides31","mySlides32","mySlides33"];
+let slideIndex = new Array(slideId.length);
+for (i=0; i < slideIndex.length; i++) {
+  slideIndex[i]=1
+  showSlides(1,i+1);
+}
+
+</script>

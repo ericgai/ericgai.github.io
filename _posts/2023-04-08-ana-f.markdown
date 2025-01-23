@@ -7,7 +7,9 @@ categories:
   - Travel
   - Flights
 title: "Another Sky"
+meta_title: "Review: All Nippon Airways First Class Tokyo Narita to San Francisco"
 excerpt: "ANA First Class Tokyo Narita-San Francisco"
+description: "Here I review ANA's transpacific First Class service, flown March 2023. The spacious seat, attentive service, and bold menu offerings made for an exciting and memorable journey. Also includes a review of the ANA Suite Lounge at Narita."
 date: "2023-04-02"
 toc: true
 last_modified_at: "2024-01-13"

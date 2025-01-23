@@ -8,6 +8,8 @@ categories:
   - Destinations
 title: "Highlights from the Low Countries"
 excerpt: "A very happy holidays in Belgium and the Netherlands"
+date: "2023-01-16"
+last_modified_at: "2023-02-02"
 header:
   teaser: /images/BENL_trip/IMG_1578.jpeg
 ---
