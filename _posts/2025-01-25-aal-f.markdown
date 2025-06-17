@@ -1,0 +1,647 @@
+---
+layout: single
+# author_profile: true
+# classes: wide
+comments: true
+categories:
+  - Travel
+  - Flights
+title: "A Flagship Excursion"
+meta_title: "Review: American Airlines Airbus A321 First Class New York to San Francisco"
+excerpt: "American Airlines Airbus A321 First Class New York to San Francisco"
+description: ""
+date: "2025-01-25"
+toc: true
+last_modified_at: "2025-06-17" 
+header:
+  teaser: /images/aal_f_2025/IMG_2745.JPEG
+
+---
+
+As the world's largest airline in terms of passengers carried in 2024, American Airlines maintains a strong domestic and international network, serving the diverse needs of travel to and from the United States. It also happens to be the last U.S. carrier to offer a First Class product separate from Business class as other carriers have eliminated this differentiation due to waning demand over the years. Branded as Flagship First, American offers its First Class cabin on the Airbus A321 Transcon fleet, serving trunk routes between the East and West coasts of the U.S., as well as the Boeing 777-300ER fleet, serving other major international routes. At the end of 2024, American finally followed industry trends as well and announced plans to phase out First Class service. I decided to try to catch this product on the transcontinental route from New York to San Francisco, which proved a pleasant way to travel across the U.S. 
+
+##### Flight Details
+American Airlines (AAL/AA) Flight 2305    
+Origin: New York John F. Kennedy, JFK   
+Departure: 16:52, 25 January 2025 (UTC-5)   
+Destination: San Francisco, SFO   
+Arrival: 20:38, 25 January 2025 (UTC-8)  
+Duration: 06:46 hours   
+Aircraft: N105NN, Airbus A321, delivered December 2013  
+Seat: 1A (First)  
+
+##### Booking
+The Finnair Plus program can offer some compelling redemptions, and earning these points have been relatively easy since Finnair joined the Avios program in early 2024, allowing instant transfers to and from British Airways' frequent flyer program. I booked this flight about three months in advance for 30,000 Avios points and US$5.60 in taxes and fees. I earned these points by transferring some RBC Avion points to British Airways, and then to Finnair. I then used the online chat function to book this flight after finding partner award space by searching on Alaska Airlines. The booking process was straightforward once connected to an agent, and I was quite happy to score a deal on this flight. 
+
+##### New York Departure Ground Experience 
+
+![checkin_entrance](\images\aal_f_2025\IMG_2676.JPEG)
+*Premium check in entrance* 
+
+I arrived at JFK from Boston in the morning on JetBlue, parking at Terminal 5, and took the AirTrain over to Terminal 8. Opened in 2008, this terminal serves as the home base for American and British Airways in New York City, where the two airlines have jointly branded many of the customer touchpoints. It was a clear and bright day, and movements at this busy airport were already in motion in the cold crisp morning air. I walked to the end of the curb to take the premium check in entrance serving American and British Airways passengers. 
+
+![checkin_hall](\images\aal_f_2025\IMG_2677.JPEG)
+*Premium check in area* 
+
+With the earliest bank of flights mostly closed, the check in area was relatively quiet as I entered the terminal. The premium check in zone was an enclosed area furnished with white marble and light wooden accents. 
+
+<div class="slideshow-container"> 
+
+<div class="mySlides1">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2678.JPEG" style="width:100%">
+  <i>First Class check in area entrance</i>
+</div> 
+
+<div class="mySlides1">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2679.JPEG" style="width:100%">
+  <i>First Class check in access list</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,1)">❮</a>
+<a class="next" onclick="plusSlides(1,1)">❯</a>
+
+</div>
+
+\
+A separate check in area for First Class passengers was available behind a glass door at the end of this zone. As I approached, an agent at the entrance greeted me and confirmed that I was flying First on American before inviting me through the door. 
+
+![f_checkin](\images\aal_f_2025\IMG_2681.JPEG)
+*First Class check in area*  
+
+The First Class check in area consisted of a few desks with armchairs for the passengers, maintaining consistent white and light brown finishings. There was only one other passenger checking in at the time, and the agent at the end of the row signaled me to come to her desk. She quickly pulled up my reservation and printed my boarding pass, also reminding me that I had access to the First Class lounge. I was happy to be on my way quickly. 
+
+![tsa_point](\images\aal_f_2025\IMG_2685.JPEG)
+*Security checkpoint*  
+
+The exit from the premium check in zone leads to the main security checkpoint for the terminal, and I found the signage for priority lanes a little unclear. Luckily, the queue was short in any case. As American has been using this terminal well before its merger with US Airways, there are still many touchpoints with the legacy American branding. Displayed in the security area was the classic eagle wings logo with a metallic finish.  
+
+![t8_passage](\images\aal_f_2025\IMG_2686.JPEG)
+*Terminal passage*  
+
+The exit from the security area led to the main part of Terminal 8. While New York City is a key market for American, it runs a rather small hub from this terminal with 31 gates, a relatively intimate space. Renovation works occupied the passageway toward the gates, a part of a massive redevelopment plan for JFK over a decade. 
+
+![fcl_elevator](\images\aal_f_2025\IMG_2687.JPEG)
+*Terminal entrance to premium lounges*  
+
+American and British Airways jointly operate three lounges from this terminal, each named after neighbourhoods that are shared between New York City and London: Greenwich, Soho, and Chelsea. First Class passengers on either airline are invited to the Chelsea Lounge, the most premium of the lineup. The lounge is located to the right of the main passageway of the terminal, one level up from the main departure level. 
+
+![fcl_entrance](\images\aal_f_2025\IMG_2688.JPEG)
+*Main entrance to premium lounges*  
+
+The entrance to the Chelsea lounge is shared with the Soho lounge, which other **one**world First Class passengers and Emerald members can also access. The agents at the reception desk scanned my boarding pass and welcomed me into the lounge.  
+
+![flc_passage](\images\aal_f_2025\IMG_2689.JPEG)
+*Passage to Chelsea lounge*
+
+A short passageway led to the main part of the lounge, where the bar area, with its array of glass ceiling fixtures, immediately stood out. With tight access requirements, the lounge is quite intimate and does not get too busy during the day. The light beige and dark wood accents continue to be featured here.  
+
+<div class="slideshow-container">
+
+<div class="mySlides2">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2690.JPEG" style="width:100%">
+  <i>Lounge seating</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2693.JPEG" style="width:100%">
+  <i>Dining area</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,2)">❮</a>
+<a class="next" onclick="plusSlides(1,2)">❯</a>
+
+</div>
+
+\
+To the left was a small seating area, and further inside was a dedicated dining area. The dim lighting and the fireplace in the centre of the lounge makes for a cozy atmosphere.  
+
+<div class="slideshow-container">
+
+<div class="mySlides3">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2697.JPEG" style="width:100%">
+  <i>Lounge seating</i>
+</div>
+
+<div class="mySlides3">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2699.JPEG" style="width:100%">
+  <i>Lounge seating</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,3)">❮</a>
+<a class="next" onclick="plusSlides(1,3)">❯</a>
+
+</div>
+
+\
+There were also several other seating arrangements available, offering options for groups of various sizes.  
+
+![fcl_washroom](\images\aal_f_2025\IMG_2691.JPEG)
+*Lounge washroom*  
+
+The reserved but elegant decor continues into the washroom, keeping the wooden accents while featuring granite countertops. The setup of the sinks was quite unique but somewhat unintuitive, each with a large faucet, a smaller soap dispenser, and a automatic dryer. I also found the faucet's sensor not to be the most convenient, requiring one to keep to its side of the sink to keep water flowing. 
+
+![fcl_breakfast_menu](\images\aal_f_2025\IMG_2692.JPEG)
+*Breakfast menu*  
+
+As I took a seat at the dining area, an attendant came by and presented me with the breakfast menu, served until 1100 daily. The menu consisted of some traditional and modern Western breakfast fare.  
+
+![tartine](\images\aal_f_2025\IMG_2695.JPEG)
+*Smoked salmon tartine*  
+
+I decided to try the smoked salmon tartine served with a side of arugula salad, making for a simple but refreshing dish. 
+
+![pancakes](\images\aal_f_2025\IMG_2696.JPEG)
+*Apple-stuffed pancakes*  
+
+I also asked for the pancakes, and the combination of maple syrup, toasted apples, and coffee-flavoured whipped cream proved to be a unique take on the classic American dish.  
+
+<div class="slideshow-container">
+
+<div class="mySlides4">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/aal_f_2025/IMG_2737.JPEG" style="width:100%">
+  <i>Champagne bar</i>
+</div>
+
+<div class="mySlides4">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/aal_f_2025/IMG_2698.JPEG" style="width:100%">
+  <i>Krug Champagne</i>
+</div>
+
+<div class="mySlides4">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/aal_f_2025/IMG_2701.JPEG" style="width:100%">
+  <i>Krug Champagne served in a flute</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,4)">❮</a>
+<a class="next" onclick="plusSlides(1,4)">❯</a>
+
+</div>
+
+\
+After a filling breakfast, I decided to head over to the Champagne bar to pass some time. The Chelsea lounge has a rotating selection of special Champagnes on offer, and Krug Grande Cuvée was on offer when I visited. The bar was staffed by a lovely attendant, and I enjoyed a pour of the special Champagne as I got to interact with some other passengers flying on American transcontinental flights.  
+
+![all-day_menu](\images\aal_f_2025\IMG_2724.JPEG)
+*All-day menu*  
+
+At around 1100, the a la carte menu changed to the all day menu. After taking a walk around the terminal, I came back for some lunch. An attendant again brought the menu as I took a seat.
+
+<div class="slideshow-container">
+
+<div class="mySlides5">
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/aal_f_2025/IMG_2728.JPEG" style="width:100%">
+  <i>Lucien Albrecht Riesling</i>
+</div>
+
+<div class="mySlides5">
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/aal_f_2025/IMG_2725.JPEG" style="width:100%">
+  <i>Drink menu: Champagne</i>
+</div>
+
+<div class="mySlides5">
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/aal_f_2025/IMG_2726.JPEG" style="width:100%">
+  <i>Drink menu: cocktails</i>
+</div>
+
+<div class="mySlides5">
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/aal_f_2025/IMG_2727.JPEG" style="width:100%">
+  <i>Drink menu: wine and beer</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,5)">❮</a>
+<a class="next" onclick="plusSlides(1,5)">❯</a>
+
+</div>
+
+\
+An extensive drink menu was also offered, with a variety of cocktails presented as either British or American, a nod to the home carriers of the lounge. I decided to go with a glass of Riesling from Alsace.
+
+![crab_soup](\images\aal_f_2025\IMG_2730.JPEG)
+*Crab curry soup*  
+
+To start, I ordered the sweet potato, crab, and curry soup. The spices of the curry were quite strong, which the thickness of the sweet potato carried the flavours well. The oceanic aroma of the crab added some more dimensions, and the herb and balsamic reduction toppings gave a refreshing note.  
+
+![pappardelle](\images\aal_f_2025\IMG_2731.JPEG)
+*Seafood pappardelle*  
+
+I then enjoyed the pappardelle with seafood. The pasta was nicely cooked to a firm texture, and the tomato-based sauce was flavourful but not overpowering. The seafood in the dish consisted of shrimp, squid rings, mussels, and some small pieces of lobster. 
+
+![rum_cake](\images\aal_f_2025\IMG_2732.JPEG)
+*Spiced rum cake*  
+
+To finish, I tried the spiced rum cake, topped with fresh slices of pineapple, with a scoop of vanilla ice cream on the side. The cake itself was a plain pound cake, with flavours of the dish mostly coming through the rum caramel sauce and vanilla cream, which were rich and indulgent.  
+
+<div class="slideshow-container">
+
+<div class="mySlides6">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/aal_f_2025/IMG_2733.JPEG" style="width:100%">
+  <i>Shower room amenities</i>
+</div>
+
+<div class="mySlides6">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/aal_f_2025/IMG_2734.JPEG" style="width:100%">
+  <i>Shower room sink</i>
+</div>
+
+<div class="mySlides6">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/aal_f_2025/IMG_2735.JPEG" style="width:100%">
+  <i>Shower stall</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,6)">❮</a>
+<a class="next" onclick="plusSlides(1,6)">❯</a>
+
+</div>
+
+\
+After a satisfying meal, I went to take a shower. The shower suite was well stocked with towels, and toiletries were available on request. The room was quite spacious, with plenty of surfaces to place baggage.  
+
+![relaxation_area](\images\aal_f_2025\IMG_2736.JPEG) 
+*Relaxation area*  
+
+Freshened up, I went to the relaxation area in the back of the lounge for a nap. There were a few lounge chairs here separated by thin curtains. Although not completely isolated from the main part of the lounge, the noise did not travel substantially, and I was able to get some restful sleep. 
+
+![salmon](\images\aal_f_2025\IMG_2739.JPEG) 
+*Tamari glazed salmon*  
+
+I sat in the lounge for a bit longer before my flight. While the menu indicated that afternoon tea would be available between 3pm and 6pm, the lounge staff indicated that it was not being offered. I decided to have the salmon from the menu, presented with broccolini and slaw. I found the sauce to be a little too condensed, but the fish itself was tender and crispy on the outside, a nice bite to wrap up my day in this lounge.      
+
+![aircraft](\images\aal_f_2025\IMG_2745.JPEG) 
+*Aircraft at gate*  
+
+I headed to the gate as boarding was about to begin. My flight today would depart from gate 32, located at the satellite concourse of the terminal, which was a few minutes' walk from the lounges. There was still some snow on the ramp on this winter afternoon, and our Airbus A321 was calmly parked at the gate. 
+
+![gate](\images\aal_f_2025\IMG_2750.JPEG) 
+*Boarding gate*  
+
+Boarding began promptly at the scheduled time of 1629, half an hour before departure. After pre-boarding was complete, First Class passengers were invited through the boarding lane.   
+
+##### Onboard Experience
+
+![boarding](\images\aal_f_2025\IMG_2753.JPEG) 
+*Boarding through door 1* 
+
+As is standard for A321s, the L1 door was used for boarding. This did mean that all passengers would pass through the First Class cabin during the boarding process. The crew greeted passengers as we boarded, and I took a right turn to reach my seat 1A, right behind the boarding door.  
+
+<div class="slideshow-container">
+
+<div class="mySlides7">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2754.JPEG" style="width:100%">
+  <i>First Class cabin</i>
+</div>
+
+<div class="mySlides7">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2755.JPEG" style="width:100%">
+  <i>Seat 1A</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,7)">❮</a>
+<a class="next" onclick="plusSlides(1,7)">❯</a>
+
+</div>
+
+\
+The First Class cabin on the A321T aircraft features five rows of Safran Cirrus reverse herringbone seats in a 1-1 configuration. This product is commonly used for business class on widebody jets, including on American's Boeing 777 fleet where it is generally regarded as a decent product. On the A321, it perhaps feels a little less spacious due to the lower ceilings, but is a comfortable seat nonetheless. A bedding set, slippers, and a pair of Bang and Olufsen headsets were at the seat. 
+
+<div class="slideshow-container">
+
+<div class="mySlides8">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2756.JPEG" style="width:100%">
+  <i>Entertainment screen</i>
+</div>
+
+<div class="mySlides8">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2796.JPEG" style="width:100%">
+  <i>Screen swiveled out</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,8)">❮</a>
+<a class="next" onclick="plusSlides(1,8)">❯</a>
+
+</div>
+
+\
+The touchscreen monitor is mounted on the wall at an angle and can swivel out for viewing. 
+
+![side_panels](\images\aal_f_2025\IMG_2757.JPEG) 
+*Side panels and storage*  
+
+At shoulder level is a controller for the monitor, seat controls, a reading lamp, some power outlets, and a storage compartment where the amenity kit and a bottle of water were placed.  
+
+![armrest](\images\aal_f_2025\IMG_2759.JPEG) 
+*Seat belt and armrest*  
+
+The seat features a cushioned seat belt and an armrest on the aisle side that can be raised. 
+
+![footwell](\images\aal_f_2025\IMG_2765.JPEG) 
+*Footwell*  
+
+The footwell toward the walls of the cabin was fairly wide, and an additional storage compartment was to the side.  
+
+![lit_pocket](\images\aal_f_2025\IMG_2762.JPEG) 
+*Literature pocket*  
+
+Closer to the aisle was a literature pocket with an information pamphlet about the entertainment system and the safety information card.  
+
+<div class="slideshow-container">
+
+<div class="mySlides9">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2793.JPEG" style="width:100%">
+  <i>Tray table</i>
+</div>
+
+<div class="mySlides9">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2792.JPEG" style="width:100%">
+  <i>Tray table folded</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,9)">❮</a>
+<a class="next" onclick="plusSlides(1,9)">❯</a>
+
+</div>
+
+\
+The tray table pops out under the surface on the side of the seat away from the aisle, and folds out into a full table.  
+
+![amenity](\images\aal_f_2025\IMG_2795.JPEG) 
+*Amenity kit contents*  
+
+The amenity kit in collaboration with thirteen lune, a beauty platform featuring Black and Brown-owned brands, included the standard items with a dental kit, earplugs, lip balm, lotion, and an eye mask.  
+
+![amenity](\images\aal_f_2025\IMG_2837.JPEG) 
+*Seated view*  
+
+The suite itself was quite open, with the galley and the seat across the aisle in plain view while seated.
+
+![pdb](\images\aal_f_2025\IMG_2761.JPEG) 
+*Champagne welcome drink*  
+
+As I settled into the seat, the flight attendant greeted me by name and offered a welcome drink of Champagne or orange juice, while also presenting the [menu](\images\aal_f_2025\menu.pdf) for the flight. I asked for some Champagne, which she quickly brought over in a glass.  
+
+![door_closed](\images\aal_f_2025\IMG_2768.JPEG) 
+*Window view at gate*  
+
+At 1651, the doors were closed and the captain announced our 6:17 hours flight time over the PA. 
+
+<div class="slideshow-container">
+
+<div class="mySlides10">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2770.JPEG" style="width:100%">
+  <i>Pushback</i>
+</div>
+
+<div class="mySlides10">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2769.JPEG" style="width:100%">
+  <i>Safety video screening</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,10)">❮</a>
+<a class="next" onclick="plusSlides(1,10)">❯</a>
+
+</div>
+
+\
+Pushback began soon after, and the [safety video](https://www.youtube.com/watch?v=pj6wJiJuNds) was played. A Boeing 787-9 headed to Delhi towered over us at the next gate while the sunset accentuated the shades of blue, red, and white on its tail, a stylized design of the American flag.  
+
+
+<div class="slideshow-container">
+
+<div class="mySlides11">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2773.JPEG" style="width:100%">
+  <i>Taxi for takeoff</i>
+</div>
+
+<div class="mySlides11">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2776.JPEG" style="width:100%">
+  <i>Taxi for takeoff</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,11)">❮</a>
+<a class="next" onclick="plusSlides(1,11)">❯</a>
+
+</div>
+
+\
+Our taxi took us around the terminals at JFK, during which orders for the meal service were taken. The flight attendant came to introduce herself and gracefully walked me through the choices to be made for the meal, including the appetizers, dressing for the salad, and whether I would like to have the soup. With a full cabin, she was efficient in taking everyone's orders and ran back to the crew seat just before takeoff. 
+
+<div class="slideshow-container">
+
+<div class="mySlides12">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/aal_f_2025/IMG_2780.JPEG" style="width:100%">
+  <i>Takeoff</i>
+</div>
+
+<div class="mySlides12">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/aal_f_2025/IMG_2782.JPEG" style="width:100%">
+  <i>Takeoff-Rockaway Beach</i>
+</div>
+
+<div class="mySlides12">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/aal_f_2025/IMG_2783.JPEG" style="width:100%">
+  <i>Takeoff-Rockaway Beach</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,12)">❮</a>
+<a class="next" onclick="plusSlides(1,12)">❯</a>
+
+</div>
+
+\
+We made our way to runway 22R in the setting sun, taking off toward Rockaway beach on the south shore of Long Island, with the white ocean waves crashing onto the shores lightly covered in snow below us. 
+
+![sunset](\images\aal_f_2025\IMG_2788.JPEG) 
+*Sunset during climb*  
+
+We turned East as we climbed out, catching a last glimpse of the sunset above the clouds.  
+
+![info_video](\images\aal_f_2025\IMG_2789.JPEG) 
+*Informational video screening*  
+
+A short video explaining the flight amenities including WiFi and in-seat power was played after take off.  
+
+![hot_towel](\images\aal_f_2025\IMG_2794.JPEG) 
+*Hot towel*  
+
+The inflight service began soon after we reached cruising altitude, beginning with a hot towel.  
+
+![apps1](\images\aal_f_2025\IMG_2797.JPEG) 
+*Pre-meal service*  
+
+The crew then helped me set the table and brought some snacks, including pitted olives and warm salted nuts, typical offerings on an American carrier. I also had some sparkling water to go along. 
+
+![staging](\images\aal_f_2025\IMG_2799.JPEG) 
+*Staging at first row*  
+
+As I was seating in the first row, I noticed that the crew used the surface in front of my seat as a staging area when running the dishes, which helped speed up the service by saving time spent moving between the galley and the cabin. 
+
+![apps2](\images\aal_f_2025\IMG_2800.JPEG) 
+*Appetizer course*  
+
+After I finished the starters, the first course was brought on a tray, consisting of a salad with shaved coconuts and red endives, and a dish of seared tuna with spinach and jalapeños. A Balsamic vinaigrette dressing for the salad and a ponzu sauce for the tuna were presented alongside. The dishes were fairly flavourful, though I found it a little amusing that spinach leaves were the mainstay for both. 
+
+![main](\images\aal_f_2025\IMG_2801.JPEG) 
+*Brisket main course*  
+
+For the main course, I chose the beef brisket with BBQ sauce, served with succotash and roasted sweet peppers, topped with a piece of fresh parsley. The beef was tender and well-cooked, and the vegetables were a nice accompaniment, but I found the sauce to be a little watery, which diluted the flavour. I also had a glass of the Cabernet to go along. The crew also brought bread baskets, and I chose to have a warm pretzel roll.  
+
+![dessert](\images\aal_f_2025\IMG_2802.JPEG) 
+*Sundae dessert*  
+
+The crew came to clear my tray promptly after I finished the dinner and asked what I would like to have for dessert. I asked for the ice cream sundae, a staple on American. It ended up taking a while to serve as the fudge had to be heated, during which the crew came to check on me a few times to ask if there was anything else I needed. The serving was quite decadent, with a generous scoop of vanilla ice cream topped with strawberries, pecans, caramel sauce, and fudge, and I enjoyed the indulgent end to the dinner.   
+
+![lavatory](\images\aal_f_2025\IMG_2803.JPEG) 
+*Lavatory*  
+
+One lavatory in front of the first door was shared between passengers in First, in a standard setup on a narrowbody jet. 
+
+<div class="slideshow-container">
+
+<div class="mySlides13">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2805.JPEG" style="width:100%">
+  <i>Refreshments and candle</i>
+</div>
+
+<div class="mySlides13">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2804.JPEG" style="width:100%">
+  <i>Snack basket</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,13)">❮</a>
+<a class="next" onclick="plusSlides(1,13)">❯</a>
+
+</div>
+
+\
+After the dinner service, the crew placed some refreshments on the surface in front of the first row, along with a nifty electric candle. The selection included nuts, cookies, chips, as well as extra olives from the pre-dinner service.  
+
+![bed](\images\aal_f_2025\IMG_2806.JPEG) 
+*Reclined seat*  
+
+The cabin lights were dimmed after the meal service, and the night had already fallen outside. I reclined my seat to get some rest. The reclined seat felt rather spacious, although the gap in the seat cushion was somewhat awkward.  
+
+![bedding](\images\aal_f_2025\IMG_2811.JPEG) 
+*Bedding set*  
+
+The provided bedding included a pillow, a duvet, and another blanket. I appreciated being able to choose how much covering to have, and I enjoyed some restful sleep for around two hours. 
+
+
+
+<div class="slideshow-container">
+
+<div class="mySlides14">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2809.JPEG" style="width:100%">
+  <i>Entertainment system</i>
+</div>
+
+<div class="mySlides14">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2807.JPEG" style="width:100%">
+  <i>Flight map</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,14)">❮</a>
+<a class="next" onclick="plusSlides(1,14)">❯</a>
+
+</div>
+
+\
+With some time to go in the flight, I took the chance to browse the entertainment system and decided to watch the 2024 movie *Didi*, a lighthearted coming-of-age comedy that reminded me of some of my younger days bickering with my sister.  
+
+![cookie](\images\aal_f_2025\IMG_2808.JPEG) 
+*Baked onboard cookie*  
+
+With about an hour until arrival, the mouthwatering scent of caramelized sugar and butter filled the cabin. The crew came around offering some baked-onboard chocolate cookies. I guiltily allowed myself to indulge in some sugar one more time for the day, and the warm cookie and gooey chocolate was certainly gratifying.  
+
+<div class="slideshow-container">
+
+<div class="mySlides15">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2816.JPEG" style="width:100%">
+  <i>Pre-landing briefing</i>
+</div>
+
+<div class="mySlides15">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/aal_f_2025/IMG_2814.JPEG" style="width:100%">
+  <i>Window view on descent</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,15)">❮</a>
+<a class="next" onclick="plusSlides(1,15)">❯</a>
+
+</div>
+
+\
+The cabin lights were turned on in preparation for landing as we approached the Bay Area. Another short video with pre-landing briefings was played as the crew came around the cabin to collect service items and perform safety checks.  
+
+![approach1](\images\aal_f_2025\IMG_2818.JPEG) 
+*Peninsula by night*  
+
+We approached SFO from the North, passing by the many cities in the Peninsula region of the Bay Area. Many households enjoying a Saturday evening illuminated the East side of the Peninsula nestled by the bay, while highway 280 lit a narrow path against the Santa Cruz mountains. 
+
+![approach2](\images\aal_f_2025\IMG_2825.JPEG) 
+*Final approach*  
+
+We continued our approach as we flew past SFO and turned North to line up with the runway, passing by the wetlands of Bair Island and the landfilled Redwood Shores and Foster City.  
+
+![touchdown](\images\aal_f_2025\IMG_2833.JPEG) 
+*Touch down*  
+
+We touched down at 2036 after the almost seven-hour journey across the continent, about 15 minutes before the scheduled arrival time. The bright lights of the terminal welcomed us to California as we taxiied toward our gate. 
+
+![parking](\images\aal_f_2025\IMG_2836.JPEG) 
+*Parked at gate*  
+
+After a short taxi, we parked at gate B23 at the end of Harvey Milk Terminal 1, where American handles all of its operations to and from SFO. Fittingly, we were parked next to a 737 with American's **one**world livery. 
+
+![sfo_terminal](\images\aal_f_2025\IMG_2838.JPEG) 
+*SFO Terminal 1*  
+
+Soon the doors were opened, and we disembarked through the front door. I thanked the crew on my way out, and the jet bridge led us to the departure area of the terminal, which was rather quiet as most flights for the day had departed, but still brightly lit. I made my way to the exit to catch the BART to the City.  
+
+##### Concluding Thoughts  
+
+While American's First Class product on the A321T was not quite at the level of some of its international peers, the elevated ground experience and comfortable seat made it a pleasant way to fly across the United States. I must make special mention of the crew on this flight, who were exceptionally professional and handled all parts of the service with skill and grace despite an almost full cabin. It was evident that they truly enjoyed their work. With First on this route being on its way out, this experience has perhaps seen better days, but I was nonetheless pleased to enjoy it before it permanently becomes history. The new Airbus A321XLR aircraft will soon take its place as the workhorse of American's premium transcontinental service, continuing to offer lie-flat seats with direct aisle access in the new Flagship Suite Business cabin, and I look forward to seeing how the product offered on these routes will evolve over time. 
+
+<script>
+
+/* Class the members of each slideshow group with different CSS classes */
+let slideId = ["mySlides1", "mySlides2", "mySlides3","mySlides4","mySlides5","mySlides6","mySlides7","mySlides8","mySlides9","mySlides10","mySlides11","mySlides12","mySlides13","mySlides14","mySlides15"];
+let slideIndex = new Array(slideId.length);
+for (i=0; i < slideIndex.length; i++) {
+  slideIndex[i]=1
+  showSlides(1,i+1);
+}
+
+</script>
