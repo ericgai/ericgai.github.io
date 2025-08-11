@@ -153,7 +153,7 @@ I was led to suite 3A on the left side of the cabin.
 ![3a_seat](\images\etd_f_2025\IMG_3914.JPEG)
 *First Class seat*  
 
-Seats in this cabin occupy half the width of the suite, alternating between rear and forward-facing in each row, as well as between placement closer to the window or the aisle. The [food](\images\etd_f_2025\499_food_menu.PDF) and [drink](\images\etd_f_2025\499_drink_menu.PDF) menus for the flight, printed on glossy paper, were placed next to the seat along with a WiFi access card. 
+Seats in this cabin occupy half the width of the suite, alternating between rear and forward-facing in each row, as well as between placement closer to the window or the aisle. The [food](\images\etd_f_2025\499_food_menu.pdf) and [drink](\images\etd_f_2025\499_drink_menu.pdf) menus for the flight, printed on glossy paper, were placed next to the seat along with a WiFi access card. 
 
 ![3a_couch](\images\etd_f_2025\IMG_3913.JPEG)
 *Couch, screen, and windows*  
@@ -687,7 +687,7 @@ We boarded the aircraft through the front door, where the crew welcomed us onboa
 ![1a_seat](\images\etd_f_2025\IMG_4122.JPEG)
 *Seat 1A*   
 
-Taking a left turn, I was at my seat 1A for the flight. These narrowbody aircraft feature recliner seats in a 2-2 configuration in Business Class, a conventional arrangement for serving short and medium haul routes. At my seat was a pillow and a blanket, as well as a pair of packaged headphones and a [menu](\images\etd_f_2025\611_menu.PDF) book for the flight. 
+Taking a left turn, I was at my seat 1A for the flight. These narrowbody aircraft feature recliner seats in a 2-2 configuration in Business Class, a conventional arrangement for serving short and medium haul routes. At my seat was a pillow and a blanket, as well as a pair of packaged headphones and a [menu](\images\etd_f_2025\611_menu.pdf) book for the flight. 
 
 ![seat_controls](\images\etd_f_2025\IMG_4127.JPEG)
 *Seat controls*   
