@@ -1,0 +1,836 @@
+---
+layout: single
+# author_profile: true
+# classes: wide
+comments: true
+categories:
+  - Travel
+  - Flights
+title: "An Emirati Journey across Asia"
+meta_title: "Review: Etihad First Apartments Singapore to Abu Dhabi, and Etihad Business Class from Abu Dhabi to Jeddah"
+excerpt: "Etihad First Apartments Singapore to Abu Dhabi, and Etihad Business Class from Abu Dhabi to Jeddah"
+description: "Here I review Etihad Airways' First Class product onboard the Airbus A380 aircraft in the Apartment suites from Singapore to Abu Dhabi, flown April 2025. Also includes a review of the Ambassador Transit lounge at Changi Airport, the Etihad First lounge in Abu Dhabi, and an Etihad Business Class flight from Abu Dhabi to Jeddah. A luxurious experience remains a decade after the introduction of the aircraft, with an impressive set of amenities onboard and on the ground."
+date: "2025-04-28"
+toc: true
+last_modified_at: "2025-08-10" 
+header:
+  teaser: /images/etd_f_2025/IMG_3906.JPEG
+
+---
+
+Since its founding in 2003 as the national airline of the United Arab Emirates by royal decree, Etihad Airways has emerged as a key player on the global scene. From its home base in Abu Dhabi, Etihad's early years saw its rapid expansion, global partnerships, and swift gain in name recognition. It debuted the double decker Airbus A380 as its flagship aircraft in 2014, boasting a three-room suite "The Residence," one of the most exclusive products in commercial aviation, as well as spacious First Class suites dubbed "The Apartment," complete with onboard showers and lounges. While the airline had planned to retire its A380 fleet due to the impacts of the COVID-19 pandemic, these aircraft were ultimately reactivated in 2023, serving key routes from Abu Dhabi to London, Paris, Mumbai, New York, and Singapore. Returning from Asia, I was fortunate to be able to experience The Apartment on the route from Singapore to Abu Dhabi, which was followed by a visit to the newly opened terminal of Abu Dhabi's Zayed Airport, and a connecting flight in Etihad Business to Jeddah. Creative utilization of space on the world's largest passenger aircraft made for a luxurious experience at every turn, with the journey rounded out by fantastic service onboard and excellent amenities on the ground. 
+
+##### Flight Details
+Etihad Airways (ETD/EY) Flight 499    
+Origin: Singapore Changi, SIN   
+Departure: 21:21, 27 April 2025 (UTC+8)   
+Destination: Abu Dhabi Zayed, AUH    
+Arrival: 00:47, 28 April 2025 (UTC+4)  
+Duration: 07:26 hours   
+Aircraft: A6-APJ, Airbus A380-800, delivered May 2017  
+Seat: 5C (First)  
+
+Etihad Airways (ETD/EY) Flight 611    
+Origin: Abu Dhabi Zayed, AUH    
+Departure: 14:09, 28 April 2025 (UTC+4)   
+Destination: Jeddah King Abdulaziz, JED  
+Arrival: 16:03, 28 April 2025 (UTC+3)  
+Duration: 02:54 hours   
+Aircraft: A6-AEH, Airbus A321, delivered September 2015  
+Seat: 1A (Business)  
+
+##### Booking
+American Airlines' AAdvantage program offers an outstanding redemption opportunity for travel between East Asia and the Middle East. I paid 50,000 AAdvantage miles and US$74.83 in taxes and fees for this itinerary with an initial segment from Kuala Lumpur to Singapore on Malaysia Airlines in Business, followed by the journey from Singapore to Abu Dhabi to Jeddah. Award seats in Etihad First are released for redemption through AAdvantage 14 days prior to departure, and I was able to secure a seat at that time. American's website can have trouble piecing together multi-segment itineraries sometimes, so I sent a message on X after reserving my seat on the Singapore to Abu Dhabi sector to add the remaining segments to my ticket, which the agents were happy to do.  
+
+##### Singapore Departure Ground Experience 
+
+![checkin_hall](\images\etd_f_2025\IMG_3879.JPEG)
+*Changi Airport Terminal 2 check-in hall*
+
+My journey with Etihad began at Singapore Changi Airport after spending a day wandering around the city in transit. I arrived at Terminal 2 on the MRT and headed to the check-in hall.   
+
+![ey_desks](\images\etd_f_2025\IMG_3882.JPEG)
+*Etihad check-in counters*
+
+Etihad occupied row 11 of the check-in counters. With a full load of passengers on the A380 leaving for the evening, the check in desks were quite busy getting passengers ready for their journeys to Abu Dhabi and "from Abu Dhabi to the world." Separate lanes were available for First and Business Class passengers, with scrolling texts indicating that upgrades were available for purchase on the screens above. 
+
+<div class="slideshow-container">
+
+<div class="mySlides1">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/etd_f_2025/IMG_3880.JPEG" style="width:100%">
+  <i>Etihad First Class check-in counter</i>
+</div>
+
+<div class="mySlides1">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/etd_f_2025/IMG_3885.JPEG" style="width:100%">
+  <i>Ambassador lounge invitation card-front</i>
+</div>
+
+<div class="mySlides1">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/etd_f_2025/IMG_3884.JPEG" style="width:100%">
+  <i>Ambassador lounge invitation card-back</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,1)">❮</a>
+<a class="next" onclick="plusSlides(1,1)">❯</a>
+
+</div>
+    
+\
+I was able to reach an agent quickly through the First Class lane. As my documents had already been registered in Kuala Lumpur, the agent was able to issue my boarding passes almost immediately. She also provided me with a lounge invitation card to the Ambassador Transit Lounge, with directions to the lounge printed on the reverse side of the card. 
+
+![sin_airside](\images\etd_f_2025\IMG_3886.JPEG)
+*Changi airport airside*  
+
+The automated gates at Changi are incredibly efficient, and a unique quirk of the airport is that security checkpoints are at individual gates rather than at centralized locations. I was able to proceed airside within a few minutes of checking in.   
+
+![sin_trees](\images\etd_f_2025\IMG_3887.JPEG)
+*Changi Airport interior decor*  
+
+Serving the “garden city," Changi Airport brings the tropical greenery dotting Singapore into its space indoors, providing relaxing spaces for the tens of millions of passengers passing through every year.
+
+![ambassador](\images\etd_f_2025\IMG_3888.JPEG)
+*Ambassador Transit Lounge entrance*  
+
+A short walk led me to the Ambassador Transit Lounge on the upper level of the terminal, which Etihad contracts for its premium passengers. 
+
+![sin_lounge_desk](\images\etd_f_2025\IMG_3889.JPEG)
+*Etihad welcome desk*  
+
+A welcome desk with Etihad signage was positioned immediately after the entrance. The agent greeted me, collected the lounge invitation card, and led me to a small room on the left reserved for First Class passengers. 
+
+![lounge_f_room](\images\etd_f_2025\IMG_3890.JPEG)
+*Etihad First lounge room*  
+
+The space contained seating for about 20 passengers. While few seats were occupied as I arrived, the seats began to fill up closer to departure, but the space still felt quite spacious, a contrast to the main part of the lounge, where the washrooms were located. 
+
+
+![massage_chair](\images\etd_f_2025\IMG_3896.JPEG)
+*Massage chair*  
+
+A massage chair was available in the corner of the room, but it was otherwise rather basic in terms of amenities.  
+
+![lounge_snacks](\images\etd_f_2025\IMG_3893.JPEG)
+*Lounge snacks*  
+
+A few moments after I settled in, a lounge attendant came by and let me know he would be looking after me today. He asked if I would like to have some Champagne or other drinks, which I accepted. He came back and set the drinks on the table next to me and brought over some chips with dips and cheese from the buffet in the main lounge.   
+
+![lounge_snacks2](\images\etd_f_2025\IMG_3895.JPEG)
+*More lounge snacks*  
+
+After some time, the attendant came back to check if I needed anything, and brought over some small plates of corn salad, fried mushrooms, and fried shrimp. He also offered to bring me some hot food from the buffet, with options such as laska noodles and butter chicken, though I declined the offer as I wanted to save some appetite for the flight. Overall, I appreciated the effort to create an elevated and personalized experience with the standard amenities from the lounge.  
+
+![sin_security](\images\etd_f_2025\IMG_3904.JPEG)
+*Security checkpoint at gate* 
+
+About 50 minutes before departure, an attendant came to announce that boarding for the flight had started, and I packed up and made my way to the gate. The security checkpoint at the gate was quite crowded, but I was able to get through quickly using the priority lane. 
+
+![a380_view](\images\etd_f_2025\IMG_3906.JPEG)
+*Aircraft view*  
+
+A view of our aircraft awaited me in the departure lounge. The "facets of Abu Dhabi" livery features an iconic geometric pattern of triangular mosaics, with shades of Arabian desert gold and urban grey. The massive fuselage and outstretched wings of the A380 are always a sight to behold.
+
+![jetbridge_sin](\images\etd_f_2025\IMG_3909.JPEG)
+*Boarding through upper deck door*  
+
+Boarding was already well under way as I made my way through security, so I headed directly for the jet bridge. First and Business Class passengers were invited to use the upper deck door, and my anticipation built as I gradually ascended the carpeted floor of the gate. 
+
+##### Singapore to Abu Dhabi Onboard Experience
+
+![f_cabin](\images\etd_f_2025\IMG_3911.JPEG)
+*First Class cabin*  
+
+Several crew members greeted passengers at the door, and upon showing my boarding pass, one of them led me ahead, taking a left turn. Unconventionally for an A380, the ten-seat First Class cabin is arranged in a single-aisle configuration, with staggered seats on each side. The walls and ceiling are decorated with the signature triangular pattern, and the cabin was dimly lit in orange as we boarded, offering a tranquil and warm start to the journey.  
+
+![ey_f_3a](\images\etd_f_2025\IMG_3912.JPEG)
+*Apartment suite 3A*  
+
+I was led to suite 3A on the left side of the cabin. 
+
+![3a_seat](\images\etd_f_2025\IMG_3914.JPEG)
+*First Class seat*  
+
+Seats in this cabin occupy half the width of the suite, alternating between rear and forward-facing in each row, as well as between placement closer to the window or the aisle. The [food](\images\etd_f_2025\499_food_menu.PDF) and [drink](\images\etd_f_2025\499_drink_menu.PDF) menus for the flight, printed on glossy paper, were placed next to the seat along with a WiFi access card. 
+
+![3a_couch](\images\etd_f_2025\IMG_3913.JPEG)
+*Couch, screen, and windows*  
+
+Opposite the seat, a large entertainment screen is mounted on the wall. A lamp and compartment with a pair of noise cancelling are below the windows. Each suite also comes with a small couch that occupies the full width of the suite and can be reclined into a bed, with a throw blanket provided. 
+
+![shower](\images\etd_f_2025\IMG_3992.JPEG)
+*Window shades*   
+
+The windows featured electronically controlled shades instead of the traditional sliding panel, which could be lowered and raised with intuitive buttons.  
+
+![under_couch](\images\etd_f_2025\IMG_3925.JPEG)
+*Storage compartment under couch*  
+
+A compartment for baggage storage was below the couch, holding additional pillows.    
+
+![side_view_seat](\images\etd_f_2025\IMG_3920.JPEG)
+*Lamp and literature pocket*  
+
+To the side of the couch was another lamp and a literature pocket, where the safety information card was placed.  
+
+![seat_amenities](\images\etd_f_2025\IMG_3917.JPEG)
+*Apartment suite seat*  
+
+At arm level on the side of the seat away from the window was a controller for the entertainment system, USB and AC charging ports, as well as a set of seat controls. A pillow in a more colourful version of the triangular pattern added a lively accent to the otherwise neutral cabin. 
+
+![minibar](\images\etd_f_2025\IMG_3922.JPEG)
+*Minibar and blanket*  
+
+Below arm level to the side of the seat was a minibar with a bottle of Voss water and some soft drinks. An additional compartment contained a thicker blanket. 
+
+![table](\images\etd_f_2025\IMG_3966.JPEG)
+*Tray table*  
+
+The table folds out of the centre armrest, a large surface with dark wooden accents. 
+  
+![cabin_from_seat](\images\etd_f_2025\IMG_3921.JPEG)
+*Aisle view*    
+
+With no overhead bins installed, the suite walls took the bulk of the height of the cabin, offering an exceptional level of privacy in the suite.  
+
+![pre_departure](\images\etd_f_2025\IMG_3924.JPEG)
+*Pre-departure service*  
+
+As I settled into the seat, the crew came to offer welcome beverages, and I asked for a glass of mimosa. She quickly returned with a tray, where the drink was presented in a flute, alongside a hot towel and some dates.  
+
+![qahwah](\images\etd_f_2025\IMG_3930.JPEG)
+*Arabic coffee*  
+
+Arabic coffee, the traditional drink for guests in the Middle East was then offered, served in small finjan cups. 
+
+<div class="slideshow-container">
+
+<div class="mySlides2">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/etd_f_2025/IMG_3928.JPEG" style="width:100%">
+  <i>Amenity kit</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/etd_f_2025/IMG_3938.JPEG" style="width:100%">
+  <i>Amenity kit contents</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/etd_f_2025/IMG_3940.JPEG" style="width:100%">
+  <i>Amenity kit contents</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,2)">❮</a>
+<a class="next" onclick="plusSlides(1,2)">❯</a>
+
+</div>
+
+\
+The crew then presented the amenity kit for the flight, an elegant leather pouch in collaboration with Giorgio Armani, consisting of a pair of slippers, a dental kit, a set of pajamas, and a separately bagged ESPA-branded cosmetics set that contained an eye mask, ear plugs, lip balm, face mist, body lotion, pulse point oil, and face cream. 
+
+![partition](\images\etd_f_2025\IMG_3919.JPEG)
+*Suite partition*  
+
+Since seats 3A and 4A faced each other due to the staggered configuration, one could lower the partition between the seats to create a larger suite. When a family later boarded, they asked to be seated in one of these seats, and the crew asked me if I would mind moving to seat 5C which is closer to the aisle. While I was hoping to have the window view for the flight, I ultimately decided to help the crew accommodate the family. They were very apologetic about the situation and helped me bring the pre-departure service items to my new seat. Although this was not a significant inconvenience, I do feel that the ground staff could have anticipated the issue and tried to address it before boarding.  
+
+![safety_video](\images\etd_f_2025\IMG_3937.JPEG)
+*Safety video screening*  
+
+A few moments later, the doors were closed, and we began our pushback. The [safety video](https://www.youtube.com/watch?v=pLZQ6a60Po0) featuring the Louvre in Abu Dhabi was screened, first in English and then in Arabic. While the presentation was conventional, the video nicely showcased an iconic location of Etihad's home base.  
+
+![taxi_sin](\images\etd_f_2025\IMG_3943.JPEG)
+*Taxi to runway*  
+
+I briefly perused the menu as we left our gate. I found it amusing that the Arabic text on the menu avoids any mention of alcohol, simply advertising the drink selection "from all over the world," while the English version invites passengers to "choose from a selection of Champagne and boutique wines."
+
+![taxi2_sin](\images\etd_f_2025\IMG_3944.JPEG)
+*Taxi to runway*  
+
+A flight attendant came through the cabin to introduce herself and take meal orders before our departure, which ended up being quite an involved process as she walked me through each course and recommended drinks to go along. While she was only working through the main meal service, I also asked to pre-order some items from the menu to have before landing, which she was happy to set aside for me. She also inquired whether and when I wanted to use the shower onboard during the flight and confirmed my booking for a shower after the main meal service.  
+
+![ascent](\images\etd_f_2025\IMG_3953.JPEG)
+*Takeoff over Singapore*  
+
+After a relatively long taxi, we took off from runway 02C into the night sky of Singapore. 
+
+![ascent2](\images\etd_f_2025\IMG_3958.JPEG)
+*Ascending away from Singapore*  
+
+The sea of lights of a vibrant Singapore faded away as we climbed North towards the jungle terrains of Malaysia. We then took a turn East and began our journey across the Indian Ocean.  
+
+![taxi](\images\etd_f_2025\IMG_3967.JPEG)
+*Pre-meal service*  
+
+The pre-meal service began about 15 minutes after takeoff, served on a tray with small bowls of pitted olives, wasabi peas, and mixed nuts. I appreciated that the tray was placed on the side armrest, allowing for some more space to stretch out while enjoying the snacks. 
+
+![Champagne](\images\etd_f_2025\IMG_3968.JPEG)
+*Billecart-Salmon Champagne*  
+
+The crew also came around offering Champagne to go along. Billecart-Salmon 2016 was on offer for this flight, and I enjoyed its fine bubbles as I took in the joy of riding the largest passenger aircraft in service. The purser also came by to introduce herself and offered to help in providing a pleasant flight whenever possible.   
+
+![table_set](\images\etd_f_2025\IMG_3970.JPEG)
+*Table setting*  
+
+My seat was quite close to the galley, so as I munched on the snacks over the next 40 minutes, I got a sense of the involved process of preparing the main meal service with the jingling of plates and the movements of oven doors. The crew then came to set my table for the dinner service, complete with bread, salt and pepper shakers, and a glass of sparkling water that I asked for.   
+
+![caviar](\images\etd_f_2025\IMG_3971.JPEG)
+*Caviar course*  
+
+To start off the dinner, I received the caviar course, served with traditional accompaniments of blinis, chopped eggs, shallots, chives, and sour cream. Etihad serves Russian Oscietra caviar, sourced from Gourmet House, a purveyor with a branch in Dubai. A pearl spoon was provided as is standard for caviar service. I enjoyed its briny flavours as a quintessential start to a meal in First Class.  
+
+![mezze](\images\etd_f_2025\IMG_3973.JPEG)
+*Arabic mezze*  
+
+For the appetizer course, I selected the Arabic mezze platter, consisting of baba ganoush, beetroot hummus, tabouleh, lamb kibbeh, and a sambusak. This course was quite substantial, bringing traditional flavours of the Arabian peninsula to the air.  
+
+![sorbet](\images\etd_f_2025\IMG_3974.JPEG)
+*Palate cleanser sorbet*  
+
+I was then served a small scoop of mango sorbet, a palate cleanser before the main course, adding a Western twist in the Arabic menu.  
+
+![mandi](\images\etd_f_2025\IMG_3976.JPEG)
+*Lamb shank mandi*  
+
+For the main course, I selected the lamb shank mandi, consisting of spiced lamb over rice served with mint yoghurt, a tomato-based dakous sauce, and topped with cashews and raisins. The flavourful preparation with Arabic seasonings and fork tender lamb made for a delicious course. 
+
+![Bordeaux](\images\etd_f_2025\IMG_3975.JPEG)
+*Les Allées de Cantemerle*   
+
+To go along with the course, the flight attendant recommended the 2016 Les Allées de Cantemerle from Bordeaux, and its rich palate was a nice accompaniment to the tasty dish. 
+
+![cheesecake](\images\etd_f_2025\IMG_3977.JPEG)
+*Blueberry cheesecake*   
+
+Choices for the final dessert course was between several Western style options, and I went with the blueberry cheesecake served with mango coulis. The cake itself felt a little wet, but combining flavours of several different fruits made for a sweet and refreshing end to the meal.   
+
+![lobby](\images\etd_f_2025\IMG_3979.JPEG)
+*Celestial bar, the Lobby*   
+
+The flight was a little under halfway complete as the meal service concluded, and I took a quick peek at "The Lobby," a celestial bar right behind the upper deck galley. The space includes couch-style seating for six people, offering a place for passengers to interact, though this space was largely unoccupied during my stay.  
+
+![lobby_bar](\images\etd_f_2025\IMG_3980.JPEG)
+*Bar display*   
+
+The bar area had some wines, Champagnes, and spirits on display, providing an atmosphere of a classic bar.   
+
+![shower](\images\etd_f_2025\IMG_3987.JPEG)
+*Shower stall*   
+
+The crew later came to inform me that the shower was ready, and I headed over to clean up a bit before going to bed. The shower suite was tucked away in the corner of the lavatory, which was decorated in darker shades of black. 
+
+![shower_panel](\images\etd_f_2025\IMG_3988.JPEG)
+*Shower controls and toiletries*   
+
+The crew explained that five minutes of hot water was available, which is reflected on a timer. Basic toiletries were provided for the shower.  
+
+![showerhead](\images\etd_f_2025\IMG_3989.JPEG)
+*Showerhead*   
+
+The showerhead was a small fixing on the ceiling, and the water came out warm with good pressure. An onboard shower is truly an ambitious amenity to provide on an aircraft, and I thoroughly enjoyed the refreshing feeling over the Indian Ocean.  
+
+![hairdryer](\images\etd_f_2025\IMG_3990.JPEG)
+*Hairdryer*   
+
+A hairdryer was even provided above the sink, rounding out a well-equipped shower suite.  
+
+![lavatory](\images\etd_f_2025\IMG_3932.JPEG)
+*Lavatory amenities*   
+
+The lavatory came otherwise with standard amenities such as hand towels, lotion, and face mist, all with ESPA branding.  
+
+![bed](\images\etd_f_2025\IMG_3983.JPEG)
+*Couch reclined*   
+
+The crew had reclined the couch and turned down the bed as I returned to the seat, complete with the bedding from boarding and a mattress pad. 
+
+![sleep](\images\etd_f_2025\IMG_3991.JPEG)
+*Going to sleep*   
+
+I dimmed the lights and closed the suite doors as I went to sleep flying over the Indian subcontinent. The dim ceiling lights coming through the triangular patterned grating created the effect of a peaceful starry night. 
+
+![steak](\images\etd_f_2025\IMG_3997.JPEG)
+*Beef tenderloin*   
+
+The bed was quite comfortable, and I slept for about two and a half hours before waking up a little over an hour to landing. After changing out of my pajamas, the crew served the beef tenderloin with Bearnaise sauce and seasonal vegetables, which I requested at the beginning of the flight. The beef was well done but not overcooked, and the rich sauce nicely accented the flavours of the beef.  
+
+![ondeh_cake](\images\etd_f_2025\IMG_3999.JPEG)
+*Ondeh cake*   
+
+I also asked for the ondeh cake, an adaptation of a traditional Malaysian dessert, with layered pandan cream and coconut shaving toppings. The cake was not overly sweet, and its fragrances typical of South East Asia were a nice conclusion to my two-day stay in the region.  
+
+![chocolate](\images\etd_f_2025\IMG_4001.JPEG)
+*Chocolate by Mirzam*   
+
+The crew then came around to offer some Emirati chocolates by Mirzam, including a dark chocolate sea salt caramel cube and a honeycomb-filled praline. The elegant box for the chocolates was a nice parting gift for the flight.  
+
+![hot_towel](\images\etd_f_2025\IMG_4003.JPEG)
+*Hot towel*   
+
+As we began our descent, the crew brought over another hot towel.  
+
+![tea](\images\etd_f_2025\IMG_4004.JPEG)
+*Black tea*   
+
+They also asked if I would like some tea or coffee, and I asked for some black tea as we approached Abu Dhabi. The crew came around thanking passengers for choosing Etihad, and I expressed my appreciation for their thoughtful service throughout the flight as well.    
+
+![info_video](\images\etd_f_2025\IMG_4005.JPEG)
+*Airport information video*   
+
+An informational video showcasing the new terminal of Abu Dhabi's Airport was screened, explaining the transfer procedures upon arrival. I was quite excited to explore this highly anticipated piece of architecture.  
+
+![info_video](\images\etd_f_2025\IMG_4008.JPEG)
+*Approach to Abu Dhabi*   
+
+We approached Abu Dhabi from the desert inland, and the brightly lit city came into sight as we came closer to the ground. 
+
+![info_video](\images\etd_f_2025\IMG_4014.JPEG)
+*Taxi to terminal*   
+
+After landing, a short taxi brought us to our parking stand at gate C42. 
+
+![info_video](\images\etd_f_2025\IMG_4015.JPEG)
+*Cabin upon disembarkation*   
+
+The cabin lights were turned to full brightness as the gate bridges were connected, and we were invited to disembark. I bid farewell to the crew as I stepped into the terminal.
+
+##### Abu Dhabi Transit Ground Experience
+
+![welcome](\images\etd_f_2025\IMG_4028.JPEG)
+*Welcome to Abu Dhabi in Arabic*  
+
+As our gate was situated at the far end of the C concourse, a long corridor took us to the transit security checkpoint at the centre of the terminal. The security screening was quick albeit a little disorganized, and I arrived at the atrium on the other side, with a sign written "Welcome to Abu Dhabi" front and centre in both Arabic and English.  
+
+![atrium](\images\etd_f_2025\IMG_4019.JPEG)
+*Terminal atrium*   
+
+With a 14-hour layover ahead, I had the chance to walk around and explore the terminal. The grand architecture of the atrium features large beige arches extending its length, along with curved white ceilings, designed to evoke impressions of a large sand dune.  
+
+![concourse](\images\etd_f_2025\IMG_4030.JPEG)
+*Terminal concourse*   
+
+Gates in this terminal are arranged along four concourses lettered A through D extending from the atrium. The arrivals around midnight and subsequent departures through the early morning hours make up the busiest bank at this airport, and most gates were bustling with passengers awaiting their departures.  
+
+![lounge_entrance](\images\etd_f_2025\IMG_4029.JPEG)
+*First Class lounge entrance*   
+
+Etihad's lounges in this terminal are nestled along concourse B. The First and Business Class sections offer separate entrances, but the facilities are largely connected inside. An agent verified my boarding pass as I arrived at the First Class entrance of the lounge and directed me to the elevator that would take me up to level 6 where the First Class section of the lounge is located. She also contacted her colleague above to inform them of my arrival. 
+
+![layout](\images\etd_f_2025\IMG_4111.JPEG)
+*Lounge map*   
+
+Inside the elevator was a screen with a layout of the three-floor lounge complex. As the main lounge for Etihad at its hub, this area serves a large volume of premium passengers transiting through Abu Dhabi every day, making good use of its large footprint in the terminal.
+
+![twigs](\images\etd_f_2025\IMG_4047.JPEG)
+*Lounge decor*   
+
+An agent greeted me as I arrived and was a little surprised by the long connection time of my itinerary. She recorded my flight information on their system, which allowed the lounge staff to keep track of the passengers and their requests during their stay, an excellent way of offering personalized ground service. The lounge decor mostly featured shades of black and brown with touches of beige and white, creating a elevated but relaxing atmosphere. Immediately behind the entrance was a stunning pot of white-frosted twigs.
+
+![spa](\images\etd_f_2025\IMG_4032.JPEG)
+*Etihad Be Relax spa*   
+
+Etihad runs a spa in the lounge in collaboration with Be Relax, and First Class passengers are offered a complimentary 15-minute treatment. I was quite tired from my days of travelling by now, and I decided to take advantage of the service before winding down for the night. The agent phoned the spa desk downstairs to confirm their availability and then directed me to the elevator on the opposite side of the lounge.  
+
+![spa_menu](\images\etd_f_2025\IMG_4041.JPEG)
+*Treatment menu*   
+
+Upon entering the spa, a receptionist greeted me and asked me to select a treatment. 
+
+![spa_chair](\images\etd_f_2025\IMG_4042.JPEG)
+*Massage chair*   
+
+I chose the "Be Up" back and shoulder chair massage, and a masseuse led me to a private room with a massage chair. The space was rather intimate, and the comforting music made for a serene atmosphere inside the busy terminal. I enjoyed the short treatment and felt much more relaxed after.  
+
+![relax_room](\images\etd_f_2025\IMG_4053.JPEG)
+*Relaxation room entrance*   
+
+I headed back upstairs hoping to spend the night in one of the relaxation rooms, located in the Business Class section of the lounge, but unfortunately, they were all occupied for the night. The First Class lounge also contained an area with private lounge chairs, and those were also already taken. 
+
+![couch](\images\etd_f_2025\IMG_4050.JPEG)
+*Couch for the night*   
+
+The lounge attendants were apologetic and offered me a blanket and a pillow, and I found a rather spacious couch to lie down on. As most flights had departed for the night, the lounge was rather quiet, and I quickly fell asleep.  
+
+![a380_lounge](\images\etd_f_2025\IMG_4056.JPEG)
+*A380 view from lounge*   
+
+I woke up a few hours later, with another A380 heading to London parked at the gate against the lounge. With the reflection of the morning sun on its fuselage, another day of busy passenger movements at this airport is setting into motion.  
+
+<div class="slideshow-container">
+
+<div class="mySlides3">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/etd_f_2025/IMG_4100.JPEG" style="width:100%">
+  <i>Dining tables</i>
+</div>
+
+<div class="mySlides3">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/etd_f_2025/IMG_4102.JPEG" style="width:100%">
+  <i>Dining tables</i>
+</div>
+
+<div class="mySlides3">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/etd_f_2025/IMG_4101.JPEG" style="width:100%">
+  <i>Dining area couches</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,3)">❮</a>
+<a class="next" onclick="plusSlides(1,3)">❯</a>
+
+</div>
+
+\
+I headed to the dining area of the lounge to get some breakfast, where there were seating options with tables of various sizes as well as some couches. 
+
+<div class="slideshow-container">
+
+<div class="mySlides4">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/etd_f_2025/IMG_4057.JPEG" style="width:100%">
+  <i>Breakfast menu</i>
+</div>
+
+<div class="mySlides4">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/etd_f_2025/IMG_4059.JPEG" style="width:100%">
+  <i>Breakfast menu</i>
+</div>
+
+<div class="mySlides4">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/etd_f_2025/IMG_4060.JPEG" style="width:100%">
+  <i>Breakfast menu</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,4)">❮</a>
+<a class="next" onclick="plusSlides(1,4)">❯</a>
+
+</div>
+
+\
+A friendly attendant came to my table as I took a seat and presented the breakfast menu, featuring a variety of dishes in Middle Eastern, South Asian, East Asian, as well as Western styles. Notably, these were printed on the same glossy paper as the onboard menus, and I appreciated the consistency in this presentation.  
+
+<div class="slideshow-container">
+
+<div class="mySlides5">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/etd_f_2025/IMG_4064.JPEG" style="width:100%">
+  <i>Self-serve dishes</i>
+</div>
+
+<div class="mySlides5">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/etd_f_2025/IMG_4065.JPEG" style="width:100%">
+  <i>Self-serve dishes</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,5)">❮</a>
+<a class="next" onclick="plusSlides(1,5)">❯</a>
+
+</div>
+
+\
+On a table to the side, there were also some self-serve options including small sandwiches, smoothies, and cold cuts, elegantly presented on plates with a glass cover.  
+
+![eggs](\images\etd_f_2025\IMG_4062.JPEG)
+*Chili and coriander scrambled eggs*   
+
+I ordered the chili and coriander scrambled eggs, and the oriental seasonings added a flavourful twist to the classic breakfast dish, which also came with some buttered bread and tomatoes. I also asked for some Sulaimani tea, with some further aromas waking me up for the day.  
+
+![french_toast](\images\etd_f_2025\IMG_4063.JPEG)
+*French toast*   
+
+I also tried the French toast, which came with berries and marscapone, topped with an orange vanilla sauce. This was also an enjoyable dish with unique flavours.  
+
+![claim_tag](\images\etd_f_2025\IMG_4066.JPEG)
+*Luggage claim tag*   
+
+Most of the morning bank of flights had left by the time I finished breakfast, and I decided to take a walk and explore some more of the terminal. The lounge provides a luggage check service, and the reception agents handed me a claim tag, allowing me to leave the lounge without dragging my suitcase around.   
+
+![terminal](\images\etd_f_2025\IMG_4072.JPEG)
+*Terminal by day*   
+
+The terminal takes on a different look now with light from the desert sun pouring in, as floor tiles reflect a lighter hue. The wide corridors of the concourses were almost empty, with only some passengers with long connections still waiting at the gates.  
+
+![cigar](\images\etd_f_2025\IMG_4080.JPEG)
+*Cigar bar*   
+
+I came back to the lounge after making my way through the concourses. In the Business Class section, I noticed a small display case of cigar bars from Cuba and Nicaragua available for sale, quite a unique feature for an airport lounge.  
+
+<div class="slideshow-container">
+
+<div class="mySlides6">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/etd_f_2025/IMG_4110.JPEG" style="width:100%">
+  <i>Lounge entrance</i>
+</div>
+
+<div class="mySlides6">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/etd_f_2025/IMG_4109.JPEG" style="width:100%">
+  <i>Service desk</i>
+</div>
+
+<div class="mySlides6">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/etd_f_2025/IMG_4107.JPEG" style="width:100%">
+  <i>Lounge seating</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,6)">❮</a>
+<a class="next" onclick="plusSlides(1,6)">❯</a>
+
+</div>
+
+Overlooking the tarmac, the lounge also admitted more light as I returned, and the frosted twigs also took on a different look. 
+
+![passage](\images\etd_f_2025\IMG_4104.JPEG)
+*Passageway in lounge*   
+
+I headed further into the lounge, with the geometric motifs featured on many furniture pieces.  
+
+![rest_area](\images\etd_f_2025\IMG_4105.JPEG)
+*Rest area*   
+
+Further inside was the quieter area with private lounge chairs, most of which are now unoccupied. 
+
+![lounge_chair](\images\etd_f_2025\IMG_4088.JPEG)
+*Lounge chair*   
+
+I settled in one of these seats, and decided to get some more sleep, after a long night and still jetlagged.  
+
+<div class="slideshow-container">
+
+<div class="mySlides7">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/etd_f_2025/IMG_4089.JPEG" style="width:100%">
+  <i>Self-serve lunch selection</i>
+</div>
+
+<div class="mySlides7">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/etd_f_2025/IMG_4090.JPEG" style="width:100%">
+  <i>Self-serve lunch selection</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,7)">❮</a>
+<a class="next" onclick="plusSlides(1,7)">❯</a>
+
+</div>
+
+\
+After a quick nap, I headed back to the dining section, now serving the lunch and dinner menu. The self-serve area was also replaced with more substantial sandwiches and some beautiful desserts.  
+
+![lunch](\images\etd_f_2025\IMG_4091.JPEG)
+*Lunch menu*   
+
+I took a seat at a table and an attendant brought over the printed menu, this time with mostly Arab and Western options available.  
+
+![burgundy](\images\etd_f_2025\IMG_4093.JPEG)
+*Burgundy wine*   
+
+I selected a Burgundy wine, a 2021 Domaine de la Garenne Mâcon-Azé, which was recommended by the server, to go with my meal, and its fresh flavour profile proved a nice accompaniment. 
+
+![scallops](\images\etd_f_2025\IMG_4094.JPEG)
+*Maple glazed scallops*   
+
+I started off with the maple-glazed scallops, which were tender and lightly browned. The squid ink corals, butternut squash purée, blueberries, and microgreens made for an appealing colour palette on the plate. The sweet glaze was a nice complement to the oceanic flavour of the scallops, making for an overall very pleasing dish.  
+
+![soup](\images\etd_f_2025\IMG_4095.JPEG)
+*Shorbat yakteen*   
+
+I then tried the shorbat yakteen, a pumpkin-based soup invigorated by the Arab spices. 
+
+![shrimp](\images\etd_f_2025\IMG_4096.JPEG)
+*Robian Tahta*   
+
+For the main course, I chose the Robian Tahta, with jumbo prawns served over aromatic rice, topped with fried onions, and with a lime slice and some more dakous sauce on the side. The prawns were meaty and well-seasoned, making for a rich serving.  
+
+![kunaffah](\images\etd_f_2025\IMG_4097.JPEG)
+*Kunaffah*   
+
+To round off the meal, I had the kunaffah, a traditional Arab desert of shredded butter dough sandwiching a cheese filling, served alongside some syrup. The crunchy pastry infused with cardamom and cinnamon flavours were a pleasant treat.  
+
+![shower](\images\etd_f_2025\IMG_4098.JPEG)
+*Shower suite*   
+
+After the meal, I headed downstairs for a quick shower before my connecting flight. The receptionists in the First Lounge again contacted their colleagues, who led me to the shower suite as I arrived. I was quite impressed by the degree of coordination for the lounge service. The shower suite itself was well-maintained and stocked with the standard amenities, again heavily featuring the geometric patterns of Etihad's brand identity.  
+
+![budino](\images\etd_f_2025\IMG_4108.JPEG)
+*Chocolate budino*   
+
+Feeling refreshed, I headed back up to the First Lounge and ordered a chocolate budino, a rich chocolate cake served alongside some cookie crumbles and marscapone cream. I enjoyed the decadent serving and thanked the lounge staff for making my stay in the lounge a delightful experience before leaving for my flight.  
+
+![auh_boarding](\images\etd_f_2025\IMG_4114.JPEG)
+*Boarding at Gate B19*   
+
+I arrived at gate B19 as boarding was already underway, so I proceeded directly to the jet bridge.   
+
+![a321](\images\etd_f_2025\IMG_4117.JPEG)
+*Airbus A321 to Jeddah*   
+
+I caught a glimpse of the Airbus A321 taking me to Jeddah today on the walkway. Though a much smaller aircraft, the colours of Etihad looked elegant, nonetheless.  
+
+##### Abu Dhabi to Jeddah Onboard Experience
+
+![a321_door](\images\etd_f_2025\IMG_4121.JPEG)
+*Boarding for Jeddah*   
+
+We boarded the aircraft through the front door, where the crew welcomed us onboard. 
+
+![1a_seat](\images\etd_f_2025\IMG_4122.JPEG)
+*Seat 1A*   
+
+Taking a left turn, I was at my seat 1A for the flight. These narrowbody aircraft feature recliner seats in a 2-2 configuration in Business Class, a conventional arrangement for serving short and medium haul routes. At my seat was a pillow and a blanket, as well as a pair of packaged headphones and a [menu](\images\etd_f_2025\611_menu.PDF) book for the flight. 
+
+![seat_controls](\images\etd_f_2025\IMG_4127.JPEG)
+*Seat controls*   
+
+Seat controls for recline and the footrest were under the armrest away from the centre. 
+
+![lamp](\images\etd_f_2025\IMG_4128.JPEG)
+*Lamps*   
+
+Adjustable reading lamps were equipped on the other side.  
+
+![screen](\images\etd_f_2025\IMG_4156.JPEG)
+*Entertainment screen*   
+
+The entertainment screen springs out from under the centre armrests, with a responsive touch screen.  
+
+![lemonade](\images\etd_f_2025\IMG_4125.JPEG)
+*Mint lemonade*   
+
+The crew then came by to distribute welcome drinks. As alcohol consumption is generally prohibited in Saudi Arabia, Etihad does not serve any alcohol on these routes, so a mint lemonade was offered.  
+
+![qahwah2](\images\etd_f_2025\IMG_4126.JPEG)
+*Coffee and dates*   
+
+The traditional coffee and dates service then followed as boarding was completed, which did not take long given the flight was quite empty today. The crew also took our orders for the main course at the gate. 
+
+![push](\images\etd_f_2025\IMG_4131.JPEG)
+*Pushback for departure*   
+
+We began our pushback at 1405, five minutes before our scheduled departure. I caught a glimpse of a few other Etihad tails parked at the terminal, preparing for their journeys to all corners of the world.   
+
+![tower](\images\etd_f_2025\IMG_4133.JPEG)
+*Control tower*   
+
+Our taxi took us past the uniquely shaped control tower, a curved structure that stood next to the terminals.  
+
+![takeoff2](\images\etd_f_2025\IMG_4140.JPEG)
+*Takeoff from Abu Dhabi*   
+
+We took off toward the Northwest as the wavy roof of the terminal faded away from sight.  
+ 
+![info_video](\images\etd_f_2025\IMG_4143.JPEG)
+*Yas Island and Ferrari World*   
+
+Turning East, Yas Island, a major tourism project in Abu Dhabi,  appeared below us, nestled in the warm turquoise water of the Arabian Gulf. The sprawling red rooftop of Ferrari World Abu Dhabi stands out prominently, a token of the massive urban development in the UAE over the last few decades.  
+
+![abudhabi](\images\etd_f_2025\IMG_4144.JPEG)
+*Abu Dhabi residential areas*   
+
+The view below was then replaced by the residential areas of Abu Dhabi. The desert character of the city was evident in the shades of brown lining the roads and buildings.  
+
+![lunch](\images\etd_f_2025\IMG_4159.JPEG)
+*Lunch tray*   
+
+About 30 minutes after takeoff, the crew came to set my table and brought out the meal on a tray. A pepper, onion, and olive salad with harissa sauce was served as an appetizer, packing a flavourful punch in a small bowl. I selected the Arabic spiced sea bream for the main course, served with seasoned harra potatos, tahina beans, and topped with peppers, sesame, and pine seeds. The bean stew was rich and creamy, complementing the piquant spices of the dish, resulting in a pleasant and hearty serving. The mango mousse was light and refreshing, a nice way to round off the meal.  
+
+<div class="slideshow-container">
+
+<div class="mySlides8">
+  <div class="numbertext">1 / 6</div>
+  <img src="/images/etd_f_2025/IMG_4154.JPEG" style="width:100%">
+  <i>Arabian desert landscape</i>
+</div>
+
+<div class="mySlides8">
+  <div class="numbertext">2 / 6</div>
+  <img src="/images/etd_f_2025/IMG_4155.JPEG" style="width:100%">
+  <i>Arabian desert landscape</i>
+</div>
+
+<div class="mySlides8">
+  <div class="numbertext">3 / 6</div>
+  <img src="/images/etd_f_2025/IMG_4157.JPEG" style="width:100%">
+  <i>Arabian desert landscape</i>
+</div>
+
+<div class="mySlides8">
+  <div class="numbertext">4 / 6</div>
+  <img src="/images/etd_f_2025/IMG_4160.JPEG" style="width:100%">
+  <i>Arabian desert landscape</i>
+</div>
+
+<div class="mySlides8">
+  <div class="numbertext">5 / 6</div>
+  <img src="/images/etd_f_2025/IMG_4167.JPEG" style="width:100%">
+  <i>Arabian desert landscape</i>
+</div>
+
+<div class="mySlides8">
+  <div class="numbertext">6 / 6</div>
+  <img src="/images/etd_f_2025/IMG_4168.JPEG" style="width:100%">
+  <i>Arabian desert landscape</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,8)">❮</a>
+<a class="next" onclick="plusSlides(1,8)">❯</a>
+
+</div>
+
+\
+Our flight route took us over the desert landscape of the Arabian Peninsula, and I took note of the subtle variations in the scenery below, from flat, light brown sand dunes in the East to red, rugged terrains further West toward the Red Sea coast, as well as the cities that dot the arid scenery.
+
+![cabin](\images\etd_f_2025\IMG_4165.JPEG)
+*Cabin in flight*   
+
+As I noticed that one of the crew onboard were Japanese, I spoke to her in her language for most of the service, and she asked me a few things about my trip. I realized how the details might appear quite fascinating: a Japanese-speaking U.S.-resident Chinese-Canadian travelling from Singapore to Saudi Arabia via Abu Dhabi. I had the chance to chat a little bit more with her in the galley, where I also met the Serbian Cabin Senior who had been flying with Etihad for over a decade. They were keen to hear about my travels and expressed their excitement over the new destinations that Etihad will be adding over the next year. I was pleased to hear that they were very much enjoying their careers and their time in Abu Dhabi, which they described as being more laid back than the better-known Dubai.
+
+![hot_towel](\images\etd_f_2025\IMG_4162.JPEG)
+*Hot towel*   
+
+As we began our descent into Jeddah, the crew came to distribute hot towels for some refreshment before arriving.  
+
+![jeddah](\images\etd_f_2025\IMG_4170.JPEG)
+*Approaching Jeddah*   
+
+We approached Jeddah from the South, as the city landscape woven by the grid of wide roads appeared below. The skyscrapers along the shore of the Red Sea stood from a distance.  
+
+![jed_landing](\images\etd_f_2025\IMG_4172.JPEG)
+*Landing next to Terminal 1 at Jeddah*   
+
+We landed on runway 34R on the East side of the airport. Visible from the window as we approached was the golden-roofed Terminal 1 of King Abdulaziz Airport, another recently completed construction project on the peninsula.  
+
+![taxi_jed](\images\etd_f_2025\IMG_4178.JPEG)
+*Taxi to terminal*   
+
+Our short taxi took us around the terminal, with the home carrier Saudia's aircraft lining the gates. The control tower stood in the distance, also covered in the metallic gold tiles of the terminal. 
+
+![jed_arrival](\images\etd_f_2025\IMG_4183.JPEG)
+*Jeddah arrival*   
+
+We parked at our gate and disembarked from the front door as I said goodbye to the crew. The jet bridge led to the arrivals area of the airport, and I headed towards the transfer desk for my next flight.  
+
+##### Concluding Thoughts
+As one of the most luxurious aircraft in the sky, Etihad's A380 has garnered much global attention since its unveiling in 2014, and I am pleased to have had the opportunity to ride in its First Class Apartments on my journey across Asia. The innovative suites, plentiful amenities, diverse menu options, and attentive service made for an excellent journey, both in the air and on the ground. The revival of the aircraft from its post-covid fate makes its service particularly remarkable, and I hope Etihad's growth will continue to bring unique connections for the world.  
+
+<script>
+
+/* Class the members of each slideshow group with different CSS classes */
+let slideId = ["mySlides1", "mySlides2", "mySlides3","mySlides4","mySlides5","mySlides6","mySlides7","mySlides8"];
+let slideIndex = new Array(slideId.length);
+for (i=0; i < slideIndex.length; i++) {
+  slideIndex[i]=1
+  showSlides(1,i+1);
+}
+
+</script>
