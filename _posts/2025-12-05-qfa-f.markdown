@@ -1,0 +1,808 @@
+---
+layout: single
+# author_profile: true
+# classes: wide
+comments: true
+categories:
+  - Travel
+  - Flights
+title: "Soaring with the Spirit of Australia"
+meta_title: "Review: Qantas Airways First Class Sydney to Dallas"
+excerpt: "Qantas Airways First Class Sydney to Dallas"
+description: "Here I review Qantas Airways' First Class product on the A380 from Sydney to Dallas. An exceptionally comfortable seat paired with a menu showcasing Australian produce and wine made for a delightful journey across the Pacific. Also includes a review of the Qantas First Lounge in Sydney. "
+date: "2025-12-05"
+toc: true
+last_modified_at: "2026-01-12" 
+header:
+  teaser: /images/qfa_f_2025/IMG_6930.JPEG
+
+---
+
+Founded as the Queensland and Northern Territory Aerial Services company in 1920, Qantas Airways holds the distinction as one of the oldest airlines in continuous operation. As the main international airline of Australia throughout most of its history, Qantas has played a vital role in connecting the geographically isolated country to the rest of the world, carrying the tagline "Spirit of Australia" everywhere it flies. Qantas maintains a fleet of ten Airbus A380 aircraft, the world's largest passenger model, operating them on its busiest routes across its network that reaches all six inhabited continents. The Sydney-Dallas service was commenced in 2011. Qantas' **one**world partner American Airlines operates an expansive network from Dallas to the rest of North America, making this route a key piece in its services to the continent, with A380 flights just having been restored in August 2025 following suspensions and downgauges due to the COVID-19 pandemic. I had the chance to experience Qantas' First Class service on this route, which also happened to be the longest route in my personal flight history in terms of distance. Excellent amenities on the ground, an exceptionally comfortable seat, and a menu showcasing Australian produce and wine all made for a delightful journey across the Pacific. 
+
+##### Flight Details
+Qantas Airways (QFA/QF) Flight 7    
+Origin: Sydney Kingsford-Smith, SYD   
+Departure: 14:59, 5 December 2025 (UTC+11)   
+Destination: Dallas Fort Worth, DFW    
+Arrival: 12:45, 5 December 2025 (UTC-6)  
+Duration: 14:46 hours   
+Aircraft: VH-OQG, Airbus A380-800, delivered December 2010    
+Seat: 1K (First)  
+
+##### Booking and Pre-Departure 
+I booked this flight as an award ticket issued through the American Airlines AAdvatantage program, costing 110,000 miles and US$157.93 in taxes and fees. The ticket also included connecting flights from Dallas to Philadelphia and from Philadelphia to Boston in American's Domestic First Class. Qantas sporadically releases award seats in First Class for partner redemptions, and I was fortunate to secure one of these seats for my trip.  
+
+##### Sydney Departure Ground Experience 
+
+My Qantas First experience began the day before my journey, when I received an [email](\images\qfa_f_2025\welcome_email.pdf) from the Qantas host team explaining the ground services available at Sydney Airport, including a porter service. They also offered to book an appointment time for the spa in the First Lounge, which was quickly confirmed after I replied with my preferred time of 10:30. 
+
+![departure board](\images\qfa_f_2025\IMG_6905.JPEG)
+*International Departure board*  
+
+I arrived at the International Terminal of Sydney's Kingsford Smith Airport via the Airport Link from the city center, a quick ride of around 10 minutes. The morning international departures from Australia's busiest airport were dominated by flights to Southeast Asia and elsewhere in Oceania, with some North Asia, North America, Africa, and South America-bound flights sprinkled in. 
+
+![qantas check-in](\images\qfa_f_2025\IMG_6907.JPEG)
+*Qantas international check-in*  
+
+Qantas occupies a large space at the center of the check-in hall, handling all international departures from its main hub. With the numerous outbound flights, this area was quite busy with departing passengers.  
+
+![qantas first check-in](\images\qfa_f_2025\IMG_6908.JPEG)
+*Qantas First check-in*  
+
+Somewhat secluded in this area was a white marble enclosure with the leaping kangaroo logo prominently featured, which served as the check-in area for First Class and **one**world Emerald passengers. Qantas uses a class of service-based colour scheme for its signage, and the white branding used for First Class is a recurrent motif at touchpoints along the journey.  
+
+![qantas first check-in](\images\qfa_f_2025\IMG_6909.JPEG)
+*Qantas First check-in zone*  
+
+The enclosure was rather quiet inside, with a row of check-in desks on one side and some couches on the other. Vases of white moth orchids on the tables between the couches, as well as the honeycomb pattern of the carpet, represented a few more design motifs in Qantas' customer experience.  
+
+![qantas first check-in](\images\qfa_f_2025\IMG_6910.JPEG)
+*Qantas First check-in desk*  
+
+An agent greeted me as I approached the check-in desk, and quickly completed the check-in procedure, handing me my boarding passes for my flights to Dallas and onward to Philadelphia.  
+
+![qantas security sticker](\images\qfa_f_2025\IMG_6912.JPEG)
+*Security sticker*  
+
+Since I was travelling to the U.S., a pre-departure security questionnaire had to be completed. As I was quite early for my flight, they called a security agent over so I could complete the clearance procedure before proceeding airside. After confirming that I had packed my bags myself, the agent placed a small sticker on the last page of my passport and wished me a pleasant journey. The Qantas agents also let me know that they have informed the lounge who will be expecting me shortly. I appreciated the effort to provide a smooth experience through the stages of the journey.  
+
+![security checkpoint](\images\qfa_f_2025\IMG_6911.JPEG)
+*Security checkpoint*  
+
+I proceeded to the security checkpoint, where there was a priority lane for first and business class passengers. The security screening was quite efficient with CT baggage scanners available at every lane, which was then followed by departure immigration control.  
+
+![departure hall](\images\qfa_f_2025\IMG_6914.JPEG)
+*Sydney international departure hall*  
+
+I arrived in the departure hall shortly after, with its duty-free shops already dressed in Christmas lights.  
+
+![lounge escalator](\images\qfa_f_2025\IMG_6915.JPEG)
+*Escalator to lounges*  
+
+Qantas operates its First and Business lounges on the upper level on the terminal, an escalator ride from the central duty-free area of the terminal.  
+
+![fcl entrance](\images\qfa_f_2025\IMG_6916.JPEG)
+*First Lounge entrance*  
+
+The entrance to the First Lounge is on the left-hand side at the top of the escalator, again with the white branding on the signage. The honeycomb pattern is also featured on the frosted glass doors of the entrance.  
+
+![fcl welcome desk](\images\qfa_f_2025\IMG_6991.JPEG)
+*Welcome desk*  
+
+Behind the entrance is a welcome desk with moth orchids, although the desk was unoccupied as I entered.  
+
+![fcl passageway](\images\qfa_f_2025\IMG_6917.JPEG)
+*Walkway to First Lounge*  
+
+One then enters a passageway lined with a green wall on one side and views of the tarmac on the other, settling into a relaxing atmosphere before the main part of the lounge.  
+
+![fcl escalator](\images\qfa_f_2025\IMG_6919.JPEG)
+*Escalator to First Lounge*  
+
+The passageway leads to a set of escalators, with Christmas trees on the side in time for the holiday season.  
+
+![fcl passageway](\images\qfa_f_2025\IMG_6951.JPEG)
+*First Lounge rotunda*  
+
+The escalators lead to a rotunda on the main level of the lounge, the white marble wall finishes surround the central space of the lounge, with an old-style departure board adding a retro touch to the space. 
+
+<div class="slideshow-container">
+
+<div class="mySlides1">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/qfa_f_2025/IMG_6922.JPEG" style="width:100%">
+  <i>Spa treatment menu</i>
+</div>
+
+<div class="mySlides1">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/qfa_f_2025/IMG_6923.JPEG" style="width:100%">
+  <i>Spa treatment menu</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,1)">❮</a>
+<a class="next" onclick="plusSlides(1,1)">❯</a>
+
+</div>
+
+\
+The lounge agents greeted me and scanned my boarding pass. They also confirmed my spa appointment and offered an earlier timeslot if I was interested, but I decided to keep my original appointment time. I was presented with a treatment menu offered by LaGaia Unedited, an Australian skincare brand that partners extensively with Qantas. 
+
+![waiver](\images\qfa_f_2025\IMG_6927.JPEG)
+*Spa waiver form*  
+
+The agents also provided me with a waiver form, which I was requested to fill out and bring to my treatment.   
+
+![fcl interior](\images\qfa_f_2025\IMG_6924.JPEG)
+*First Lounge interior*  
+
+There were quite a few guests in the lounge as I arrived, but the space still felt spacious as there was plenty of floor space. The marble finishings continued to line one side of the lounge, while the other side was supported by ribbed arches extending to the expansive windows that provided a panoramic view of the ramp.  
+
+![dining area](\images\qfa_f_2025\IMG_6925.JPEG)
+*Reserved dining area*  
+
+An agent led me past some rows of dining tables to a quiet section reserved for First Class passengers. 
+
+![dining area](\images\qfa_f_2025\IMG_6928.JPEG)
+*Dining area*  
+
+The server greeted me and invited me to take a seat anywhere. I chose a seat next to the window.
+
+<div class="slideshow-container">
+
+<div class="mySlides2">
+  <div class="numbertext">1 / 14</div>
+  <img src="/images/qfa_f_2025/IMG_6926.JPEG" style="width:100%">
+  <i>Breakfast menu</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">2 / 14</div>
+  <img src="/images/qfa_f_2025/IMG_6937.JPEG" style="width:100%">
+  <i>Drinks menu</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">3 / 14</div>
+  <img src="/images/qfa_f_2025/IMG_6938.JPEG" style="width:100%">
+  <i>Drinks menu</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">4 / 14</div>
+  <img src="/images/qfa_f_2025/IMG_6939.JPEG" style="width:100%">
+  <i>Drinks menu</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">5 / 14</div>
+  <img src="/images/qfa_f_2025/IMG_6940.JPEG" style="width:100%">
+  <i>Drinks menu</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">6 / 14</div>
+  <img src="/images/qfa_f_2025/IMG_6941.JPEG" style="width:100%">
+  <i>Drinks menu</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">7 / 14</div>
+  <img src="/images/qfa_f_2025/IMG_6942.JPEG" style="width:100%">
+  <i>Drinks menu</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">8 / 14</div>
+  <img src="/images/qfa_f_2025/IMG_6943.JPEG" style="width:100%">
+  <i>Drinks menu</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">9 / 14</div>
+  <img src="/images/qfa_f_2025/IMG_6944.JPEG" style="width:100%">
+  <i>Drinks menu</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">10 / 14</div>
+  <img src="/images/qfa_f_2025/IMG_6945.JPEG" style="width:100%">
+  <i>Drinks menu</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">11 / 14</div>
+  <img src="/images/qfa_f_2025/IMG_6946.JPEG" style="width:100%">
+  <i>Drinks menu</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">12 / 14</div>
+  <img src="/images/qfa_f_2025/IMG_6947.JPEG" style="width:100%">
+  <i>Drinks menu</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">13 / 14</div>
+  <img src="/images/qfa_f_2025/IMG_6948.JPEG" style="width:100%">
+  <i>Drinks menu</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">14 / 14</div>
+  <img src="/images/qfa_f_2025/IMG_6949.JPEG" style="width:100%">
+  <i>Drinks menu</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,2)">❮</a>
+<a class="next" onclick="plusSlides(1,2)">❯</a>
+
+</div>
+
+\
+The server presented me with the breakfast menu as well as the extensive drinks list. He offered some still or sparkling water as I perused the menu, whose offerings come from a longstanding partnership between Qantas and Australian chef Neil Perry.   
+
+![dining area](\images\qfa_f_2025\IMG_6930.JPEG)
+*Apron views*  
+
+After putting in my order, I took some time to appreciate the views of the apron. Two A380 jumbo jets were parked gracefully at the gates while another one taxied in after its 14-hour journey from Los Angeles. The morning sun reflected against the white fuselage, as the spirited kangaroo on the red tail leapt toward its destinations around the world.  
+
+![corn fritters](\images\qfa_f_2025\IMG_6935.JPEG)
+*Sweet corn fritters*  
+
+I started with the sweet corn fritters, served with Schulz bacon, avocado, crème fraîche, and tomato jam. The fritters were crispy but soft on the inside, and the accompaniments added a variety of flavours. The dish was pleasant, albeit a little heavy. I also asked for the watermelon+ cold press juice, blending green apples, strawberry, and lime, which was a refreshing sip.  
+
+![pancakes](\images\qfa_f_2025\IMG_6936.JPEG)
+*Pancakes*  
+
+I also had the buttermilk pancakes, served with crushed raspberries, matcha mascarpone, pistachio, and Qantas raw honey, produced on a bee farm owned by Qantas near the airport. As a fan of matcha, I enjoyed the creative combination with a classic breakfast dish.   
+
+![pancakes](\images\qfa_f_2025\IMG_6952.JPEG)
+*Self-serve station*  
+
+I spent some time exploring the rest of the lounge after breakfast. A few self-serve stations were set up on the side opposite the windows, offering a selection of pastries, fruits, yoghurt, as well as some tea and coffee.  
+
+<div class="slideshow-container">
+
+<div class="mySlides3">
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/qfa_f_2025/IMG_6950.JPEG" style="width:100%">
+  <i>Lounge seating</i>
+</div>
+
+<div class="mySlides3">
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/qfa_f_2025/IMG_6953.JPEG" style="width:100%">
+  <i>Lounge seating</i>
+</div>
+
+<div class="mySlides3">
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/qfa_f_2025/IMG_6954.JPEG" style="width:100%">
+  <i>Lounge seating</i>
+</div>
+
+<div class="mySlides3">
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/qfa_f_2025/IMG_6957.JPEG" style="width:100%">
+  <i>Lounge seating</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,3)">❮</a>
+<a class="next" onclick="plusSlides(1,3)">❯</a>
+
+</div>
+
+\
+The South side of the lounge featured some couch seating, keeping with the red, white, and black tones of the space, all while offering views of the ramp at different angles.   
+
+<div class="slideshow-container">
+
+<div class="mySlides4">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/qfa_f_2025/IMG_6955.JPEG" style="width:100%">
+  <i>Reading zone</i>
+</div>
+
+<div class="mySlides4">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/qfa_f_2025/IMG_6956.JPEG" style="width:100%">
+  <i>Reading zone</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,4)">❮</a>
+<a class="next" onclick="plusSlides(1,4)">❯</a>
+
+</div>
+
+\
+At the far end were some bookshelves with magazines and books for perusal.  
+
+![meeting room](\images\qfa_f_2025\IMG_6965.JPEG)
+*Meeting room*  
+
+There were also meeting rooms available, though they had to be reserved in advance.  
+
+![spa entrance](\images\qfa_f_2025\IMG_6969.JPEG)
+*Spa entrance*  
+
+After relaxing for a bit, it was time to head to my spa appointment. The inconspicuous entrance was at the North end of the lounge, with the same frosted glass door as the main lounge entrance.   
+
+![waiting area](\images\qfa_f_2025\IMG_6970.JPEG)
+*Spa waiting area*  
+
+A waiting area with some greenery and seating was behind the door, setting a more serene atmosphere while relaxing music played.  
+
+![spa entrance](\images\qfa_f_2025\IMG_6971.JPEG)
+*Entrance to spa area*  
+
+The entrance to the treatment area was roped off, but a therapist quickly came to greet me, collected the waiver form, and led me inside.  
+
+![treatment room](\images\qfa_f_2025\IMG_6974.JPEG)
+*Treatment room*  
+
+The therapist confirmed the hot stone massage treatment that I selected and led me to a room at the end of the hallway, surrounded by green walls on all sides with a treatment bed at the centre. She asked me to remove my top and lie face down on the bed while she left the room. She returned after a few moments and began the treatment. The hot stones gliding on the back was pleasant and relaxing, and I enjoyed the 20-minute session. 
+
+![spa desk](\images\qfa_f_2025\IMG_6972.JPEG)
+*Product display desk*  
+
+After the treatment, the therapist left while I gathered my belongings. She met me at the desk near the spa entrance and offered a glass of floral-infused water, a soothing end to the spa experience. I went on my way rested and refreshed.  
+
+![all-day menu](\images\qfa_f_2025\IMG_6976.JPEG)
+*All-day menu*  
+
+I returned to the reserved dining section for lunch, where the server checked for my boarding pass before seating me. The all-day menu was more extensive, and a selection of summer exclusives was also offered.  
+
+![drinks](\images\qfa_f_2025\IMG_6977.JPEG)
+*Table and Champagne*  
+
+After the server took my order, he returned with some sparkling water and some Champagne that I requested. Lallier Réflexion R.020 was on offer, and I enjoyed its fresh and delicate palate.  
+
+![sashimi](\images\qfa_f_2025\IMG_6978.JPEG)
+*Ocean trout sashimi*  
+
+I started with the ocean trout sashimi from the summer exclusives menu, served with avocado and cucumbers, dressed with a sweet ponzu sauce, and topped with salmon roe and salt flakes. The trout was fresh and lean, and the buttery texture of the avocado was a nice complement. 
+
+![squid](\images\qfa_f_2025\IMG_6979.JPEG)
+*Salt and pepper squid*  
+
+I then had the salt and pepper squid, a signature dish in Qantas lounges around the world. The squid was soft, covered in crunchy breading. The two dipping sauces provided some interesting flavours: a tangy and refreshing green chili and a rich and creamy aioli.   
+
+![linguine](\images\qfa_f_2025\IMG_6980.JPEG)
+*Spanner crab linguine*  
+
+I asked for the spanner crab linguine from the special menu for my main course. The dish was elegant but simple, featuring typical Australian seafood with a spicy tomato sauce. The pasta was hearty with a nice chewy texture. I also had some of the Millbrook Fiano from Western Australia to go along, and its light and fresh profile was a pleasant balance.  
+
+![pavlova](\images\qfa_f_2025\IMG_6984.JPEG)
+*Signature pavlova*  
+
+To finish, I had another classic dish of the Qantas lounge. The signature pavlova came with vanilla custard, nectarines, raspberries, all topped with fairy floss (cotton candy), a touch that made the classic dessert a visual delight.  
+
+<div class="slideshow-container">
+
+<div class="mySlides5">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/qfa_f_2025/IMG_6966.JPEG" style="width:100%">
+  <i>Hallway for toilets and showers</i>
+</div>
+
+<div class="mySlides5">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/qfa_f_2025/IMG_6967.JPEG" style="width:100%">
+  <i>Toilets</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,5)">❮</a>
+<a class="next" onclick="plusSlides(1,5)">❯</a>
+
+</div>
+
+\
+Before leaving for my flight, I headed to the showers in the lounge, which were in a hallway off to the side along with the toilets.  
+
+<div class="slideshow-container">
+
+<div class="mySlides6">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/qfa_f_2025/IMG_6985.JPEG" style="width:100%">
+  <i>Shower suite</i>
+</div>
+
+<div class="mySlides6">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/qfa_f_2025/IMG_6986.JPEG" style="width:100%">
+  <i>Shower suite</i>
+</div>
+
+<div class="mySlides6">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/qfa_f_2025/IMG_6987.JPEG" style="width:100%">
+  <i>Shower suite</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,6)">❮</a>
+<a class="next" onclick="plusSlides(1,6)">❯</a>
+
+</div>
+
+\
+The shower rooms continued the white marble decor and came with the standard amenities including towels and toiletries, with beauty products carrying the LaGaia Unedited branding.   
+
+![departure hall](\images\qfa_f_2025\IMG_6992.JPEG)
+*Main departure hall*  
+
+After a refreshing shower and with about twenty minutes to go until our scheduled boarding time of 13:20, I headed to Gate 8 where our flight was scheduled to depart from. 
+
+![departure gate](\images\qfa_f_2025\IMG_6999.JPEG)
+*Gate area*  
+
+With an A380's worth of passengers to board, the gate area was quite busy as security agents roamed around ensuring that all passengers had the screening stickers. The queuing area leading to the boarding door was roped off. The gate staff announced a delay due to aircraft preparation, so I took a seat while waiting for further updates.  
+
+![boarding door](\images\qfa_f_2025\IMG_7005.JPEG)
+*Boarding door*  
+
+The gate area opened around 14:05, with First Class passengers invited forward and asked to wait behind the doors for a few moments while final boarding preparations were completed.  
+
+![jetbridge](\images\qfa_f_2025\IMG_7007.JPEG)
+*Boarding jet bridge*  
+
+After a five-minute wait, the gate agents began scanning our boarding passes and sent us on our way to the plane. I caught a glimpse of our aircraft as I walked toward it. Aircraft in Qantas' fleet all carry a special name painted under the cockpit window, with a different theme for each aircraft type in operation. The A380 fleet is named after significant figures in Australian aviation history, and our aircraft today carried the name of Charles Ulm, a co-pilot on the first transpacific flight in 1928 that took over a week. This was a very fitting name as I was about to embark on the same journey, except it will be a much quicker one. 
+
+![door split](\images\qfa_f_2025\IMG_7009.JPEG)
+*Boarding split*  
+
+As is conventional for an A380, three doors were used for boarding from the jet bridge. First Class passengers were directed to door A, connecting to the first door on the main deck of the aircraft.  
+
+##### Onboard Experience
+
+![boarding](\images\qfa_f_2025\IMG_7010.JPEG)
+*Boarding through L1 door*  
+
+A member of the crew greeted me at the door and directed me toward the second aisle for my seat as the cheerful but relaxing boarding [soundtrack](https://www.youtube.com/watch?v=8gh2cTUd8II&list=RD8gh2cTUd8II&start_radio=1) played.  
+
+![staircase](\images\qfa_f_2025\IMG_7011.JPEG)
+*Staircase*  
+
+Right past the boarding door was the large staircase that led to the upper deck of the aircraft, a unique feature of the A380.  
+
+![first cabin](\images\qfa_f_2025\IMG_7012.JPEG)
+*First Class cabin*  
+
+The First Class cabin on the A380 consists of fourteen suites arranged in a 1-1-1 configuration. The A seats on the left opened toward the left aisle, while the F seats in the middle and the K seats on the right open toward the right aisle. The cabin finishes were mostly cream and grey along with a few wooden panels, making for a calm and elegant space.  
+
+![seat](\images\qfa_f_2025\IMG_7015.JPEG)
+*Seat 1K* 
+
+I settled into seat 1K on the right side of the cabin occupying three windows. A pillow was placed on the seat at boarding.  
+
+![ife and footwell](\images\qfa_f_2025\IMG_7016.JPEG)
+*Entertainment screen and footwell* 
+
+The entertainment screen was above the footwell with a special holiday-themed welcome message featuring an adorable reindeer-horned leaping kangaroo. A throw pillow and a blanket were placed here for boarding. The ottoman also included a seatbelt so one could sit across from a companion after takeoff.  
+
+![amenities](\images\qfa_f_2025\IMG_7026.JPEG)
+*Amenities* 
+
+The flight attendant working my aisle came to introduce himself as I settled in and asked if I preferred a small/medium or large/extra large size set of pyjamas. He also asked what I would like for a pre-departure beverage after he came back with the pyjamas, slippers, and amenity kit. 
+
+![amenity kit](\images\qfa_f_2025\IMG_7038.JPEG)
+*Amenity kit contents* 
+
+The contents of the amenity kit were rather standard, including a dental kit, earplugs, socks, an eye mask, and a pouch of skin care products with LaGaia Unedited branding, including hydration serum, cream, and lip balm.  
+
+![Champagne](\images\qfa_f_2025\IMG_7027.JPEG)
+*Pommery Champagne* 
+
+The attendant returned to pour the Champagne at my seat, which was served in a flute. The Champagne onboard was the Pommery Louise 2006. Its fresh floral notes and gentle smoothness marked a pleasant start to the flight.  
+
+![pre-departure service](\images\qfa_f_2025\IMG_7028.JPEG)
+*Pre-departure service* 
+
+The Champagne was served with some mixed nuts on a small tray that folded out from the panel in front of the seat, below which was a literature pocket that contained the safety information card and the Qantas magazine.  
+
+![outlets](\images\qfa_f_2025\IMG_7024.JPEG)
+*Electrical outlets* 
+
+AC and USB outlets were further below near feet level.  
+
+![seat controls](\images\qfa_f_2025\IMG_7025.JPEG)
+*Seat control panel* 
+
+At shoulder level on the panel away from the aisle was a touch screen seat control device, with options to adjust lighting. 
+
+![massage seat](\images\qfa_f_2025\IMG_7111.JPEG)
+*Seat massage functions*  
+
+The seat also had some interesting massage functions utilizing some moving components within the seat cushion, though they were rather weak. 
+
+![remote control](\images\qfa_f_2025\IMG_7025.JPEG)
+*Entertainment control* 
+
+Below, a controller for the entertainment screen was at arm level.   
+
+![storage](\images\qfa_f_2025\IMG_7030.JPEG)
+*Storage compartments* 
+
+Two small storage compartments were off to the side, of which the one above contained a pair of headphones. 
+
+![side panel](\images\qfa_f_2025\IMG_7034.JPEG)
+*Side table* 
+
+The surface to the side of the seat contained a small bottle holder.  
+
+![seat view](\images\qfa_f_2025\IMG_7017.JPEG)
+*Air vent above seat* 
+
+Two large adjustable air vents were installed in the seat: one near shoulder level on the side panel and one on the front panel. These were welcome accessories to allow temperature control at the seat. However, due to the shell around the seat and the wide side unit, I found the windows to be somewhat awkward to reach while seated. 
+
+![side panel](\images\qfa_f_2025\IMG_7036.JPEG)
+*Hot towel* 
+
+Boarding was complete after about half an hour, and the pilots announced our expected flight time of 14 hours and 20 minutes. The crew also came and distributed hot towels.  
+
+![menu](\images\qfa_f_2025\IMG_7045.JPEG)
+*Menu in casing* 
+
+After collecting the towels, the crew brought an elegant leather casing that contained the [menu](\images\qfa_f_2025\menu.pdf) for today's flight, with an emphasis on showcasing Australian produce and wines. The flight attendant let me know that the standard service procedure was to serve dinner shortly after takeoff and breakfast before landing, though I could customize the meal timings however I wished.  
+
+![safety video](\images\qfa_f_2025\IMG_7046.JPEG)
+*Safety video* 
+
+After a slight delay on the ground, the cabin doors were closed at 14:56, a little less than an hour after the scheduled departure time. The [safety video](https://www.youtube.com/watch?v=K9VKrGowHxM) featured Qantas flyers and employees and their "magic places" around Australia and the world. While the film locations and presentation were interesting, the video was quite long and somewhat inefficient in conveying the necessary information.   
+
+![bridge crossing](\images\qfa_f_2025\IMG_7054.JPEG)
+*Taxi over General Holmes Drive* 
+
+Our taxi to the runway took us over General Holmes Drive going around the airport, from which many photos of iconic aircraft have been taken over the years.  
+
+![beach](\images\qfa_f_2025\IMG_7055.JPEG)
+*Plane spotting beach* 
+
+We continued past a beach just beside the taxiway, another fantastic location for plane spotting in Sydney, as we headed toward the runway in the middle of Botany Bay.   
+
+![tail camera](\images\qfa_f_2025\IMG_7058.JPEG)
+*Tail camera* 
+
+The tail camera gave a full view of the aircraft from above as its wide frame reached the end of the runway in preparation for takeoff.  
+
+![domestic terminal](\images\qfa_f_2025\IMG_7062.JPEG)
+*Take off next to domestic terminal* 
+
+As we rolled down runway 34L into the sky, we climbed past a row of kangaroo tails parked at the domestic terminal, preparing for their journeys across the continent.  
+
+![harbour view](\images\qfa_f_2025\IMG_7069.JPEG)
+*View of Sydney harbour* 
+
+Heading North toward Sydney Harbour, we were afforded a gorgeous view of the Sydney Harbour Bridge and the Sydney Opera House. The many vessels navigating the harbour left painted the turquoise water with their white wake streams on this sunny Friday afternoon.  
+
+![harbour view](\images\qfa_f_2025\IMG_7072.JPEG)
+*View of Sydney suburbs*  
+
+We turned East toward the Pacific Ocean over the harbour, catching a glimpse of the suburbs of Sydney nestled along the sandy beaches.  
+
+![drink service](\images\qfa_f_2025\IMG_7075.JPEG)
+*Drink service*  
+
+Soon we began making our way across the vast ocean, with the land below soon fading from sight. Cabin service began quickly after takeoff with the crew first offering a round of beverages. I asked for a glass of sparkling water as I relaxed in the spacious suite. The cabin manager also came to introduce himself to each passenger and made sure we were well taken care of. He also confirmed our connections upon arrival and wished us a pleasant flight.   
+
+![lavatory](\images\qfa_f_2025\IMG_7081.JPEG)
+*Lavatory*  
+
+I made a quick visit to the lavatory before the meal service began. While First Class passengers would usually have access to the two lavatories in the front of the main deck, one of them was out of service on our flight. Fortunately, as the First cabin was quite empty, there was no need to wait to use it.  
+
+![lavatory](\images\qfa_f_2025\IMG_7079.JPEG)
+*Lavatory*  
+
+The lavatory was quite spacious, with mirrors at each end and a window along the fuselage.  
+
+![lavatory amenities](\images\qfa_f_2025\IMG_7096.JPEG)
+*Lavatory amenities*  
+
+Additional amenities were also in stock, including razors, shaving cream, cotton pads, and small deodorants.  
+
+![canape](\images\qfa_f_2025\IMG_7076.JPEG)
+*Canapés*  
+
+The flight attendant brought out the canapé plate to start the meal service. The small bites included a caviar tartlet with crème fraîche, which was an elegant way to serve the first class staple without dedicating a full course to caviar. It also came with a spoonful of roasted duck with pomelo, coconut, and betel leaf, which was a flavourful and refreshing start to the meal.  
+
+![table](\images\qfa_f_2025\IMG_7083.JPEG)
+*Table set*  
+
+The flight attendant then came to set the table for the meal. The main tray table folded out from the armrest on the side away from the aisle. Designed to accommodate two diners, the table was exceedingly spacious.  
+
+![bread](\images\qfa_f_2025\IMG_7086.JPEG)
+*Bread tray*  
+
+Warm bread was then offered from a tray, with a selection of white sourdough, soy and quinoa, and caramelized garlic. I decided to have some garlic bread. With the soft garlic in the middle and the soft and buttery bread, it was an absolute delight.  
+
+![pinot](\images\qfa_f_2025\IMG_7084.JPEG)
+*Giant Steps Pinot Noir*  
+
+To go with the meal, I had some of the Pinot Noir from Yarra Valley in Victoria. The wine was earthy but light, a lovely selection for the summer.  
+
+![glass](\images\qfa_f_2025\IMG_7085.JPEG)
+*Wine glass*  
+
+Cheers!  
+
+![tartare](\images\qfa_f_2025\IMG_7087.JPEG)
+*Tuna tartare*  
+
+For the appetizer, I had the yellowfin tuna tartare with gochujang sauce and lettuce. This was a small dish but packed full of flavour, making for a stimulating start to the meal.  
+
+![duck](\images\qfa_f_2025\IMG_7088.JPEG)
+*Duck main course*  
+
+I chose the Wollemi duck for the main course, served with Chinese greens and jasmine rice. The duck leg was nicely presented, hearty, and tender. The rice turned out slightly soggy, however. I thought the slices of orange were an interesting choice for flavour in the dish.  
+
+![cheese](\images\qfa_f_2025\IMG_7090.JPEG)
+*Cheese plate*  
+
+I then asked for the cheese plate, which showcased a variety of Australian cheeses that made for an interesting dairy experience.  
+
+![topaque](\images\qfa_f_2025\IMG_7089.JPEG)
+*Topaque*  
+
+I had the classic topaque, an Australian fortified dessert wine, to go along with this course. The rich and toasty toffee notes blended well with the creamy cheeses.  
+
+![torta](\images\qfa_f_2025\IMG_7092.JPEG)
+*Torta di Verona*  
+
+To finish off, I had the Torta di Verona, a decadent dish of pandoro cake topped with amaretto, mascarpone cream, blueberry sauce, and toasted almonds. An Australian-Italian creation, the version served onboard carries the name of one of Neil Perry's newest restaurants, Gran Torino in Double Bay, Sydney.  
+
+
+![swivel](\images\qfa_f_2025\IMG_7093.JPEG)
+*Seat swiveled*  
+
+While the seat in the suite faces forward during takeoff and landing, it swivels to be in line with the footwell, dining table, and entertainment screen during the flight. This is also the position from which it reclines.  
+
+![shades](\images\qfa_f_2025\IMG_7102.JPEG)
+*Window shades*  
+
+With the windows quite far from the seat, the pleated shades were electronically controlled and did a good job of blocking out light. However, this did make it a little awkward to see outside during the flight.   
+
+![water](\images\qfa_f_2025\IMG_7091.JPEG)
+*Water bottle*  
+
+As passengers prepared to rest, the crew distributed bottles of water, which was very helpful for staying hydrated. They also refilled the bottles on request, a practical way to reduce waste. 
+
+![bed](\images\qfa_f_2025\IMG_7095.JPEG)
+*Bed*  
+
+I finished dinner about two and a half hours after takeoff, and I headed to the lavatory to change into the pyjamas and get some rest. The flight attendant offered to make the bed in the reclined seat, and I returned to a spacious bed with a mattress and another blanket. The flight attendant also checked if I was going to have breakfast before arrival or a different time before I headed to rest. The mattress was thick and quite comfortable, and the bed proved to be plenty of space. With my hectic days of travel behind, I quickly fell asleep.   
+
+![cruise](\images\qfa_f_2025\IMG_7104.JPEG)
+*Cruising views*  
+
+After sleeping for about four hours, I woke up over the Pacific Ocean as it was approaching midnight in Sydney. 
+
+![screen](\images\qfa_f_2025\IMG_7101.JPEG)
+*Lounge screen*  
+
+A small lounge and bar area on the upper deck was available to First and Business Class passengers on this aircraft, and I ascended the main stairs to take a look. A large screen faces the staircase, playing footage of Australia's diverse scenery.  
+
+![lounge](\images\qfa_f_2025\IMG_7097.JPEG)
+*Lounge seating*  
+
+The lounge area had some cushioned seating and tables available, although I did not see anyone here during the flight.   
+
+![pantry](\images\qfa_f_2025\IMG_7100.JPEG)
+*Pantry*  
+
+A pantry with some wine and snacks were available as well.  
+
+![entertainment](\images\qfa_f_2025\IMG_7107.JPEG)
+*Entertainment system*  
+
+Back at my seat, I spent some time browsing the entertainment system, which included a wide selection of movies and TV shows from Australia and beyond. I watched Yurlu Country, a documentary film telling the story of an aboriginal community displaced due to asbestos mining, a snapshot of the complex issues that Australia faces as it reconciles with its history.  
+
+![lamb](\images\qfa_f_2025\IMG_7105.JPEG)
+*Lamb cutlets*  
+
+Before sleeping, I asked the crew if it was possible to keep a dish from the dinner service to enjoy mid-flight. I requested the toothfish at first, but it turned out to be a popular dish that was out of stock after all passengers made their dinner selections. I decided to go with the lamb cutlets instead, which was served about half an hour after I asked to have it brought out. The crust on the lamb had lost a bit of its crunch, but the meat itself was tender and flavourful, blending well with the pine nut's aroma. The salsa verde and rocket salad added some freshness to the dish.  
+
+![petits fours](\images\qfa_f_2025\IMG_7106.JPEG)
+*Petits Fours*  
+
+After finishing the lamb, I asked to have the petits fours as I did some work. The flight attendant brought a small bowl with some salted caramel candies and some praline chocolates.   
+
+![galley](\images\qfa_f_2025\IMG_7109.JPEG)
+*Galley snacks*  
+
+After catching some more sleep, I stopped by the galley to chat with the crew for a little bit. Both flight attendants working in the First cabin today were veterans who have flown for over a decade with Qantas. They noted that today's flight was a very easy one due to the light load in First, with only half the seats occupied, while ordinarily any empty seats would be filled with upgrade requests. They shared some stories of their time with the company. With the A380 having been just recently re-introduced on the Dallas flight, they were happy to have more opportunities to fly on the whale, a pleasant aircraft to work on. They were also excited about their upcoming nonstop service to London on the new sunrise A350s. They also set up a snack station here for passengers, including chocolate, chips, snack bars, and fresh fruits. 
+
+![cruise](\images\qfa_f_2025\IMG_7110.JPEG)
+*Cruising over the Pacific Ocean*  
+
+We continued our journey across the vast Pacific Ocean. Flying from Oceania to the Americas often feels like a rather lonely journey as there is essentially no significant land mass along the route, with just some clouds below. With three hours remaining in the flight, it was broad daylight at our position, and we still had some ways to go before reaching the American continent.  
+
+![mimosa](\images\qfa_f_2025\IMG_7115.JPEG)
+*Breakfast setup with mimosa*  
+
+About two hours before landing, the flight attendant came to take my order for the breakfast service and brought another hot towel. A wide variety of dishes, sides, breads, and drinks were available, offering wide latitude for passengers to customize the meal. I asked for a glass of mimosa to start the morning with a celebratory mood.  
+
+![surveilled](\images\qfa_f_2025\IMG_7114.JPEG)
+*Surveilled*  
+
+I tried to find some more interesting material from the entertainment system and decided to check out the HBO investigative film "Surveilled," a deep dive into the Israeli commercial spyware Pegasus and its shockingly wide adoption across the world. 
+
+![fruits](\images\qfa_f_2025\IMG_7116.JPEG)
+*Fruit and yoghurt*  
+
+I had some fruit and yoghurt to start, presented in small bowls. I also asked for some honey to go along, with Beerenberg honey from the Adeleide Hills on offer. 
+
+![omelette](\images\qfa_f_2025\IMG_7118.JPEG)
+*Open omelette*  
+
+For the main dish, I asked for the open omelette, served with prosciutto, cherry tomatoes, oyster mushrooms, ricotta, and herb salsa. The dish was a creative combination of some traditional breakfast fare, and the elements worked quite well together to provide varied but comforting flavours. 
+
+![danish](\images\qfa_f_2025\IMG_7119.JPEG)
+*Danish and tea*  
+
+To finish, I had the blueberry and apple Danish, soft and warm as it was served. To go along, I sipped on some bush peppermint tea by Binjang, a blend that features some unique fragrant flora of Australia. 
+
+![unicef](\images\qfa_f_2025\IMG_7120.JPEG)
+*UNICEF video*  
+
+Qantas has a longstanding partnership with UNICEF's Change for Good program, collecting spare change in foreign currencies from passengers as proceedings to the organization. About an hour before landing, a video was played explaining the program before a crew member came through the cabin to collect any donations. The cabin manager also announced that we would be beginning our descent in half an hour, and that cabin service will be ending shortly.   
+
+![arrival](\images\qfa_f_2025\IMG_7124.JPEG)
+*Arrival preparations*  
+
+Crossing into U.S. airspace with about half an hour to landing, the captain announced the cabin preparation for arrival, with the blinds opening to some cloudy skies over Texas.   
+
+![texas](\images\qfa_f_2025\IMG_7125.JPEG)
+*View of Texas plains*  
+
+We descended over the prairies of Texas with the Brazos river crawling through the landscape. The crew came to collect service items and thanked each passenger for flying with Qantas and wished us a safe onward journey. I also gave him my appreciation for the service onboard and handed him a postcard with my thank you note.  
+
+![dfw descent](\images\qfa_f_2025\IMG_7129.JPEG)
+*Descending beside Dallas airport*  
+
+Approaching from the South, we flew past the sprawling terminal of Dallas Fort Worth airport as before we made our final approach. As one of the busiest airports in the country, its densely packed gates and numerous parallel runways stood out prominently from the surrounding landscape.  
+
+![landing](\images\qfa_f_2025\IMG_7132.JPEG)
+*Landing*  
+
+We landed on runway 18R after our 14-hour trek across the Pacific, with the wide stature of the aircraft gracefully reaching back to the ground.  
+
+![taxi](\images\qfa_f_2025\IMG_7133.JPEG)
+*Taxi*  
+
+Our taxi took us around several concourses of the terminal. The red, blue, and white tails lined at the gates marked well the main hub of American Airlines.  
+
+![gate arrival](\images\qfa_f_2025\IMG_7135.JPEG)
+*Gate arrival*  
+
+We arrived at gate D16 around 1245, fifteen minutes after our scheduled arrival time.  
+
+![gate](\images\qfa_f_2025\IMG_7137.JPEG)
+*Aircraft at gate*  
+
+First passengers again disembarked from the main deck front door, looking back at the aircraft as we joined the arrival stream. The lone kangaroo tail is now one in a sea of other designs, but its energetic leaping motion is still felt. 
+
+![arrival stream](\images\qfa_f_2025\IMG_7138.JPEG)
+*Arrival immigration*  
+
+The arrival stream led us to the immigration hall. The lines were relatively short, and I was cleared through with just a few minutes' wait.  
+
+![mimosa](\images\qfa_f_2025\IMG_7139.JPEG)
+*Aircraft models in the baggage claim area*  
+
+Aircraft models from airlines serving DFW were on display in the arrival baggage hall. Amusingly, the Qantas model was still a Boeing 747, which was used when the Dallas route was commenced over a decade ago. Now long gone from the Qantas fleet, this model will perhaps commemorate the history of the route for many years to come.  
+
+##### Concluding Thoughts
+With its spacious cabin and smooth maneuvers, flying on the A380 is always a delight. The journey was doubly so on Qantas' excellent First Class product, with thoughtful amenities and an attentive crew, representing one of the most comfortable ways to fly between Australia and North America. A route that took multiple stops over several days in the past, Qantas has walked every step of aviation history as advances in aeronautical engineering have enabled frequent nonstop service between the two continents. As it prepares for the launch of Project Sunrise connecting the Australian East coast to Europe and the American East coast, I look forward to seeing the continued evolution of Qantas' services over the years to come.  
+
+<script>
+
+/* Class the members of each slideshow group with different CSS classes */
+let slideId = ["mySlides1", "mySlides2", "mySlides3","mySlides4","mySlides5","mySlides6"];
+let slideIndex = new Array(slideId.length);
+for (i=0; i < slideIndex.length; i++) {
+  slideIndex[i]=1
+  showSlides(1,i+1);
+}
+
+</script>
