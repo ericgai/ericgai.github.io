@@ -13,6 +13,8 @@ description: "Here I review Royal Jordanian's Crown Class product, travelling on
 date: "2026-05-10" 
 toc: true
 last_modified_at: "2026-05-28" 
+redirect_from:
+  - /rj-dfw
 header:
   teaser: /images/images/rja_j_2026/IMG_8874.JPEG
 
@@ -340,7 +342,7 @@ The crew then came through the cabin to serve Arabic coffee, poured from a tradi
 ![menu](\images\rja_j_2026\IMG_8804.JPEG)
 *Menu booklet*  
 
-The [menu]() for the main meal service, printed in English and Arabic, was also distributed. I appreciated that the calories for each item were marked clearly.    
+The [menu](\images\rja_j_2026\menu.pdf) for the main meal service, printed in English and Arabic, was also distributed. I appreciated that the calories for each item were marked clearly.    
 
 ![taxi](\images\rja_j_2026\IMG_8805.JPEG)
 *Taxi*  
