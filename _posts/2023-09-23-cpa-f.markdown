@@ -9,7 +9,7 @@ categories:
 title: "Feels Good to Move"
 meta_title: "Review: Cathay Pacific First Class Los Angeles to Hong Kong"
 excerpt: "Cathay Pacific First Class Los Angeles-Hong Kong, and onward to Dubai"
-description: "Here I review Cathay Pacific's transpacific First Class service, flown August 2023. The recently reinstated service was pleasant and elegant, and the crew gracefully dealt with the issues that arose. Also includes a review of the Qantas First Lounge and oneworld lounge at LAX, the Deck, the Wing, and the Pier lounges in Hong Kong, as well as a connecting flight in Business Class from Hong Kong to Dubai."
+description: "Here I review Cathay Pacific's transpacific First Class service on flight CX881 from Los Angeles to Hong Kong aboard B-KQH, a four-cabin Boeing 777-300ER, flown August 2023. The recently reinstated service was pleasant and elegant, and the crew gracefully dealt with the issues that arose. Also includes a review of the Qantas First Lounge and oneworld lounge at LAX, the Deck, the Wing, and the Pier lounges in Hong Kong, as well as a connecting flight in Business Class from Hong Kong to Dubai."
 date: "2023-08-14"
 toc: true
 last_modified_at: "2024-01-15" 

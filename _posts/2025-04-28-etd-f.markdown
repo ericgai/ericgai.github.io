@@ -9,7 +9,7 @@ categories:
 title: "An Emirati Journey across Asia"
 meta_title: "Review: Etihad First Apartments Singapore to Abu Dhabi, and Etihad Business Class from Abu Dhabi to Jeddah"
 excerpt: "Etihad First Apartments Singapore to Abu Dhabi, and Etihad Business Class from Abu Dhabi to Jeddah"
-description: "Here I review Etihad Airways' First Class product onboard the Airbus A380 aircraft in the Apartment suites from Singapore to Abu Dhabi, flown April 2025. Also includes a review of the Ambassador Transit lounge at Changi Airport, the Etihad First lounge in Abu Dhabi, and an Etihad Business Class flight from Abu Dhabi to Jeddah. A luxurious experience remains a decade after the introduction of the aircraft, with an impressive set of amenities onboard and on the ground."
+description: "Here I review Etihad Airways' First Class product onboard the Airbus A380 aircraft in the Apartment suites on flight EY499 from Singapore to Abu Dhabi, flown April 2025. Also includes a review of the Ambassador Transit lounge at Changi Airport, the Etihad First lounge in Abu Dhabi, and an Etihad Business Class flight EY611 from Abu Dhabi to Jeddah. A luxurious experience remains a decade after the introduction of the aircraft, with an impressive set of amenities onboard and on the ground. Operated by tail numbers A6-APJ and A6-AEH."
 date: "2025-04-28"
 toc: true
 last_modified_at: "2025-08-10" 

@@ -9,7 +9,7 @@ categories:
 title: "On the Wings of Japan "
 meta_title: "Review: Japan Airlines A350-1000 First Class Tokyo Haneda to Dallas"
 excerpt: "Japan Airlines A350 First Class Tokyo to Dallas"
-description: "Here I review Japan Airlines' First Class on the new A350-1000 aircraft, flown September 2024. An impressive product and refined service making for a memorable and pleasant journey."
+description: "Here I review Japan Airlines' First Class on flight JL12 from Tokyo Haneda to Dallas onboard JA05WJ, a brand new Airbus A350-1000 aircraft, flown September 2024. An impressive product and refined service making for a memorable and pleasant journey."
 date: "2024-09-24"
 toc: true
 last_modified_at: "2025-01-23" 

@@ -1,0 +1,537 @@
+---
+layout: single
+# author_profile: true
+# classes: wide
+comments: true
+categories:
+  - Travel
+  - Flights
+title: "Lone Star Meets the Crown"
+meta_title: "Review: Royal Jordanian Crown Class Inaugural Amman to Dallas"
+excerpt: "Royal Jordanian Crown Class Inaugural Amman to Dallas"
+description: "Here I review Royal Jordanian's Crown Class product, travelling on the inaugural flight from Amman to Dallas onboard flight RJ291, operated by a Boeing 787-9 Dreamliner. A competitive new cabin, service infused with traditional elements, and inaugural celebrations made for an enjoyable journey. Also includes a review of the Crown Lounge at Queen Alia Airport. "
+date: "2026-05-10" 
+toc: true
+last_modified_at: "2026-05-28" 
+header:
+  teaser: /images/rja_j_2026/IMG_8874.JPEG
+
+---
+
+As I made my way back to the U.S. from my Asia trip, I had the chance to fly on Royal Jordanian's inaugural service from Amman to Dallas in Crown Class, the carriers' business class product. The journey was made more special as the brand new Boeing 787-9 Dreamliner operated the flight. Founded in 1963, Royal Jordanian has steadily grown its network over the years, reaching over 60 cities across Asia, Europe, Africa, and North America. In addition to serving as Jordan's national carrier, the airline also plays an important role in providing connections to destinations across the Levant region. As the latest addition to its network, the Dallas-Fort Worth service has become the longest route in Royal Jordanian's network, while providing connectivity to destinations across central and Western U.S. through the robust domestic network of its **one**world partner American Airlines. It was a treat to be part of Royal Jordanian's newest service, with the new Dreamliner offering a pleasant inflight experience. 
+
+##### Flight Details
+Royal Jordanian Airways (RJA/RJ) Flight 291    
+Origin: Amman Queen Alia, AMM   
+Departure: 11:03, 1 December 2025 (UTC+3)   
+Destination: Dallas-Fort Worth, DFW   
+Arrival: 17:28, 2 December 2025 (UTC-5)  
+Duration: 14:25 hours   
+Aircraft: JY-RBA, delivered March 2026   
+Seat: 1A (Business)  
+
+##### Booking and Pre-Departure 
+I booked this flight as part of an open-jaw ticket, with the outbound in Crown Class from Istanbul to Dallas and the inbound in economy class from Detroit to Istanbul, both via Amman. The total cost of the ticket came to US$1957.43. I earned about 9,800 American Express Membership Rewards points by charging the fare to a Platinum card, as well as about 11,500 AAdvantage miles by crediting the flights to American Airlines' frequent flyer program. 
+
+##### Amman Departure    
+
+![terminal entrance](\images\rja_j_2026\IMG_8694.JPEG)
+*Terminal departures entrance*  
+
+As my itinerary included a overnight transit in Amman, I took advantage of Royal Jordanian's complimentary transit accomodation service. I was given a room at the Amman airport hotel, a short shuttle ride away from the terminal. Another shuttle brought us back to the terminal in the morning, dropping us off at the departures level. The main terminal of Queen Alia airport was completed in 2013, with modern architectural motifs featuring dynamic curved dome structures. 
+
+![departures](\images\rja_j_2026\IMG_8697.JPEG)
+*Departures hall*  
+
+While a separate entrance was available for Crown Class passengers, a staff member accompanied all transit passengers through the general lanes, with a baggage screen upon entering the terminal, followed by immigration control and a full security screening. There were some light crowds, and I made it to the departures area about twenty minutes after arriving at the terminal.  
+
+![departure board](\images\rja_j_2026\IMG_8698.JPEG)
+*Departures hall*  
+
+The late morning and early afternoon times are a major departure bank for Royal Jordanian, representing the bulk of its flights to North America and Europe, and the terminal was fairly busy. Full-length glass window panes open to the tarmac, bringing plentiful natural light in the building.   
+
+![lounge entrance](\images\rja_j_2026\IMG_8699.JPEG)
+*Crown Lounge entrance*  
+
+The entrance to Royal Jordanian's Crown Lounge was immediately after the screening checkpoint. 
+
+![lounge entrance](\images\rja_j_2026\IMG_8700.JPEG)
+*Crown Lounge checkin*  
+
+The lounge entrance featured Royal Jordanian's shades of gold and gray. Upon entering, an agent scanned my boarding pass and directed me to the elevator that would take me to the upper level of the terminal, where the main lounge is located.  
+
+![lounge directions](\images\rja_j_2026\IMG_8703.JPEG)
+*Lounge directions*  
+
+An information sign at the entrance listed the amenities on each side of the lounge.  
+
+![deck](\images\rja_j_2026\IMG_8707.JPEG)
+*Lounge deck*  
+
+The lounge occupies a large space overlooking the main terminal rotunda, busy with passengers making their journeys. 
+
+![manakish](\images\rja_j_2026\IMG_8711.JPEG)
+*Manakish station*  
+
+The left side of lounge was rather quiet, with a live manakish station housing all the action, serving up freshly cooked Levant-style flatbread.  
+
+<div class="slideshow-container">
+
+<div class="mySlides1">
+  <div class="numbertext">1 / 3</div>
+  <img src="/rja_j_2026/IMG_8706.JPEG" style="width:100%">
+  <i>Lounge seating</i>
+</div>
+
+<div class="mySlides1">
+  <div class="numbertext">2 / 3</div>
+  <img src="/rja_j_2026/IMG_8708.JPEG" style="width:100%">
+  <i>Lounge seating</i>
+</div>
+
+<div class="mySlides1">
+  <div class="numbertext">3 / 3</div>
+  <img src="/rja_j_2026/IMG_8709.JPEG" style="width:100%">
+  <i>Lounge seating</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,1)">❮</a>
+<a class="next" onclick="plusSlides(1,1)">❯</a>
+
+</div>
+\
+
+A range of seating options including couches and tables were available.  
+
+![smoking room](\images\rja_j_2026\IMG_8712.JPEG)
+*Smoking room*  
+
+There was also an enclosed smoking room which appeared to be rather popular.  
+
+![bedouin](\images\rja_j_2026\IMG_8713.JPEG)
+*Bedouin area*  
+
+The right side of the lounge was a bit busier with some more amenities. A small area was set up for a Bedouin-style coffee ceremony, adding a touch of local tradition to the modern space, although it was vacant during my stay here.  
+
+![cafe](\images\rja_j_2026\IMG_8714.JPEG)
+*Snack bar*  
+
+Some packaged snacks, cakes and cold appetizers were stocked at a small station.  
+
+![bar](\images\rja_j_2026\IMG_8715.JPEG)
+*Bar area*  
+
+Further inside was a staffed bar area.  
+
+<div class="slideshow-container">
+
+<div class="mySlides2">
+  <div class="numbertext">1 / 8</div>
+  <img src="/rja_j_2026/IMG_8717.JPEG" style="width:100%">
+  <i>Buffet</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">2 / 8</div>
+  <img src="/rja_j_2026/IMG_8718.JPEG" style="width:100%">
+  <i>Buffet</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">3 / 8</div>
+  <img src="/rja_j_2026/IMG_8719.JPEG" style="width:100%">
+  <i>Buffet</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">4 / 8</div>
+  <img src="/rja_j_2026/IMG_7820.JPEG" style="width:100%">
+  <i>Buffet</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">5 / 8</div>
+  <img src="/rja_j_2026/IMG_8721.JPEG" style="width:100%">
+  <i>Buffet</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">6 / 8</div>
+  <img src="/rja_j_2026/IMG_8722.JPEG" style="width:100%">
+  <i>Buffet</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">7 / 8</div>
+  <img src="/rja_j_2026/IMG_8723.JPEG" style="width:100%">
+  <i>Buffet</i>
+</div>
+
+<div class="mySlides2">
+  <div class="numbertext">8 / 8</div>
+  <img src="/rja_j_2026/IMG_8725.JPEG" style="width:100%">
+  <i>Buffet</i>
+</div>
+
+<a class="prev" onclick="plusSlides(-1,2)">❮</a>
+<a class="next" onclick="plusSlides(1,2)">❯</a>
+
+</div>
+
+The breakfast buffet featured a few Oriental and Western hot dishes, along with some pastries, fruit cups, salad, and cold cuts.  
+
+![gate](\images\rja_j_2026\IMG_8731.JPEG)
+*Gate area*  
+
+I headed to the gate after a quick bite in the lounge. Our flight would be leaving from gate 208 on the North side of the terminal this morning, and the gate area was rather empty as I arrived. A supplemental security check was done at the gate as this was a U.S.-bound flight. Seating in the departure area was plentiful, although it was somewhat inconvenient that no bathrooms or water was available after entering the gate area.  
+
+![board](\images\rja_j_2026\IMG_8734.JPEG)
+*Inaugural board*  
+
+A poster board was set up at the gate area, featuring logos of Royal Jordanian, Queen Alia International Airport, as well as the U.S. Embassy in Jordan. 
+
+![ac amm](\images\rja_j_2026\IMG_8733.JPEG)
+*Royal Jordanian Boeing 787-9 Dreamliner*  
+
+Parked at the gate was the Dreamliner taking us across the Atlantic today. The black livery reflected the desert sun with a gentle metallic spark, exuding a regal elegance on the sleek frame of the aircraft.  
+
+![balloons](\images\rja_j_2026\IMG_8740.JPEG)
+*Ballon arch*  
+
+A balloon arch lined the gate entrance, and staff members arranged gift bags on tables next to the gate as passengers slowly trickled into the gate area.  
+
+![gate area](\images\rja_j_2026\IMG_8744.JPEG)
+*Camera*  
+
+A film crew then arrived with a camera setup, directed at the gate counters, as two staff members donned traditional Jordanian dress in preparation.  
+
+![address](\images\rja_j_2026\IMG_8750.JPEG)
+*Dignitary address*  
+
+Dignitaries for the inaugural event arrived shortly after, including Samer Majali, CEO and vice chairman of Royal Jordanian, Jim Holtsnider, U.S. Ambassador to Jordan, and Marc Aubel, COO of Airport International Group, which operates Queen Alia Airport. The three representatives gave brief remarks at the gate, celebrating the new route and the new business and tourism connections that it enables. Unfortunately, the microphone malfunctioned during the speeches, and it was difficult to hear them despite being close to the gate.  
+
+![boarding](\images\rja_j_2026\IMG_8755.JPEG)
+*Boarding*  
+
+While boarding was scheduled to begin an hour before our 1100 departure, the inaugural events delayed this by about twenty minutes. Each passenger was handed a gift bag as boarding passes were scanned. 
+
+![jetbridge](\images\rja_j_2026\IMG_8759.JPEG)
+*Boarding jet bridge*  
+
+The boarding process turned out to be very chaotic, with the operating crew arriving just shortly before boarding, and the dignitaries making a stop aboard the aircraft along with the media crew before the passengers. At various points along the jet bridge, staff asked passengers to wait before proceeding, but each time they disappeared with the group going onboard, leaving us unsure when to continue. 
+
+![789 bridge](\images\rja_j_2026\IMG_8763.JPEG)
+*Aircraft from jet bridge*  
+
+I got a view of the aircraft at a different angle from the jet bridge. A small line of text beneath the cockpit dedicated the aircraft to Prince El Hassan bin Talal, a member of the royal family who was Crown Prince during the reign of King Hussein before being removed in favour of his nephew and current king, Abhullah II.  
+
+![door](\images\rja_j_2026\IMG_8767.JPEG)
+*Boarding door*  
+
+After the group of dignitaries left the aircraft, we approached the aircraft door. At this point, the staff tried to bring wheelchair passengers and their families forward for boarding, adding another layer of disarray. I finally made it onboard ten minutes after entering the jetbridge. The crew greeted passengers as we boarded through the L2 door, and I turned left toward the Crown Class cabin. 
+
+##### Onboard
+
+![cabin](\images\rja_j_2026\IMG_8771.JPEG)
+*Crown Class cabin*  
+
+As the newest widebody aircraft in Royal Jordanian's fleet, the airline introduced a new seat for Crown Class based on the Collins Aerospace Elements product. The cabin featured darker shades of grey, maroon, and gold, keeping in line with the brand colours of the airline but with a more elevated air. The 1-2-1 reverse herringbone layout provides direct aisle access to each passenger, with each seat facing away from the aisle. 
+
+![cabin](\images\rja_j_2026\IMG_8772.JPEG)
+*Crown Class cabin*  
+
+Overhead bins were installed on the window row of seats only, leaving an open and spacious cabin. 
+
+![seat](\images\rja_j_2026\IMG_8774.JPEG)
+*Seat 1A*  
+
+I arrived at my seat 1A after a walk through the Crown Class cabin. A pillow and a blanket were placed at the seat as we boarded.  
+
+![screen](\images\rja_j_2026\IMG_8777.JPEG)
+*Entertainment screen*  
+
+The entertainment screen in front of the seat was on the smaller side for a new aircraft, but the responsivity of the touch screen was quite good, and the placement was rather accessible from the seat.  
+
+![Storage](\images\rja_j_2026\IMG_8779.JPEG)
+*Storage compartment*  
+
+Above the armrest and along the window was a storage compartment, which contained AC, USB-A, USB-C, and headphone ports, along with a touch-enabled screen controller.   
+
+![controls](\images\rja_j_2026\IMG_8784.JPEG)
+*Seat controls*  
+
+Below this compartment was the seat controls, with three pre-defined positions as well as fine adjustment buttons available.  
+
+![overhead](\images\rja_j_2026\IMG_8781.JPEG)
+*Overhead panels*  
+
+Individual air nozzles were installed on the overhead panel along with additional reading lights.  
+
+![literature](\images\rja_j_2026\IMG_8780.JPEG)
+*Literature pocket*  
+
+At shoulder level was the literature pocket, a reading light, and another lamp.  
+
+![literature](\images\rja_j_2026\IMG_8783.JPEG)
+*Literature pocket contents*  
+
+The literature pocket contained the safety information card, a WiFi instructions card, along with the in-flight magazine titled "Royal Wings."  
+
+![table](\images\rja_j_2026\IMG_8786.JPEG)
+*Tray table*  
+
+The tray table, which is stowed beneath the entertainment screen and folds open, felt thick and sturdy, keeping with the cabin colour tones with the black woodgrain texture. 
+
+![armrest](\images\rja_j_2026\IMG_8789.JPEG)
+*Aisle armrest*  
+
+The armrest on the aisle side could be raised and lowered. While this suite also featured a door, they were unfortunately locked for the flight today.  
+
+![footwell](\images\rja_j_2026\IMG_8776.JPEG)
+*Footwell*  
+
+As with many reverse herringbone products, the footwell in front narrows along the cabin wall, though I found it comfortable enough for sleeping. Overall, this was a comfortable seat with all the modern business class amenities. 
+
+![giftbox](\images\rja_j_2026\IMG_8788.JPEG)
+*Gift box contents*  
+
+I unpacked the gift boxes that were handed out at the gate, which consisted of some body care products from the Dead Sea, the mineral-rich hypersaline lake that borders Jordan.  
+
+![water](\images\rja_j_2026\IMG_8791.JPEG)
+*Water bottle*  
+
+After passengers were settled in, the crew first came around and passed out small bottles of water.  
+
+![amenity](\images\rja_j_2026\IMG_8792.JPEG)
+*Amenity kit*  
+
+This was followed by the amenity kit, co-branded with the French fashion brand Christian Lecroix.  
+
+![amenity](\images\rja_j_2026\IMG_8795.JPEG)
+*Amenity kit contents*  
+
+The kit contained the standard business class items, including an eyemask, socks, a comb, a dental kit, a pen, lotion, lip balm, and mouthwash. 
+
+![headphones](\images\rja_j_2026\IMG_8799.JPEG)
+*Headphones*  
+
+The crew then distributed individually packaged noise-cancelling headphones. They were not branded, but felt sturdy and I was satisfied with the sound quality.   
+
+![pushback](\images\rja_j_2026\IMG_8800.JPEG)
+*Push back*  
+
+We soon began our pushback as boarding was complete and the doors were closed. I was pleasantly surprised that we departed on time despite boarding being delayed by almost half an hour. The captain made an announcement mentioning the inaugural service to Dallas with a flight time of 13 hours and 45 minutes.  
+
+![prayer](\images\rja_j_2026\IMG_8801.JPEG)
+*Travel prayer*  
+
+The traditional Islamic travel prayer was played as we moved away from the gate. 
+
+![Safety video](\images\rja_j_2026\IMG_8802.JPEG)
+*Safety video*  
+
+The safety video featuring animated characters was then screened.  
+
+![qahwah](\images\rja_j_2026\IMG_8803.JPEG)
+*Arabic coffee*  
+
+The crew then came through the cabin to serve Arabic coffee, poured from a traditional dallah into small finjan cups.  
+
+![menu](\images\rja_j_2026\IMG_8804.JPEG)
+*Menu booklet*  
+
+The [menu]() for the main meal service, printed in English and Arabic, was also distributed. I appreciated that the calories for each item were marked clearly.    
+
+![taxi](\images\rja_j_2026\IMG_8805.JPEG)
+*Taxi*  
+
+We taxiied toward the runway from the gate, passing a few other members of Royal Jordanian's fleet on the way.  
+
+![runway](\images\rja_j_2026\IMG_8812.JPEG)
+*Runway*  
+
+We turned onto runway 26R for our departure with an initial westward heading.  
+
+![takeoff](\images\rja_j_2026\IMG_8818.JPEG)
+*Takeoff*  
+
+The GEnx engines soon thrusted us into the sky, with the arid urban landscape of Amman below.  
+
+![dead sea](\images\rja_j_2026\IMG_8820.JPEG)
+*Dead Sea from above*  
+
+We then flew over the Dead Sea, impressively expansive from above.  
+
+![west bank](\images\rja_j_2026\IMG_8821.JPEG)
+*West Bank*  
+
+We continued West and flew over the mountainous terrain of the West Bank region, with a view of Jerusalem below. Royal Jordanian was one of the only carriers that had resumed operations over Israel-controlled airspace at the moment, and this was quite a unique view that few flights would catch. The seat belt sign was turned off as we reached about 16,000 ft about 15 minutes after takeoff.  
+
+![mediterranean](\images\rja_j_2026\IMG_8828.JPEG)
+*Mediterranean Sea*  
+
+We were soon above the Mediterranean Sea, with no land in sight. The cabin supervisor came to each seat to introduce himself, with an additional welcome onboard and offered to help deliver a pleasant journey.  
+
+![entertainment](\images\rja_j_2026\IMG_8830.JPEG)
+*Entertainment selection*  
+
+I spent some time browsing the entertainment system, which featured a good variety of movies and TV shows.  
+
+![arabic movies](\images\rja_j_2026\IMG_8831.JPEG)
+*Arabic movies*  
+
+I was particularly intrigued by the Arabic movies section, and I decided to take a gander with "Tashweesh," following a Saudi student in Kyrgystan. Unfortunately, I found the plot to not make much sense and the effects to be rather overdone.  
+
+![wifi](\images\rja_j_2026\IMG_8825.PNG)
+*WiFi connection*  
+
+I also connected to the WiFi as it became available. The service was provided through ViaSat, and premium passengers were offered free access for the whole flight. The service was sufficiently fast for light use, although it was spotty at some points during the journey.   
+
+![hot towel](\images\rja_j_2026\IMG_8832.JPEG)
+*Hot towel*  
+
+The cabin service began about an hour after takeoff, starting with a hot towel.  
+
+![table setting](\images\rja_j_2026\IMG_8837.JPEG)
+*Table setting*  
+
+The crew then set the table with some bread, and I asked for some sparkling water to start.  
+
+![appetizer cart](\images\rja_j_2026\IMG_8838.JPEG)
+*Appetizer cart*  
+
+The main meal service was done from a cart, and I appreciated being able to see all the options available. A hummus tart or guacamole shrimp were offered for the appetizer.  
+
+![salad](\images\rja_j_2026\IMG_8839.JPEG)
+*Salad*  
+
+The crew also served a salad from the cart, offering a choice between a Caesar salad and tabouleh.  
+
+![first course](\images\rja_j_2026\IMG_8840.JPEG)
+*Hummus tart and tabouleh*  
+
+I chose to have the hummus tart, which was rich and creamy, and I thought it was an interesting way to serve this classic Arabic dip. I also had some of the quinoa tabouleh, which was fresh and flavourful. The flight attendant was also happy to give me some grilled chicken, which was supposed to come with the other salad dish.  
+
+![main cart](\images\rja_j_2026\IMG_8841.JPEG)
+*Main dish cart*  
+
+After clearing the appetizers, the crew came through the cabin with another cart for main dishes. The choices on offer were lamb mansaf, chicken roulade, and salmon, along with side dishes of vegetable noodes and yellow rice.  
+
+![main course](\images\rja_j_2026\IMG_8842.JPEG)
+*Lamb mansaf*  
+
+I asked to have the lamb along with some rice and vegetables. The mansaf, cooked in a yogurt-based jameed sauce, is sometimes considered the national dish of Jordan, and I appreciated the chance to try it. The lamb itself turned out to be a little bit tough, but the sauce, infused with Middle Eastern spices, was quite delicious. The portion was on the smaller side, but this was fine as I was not too hungry.   
+
+![dessert cart](\images\rja_j_2026\IMG_8844.JPEG)
+*Dessert cart*  
+
+The windows were dimmed for the remainder of the flight, and the crew came once again with a cheese and dessert cart. The choice was between a caramel mousse or a tiramisu.  
+
+![caramel mousse](\images\rja_j_2026\IMG_8845.JPEG)
+*Caramel mousse*  
+
+The mousse was light and not too sweet, and the walnuts added some complexity to the flavour.  
+
+![lavatory](\images\rja_j_2026\IMG_8796.JPEG)
+*Lavatory*  
+
+The meal service was completed about two and a half hours after takeoff, and I made a trip to the lavatory before getting some sleep. Four lavatories were available for Crown Class passengers, which were shared with the flight crew. This included two lavatories at the front of the cabin and another two immediately behind the second set of doors. The lavatories used the standard finishings for the Dreamliner. 
+
+![lav amenities](\images\rja_j_2026\IMG_8846.JPEG)
+*Lavatory amenities*  
+
+A bottle of lotion and a perfume bottle were available in the lavatories.  
+
+![flight map](\images\rja_j_2026\IMG_8849.JPEG)
+*Flight map*  
+
+I reclined the seat to the fully flat position and went to sleep for about three hours. The bed was comfortable for its size, and I woke up as we began to make our way across the Atlantic Ocean.  
+
+![flight map](\images\rja_j_2026\IMG_8850.JPEG)
+*A320 crossing the Atlantic*  
+
+I played with the map for a little bit and discovered some quirky features. For example, it showed an Airbus A320neo operating our flight today!
+
+![flight map](\images\rja_j_2026\IMG_8852.JPEG)
+*St. Petersburg in the Ocean*  
+
+It also showed Rubinstein Street in Saint Petersburg as being in the middle of the Atlantic Ocean. I ended up zooming all the way in thinking there might be some small island named Saint Petersberg at that location.   
+
+![snacks](\images\rja_j_2026\IMG_8847.JPEG)
+*Galley snacks*  
+
+Some snacks were available in the galley during the flight, including some chips and some small sandwiches. 
+
+![cakes](\images\rja_j_2026\IMG_8848.JPEG)
+*Cakes*  
+
+Later, a tray of small cakes were also offered.   
+
+![cheese](\images\rja_j_2026\IMG_8851.JPEG)
+*Cheese and crackers*  
+
+The crew also put out some leftover cheese and crackers from the main meal service, and I helped myself to some of it.  
+
+![second meal](\images\rja_j_2026\IMG_8853.JPEG)
+*Second meal*  
+
+About four hours before landing, the crew came to take orders for the second meal service, with a choice between meatballs and sweet and sour chicken. I thought the timing was rather early, and the service was a bit awkward as the flight attendant came to each seat with a small menu book while taking orders immediately. The crew brought another hotel towel before serving the meal. This second meal was a one-tray service, and came with a salad, some bread, and a mango mousse. I also asked for a glass of red wine. Overall, the meal was small but tasteful.  
+
+![descent](\images\rja_j_2026\IMG_8857.JPEG)
+*Descent through the clouds*  
+
+I slept for the remainder of the flight, and woke up to the captain's annoucement as we were 30 minutes from landing. The crew came through the cabin to collect service items and perform the pre-landing safety checks. It was an overcast day in Dallas, and we flew through some thick clouds during out descent.  
+
+![arlington](\images\rja_j_2026\IMG_8860.JPEG)
+*Arlington*  
+
+We turned North as we made our final approach into Dallas, flying over the suburban sprawl of Arlington.  
+
+![final](\images\rja_j_2026\IMG_8863.JPEG)
+*Final approach*  
+
+We landed on runway 36L 15 minutes after the scheduled arrival time of 1700. A few passengers clapped after we touched down, as often happens with flights to and from the Middle East.  
+
+![water cannon](\images\rja_j_2026\IMG_8941.JPEG)
+*Water cannon salute*  
+
+Two fire trucks were positioned along the taxiway as we made our way to the gate, welcoming us with a water cannon salute.  
+
+##### Dallas Arrival
+
+![gate](\images\rja_j_2026\IMG_8871.JPEG)
+*Gate parking*  
+
+We parked at gate D11, where many exciting airport employees waited for our aircraft to arrive, taking pictures of the new carrier frequenting the airport.  
+
+![parked](\images\rja_j_2026\IMG_8874.JPEG)
+*Aircraft at gate*  
+
+The gate crew seemed to have some issues with the jet bridge, so we waited briefly after the aircraft was parked. We used the second door to disembark, and the crew held the traffic flow so Crown Class passengers could disembark first. I looked back at our aircraft, still in its sleek black livery after the fourteen-hour journey.  
+
+![arrivals](\images\rja_j_2026\IMG_8876.JPEG)
+*Arrivals hall*  
+
+The arrivals hall was quite busy as many incoming international flights had arrived around the same time, and it took me about half an hour to reach the baggage claim hall.  
+
+![curb](\images\rja_j_2026\IMG_8877.JPEG)
+*Curb sign*  
+
+I went back up to the departures level after exiting the secure area. Checkin for the return flight to Amman later in the evening had not yet started, but Royal Jordanian has already been added to the curb signs, ready to connect passengers from the newest dot in its global network.  
+
+
+##### Concluding Thoughts
+Royal Jordanian operates in a region with a highly competitive aviation market and many larger players, occupying a niche by focusing on providing connections to and from the Levant region. Despite the turbulent wider geographical region, the airline has built a solid network of flights across oceans and continents, with the Dallas flight being the latest addition. The introduction of the new cabin aboard Boeing 787-9 Dreamliner has brought its hard product to the league of leading global carriers, and while the soft product has some room for improvement, Royal Jordanian represents a comfortable and pleasant way to travel, and I look forward to seeing its further growth in the coming years. 
+
+
+<script>
+
+/* Class the members of each slideshow group with different CSS classes */
+let slideId = ["mySlides1", "mySlides2"];
+let slideIndex = new Array(slideId.length);
+for (i=0; i < slideIndex.length; i++) {
+  slideIndex[i]=1
+  showSlides(1,i+1);
+}
+
+</script>

@@ -9,7 +9,7 @@ categories:
 title: "New Horizons with the Golden Falcon"
 meta_title: "Review: Gulf Air Falcon Gold Class Inaugural flight to Shanghai"
 excerpt: "Gulf Air Falcon Gold Class Milan to Bahrain, a day in Bahrain, and inaugural flight Bahrain to Shanghai "
-description: "Here I review Gulf Air's inaugural service from Bahrain to Shanghai in their Falcon Gold Business Class cabin, flown May 2024. A solid product all around with delightful celebrations for the historical flight. Also includes a review of their Milano-Roma-Bahrain flight, the Gae Aulenti Lounge at Malpensa, the Falcon Gold Lounge in Bahrain, and some snippets of my day in transit going around Bahrain."
+description: "Here I review Gulf Air's inaugural service from Bahrain to Shanghai in their Falcon Gold Business Class cabin on flight GF124 onboard A9C-FG, a Boeing 787-9, flown May 2024. A solid product all around with delightful celebrations for the historical flight. Also includes a review of their Milano-Roma-Bahrain flight GF26 onboard A9C-NH, an Airbus A321neo, the Gae Aulenti Lounge at Malpensa, the Falcon Gold Lounge in Bahrain, and some snippets of my day in transit going around Bahrain."
 date: "2024-05-28"
 toc: true
 last_modified_at: "2024-08-10" 

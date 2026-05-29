@@ -9,7 +9,7 @@ categories:
 title: "Soaring with the Spirit of Australia"
 meta_title: "Review: Qantas Airways First Class Sydney to Dallas"
 excerpt: "Qantas Airways First Class Sydney to Dallas"
-description: "Here I review Qantas Airways' First Class product on the A380 from Sydney to Dallas. An exceptionally comfortable seat paired with a menu showcasing Australian produce and wine made for a delightful journey across the Pacific. Also includes a review of the Qantas First Lounge in Sydney. "
+description: "Here I review Qantas Airways' First Class product on the A380-800 on flight QF7 from Sydney to Dallas, operated by VH-OQG and flown December 2025. An exceptionally comfortable seat paired with a menu showcasing Australian produce and wine made for a delightful journey across the Pacific. Also includes a review of the Qantas First Lounge in Sydney. "
 date: "2025-12-05"
 toc: true
 last_modified_at: "2026-01-12" 

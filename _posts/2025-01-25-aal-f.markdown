@@ -9,7 +9,7 @@ categories:
 title: "A Flagship Excursion"
 meta_title: "Review: American Airlines Airbus A321 First Class New York to San Francisco"
 excerpt: "American Airlines Airbus A321 First Class New York to San Francisco"
-description: "Here I review First Class on American Airlines' Airbus A321T aircraft from New York John F. Kennedy to San Francisco, flown January 2025. Also includes a review of the Chelsea Lounge at JFK. Overall a pleasant journey on a soon to be retired product across the country."
+description: "Here I review First Class on American Airlines' Airbus A321T aircraft on flight AA2305, the evening service on the transcontinental route from New York John F. Kennedy to San Francisco, operated by N105NN, flown January 2025. Also includes a review of the Chelsea Lounge at JFK. Overall a pleasant journey on a soon to be retired product across the country."
 date: "2025-01-25"
 toc: true
 last_modified_at: "2025-06-17" 
