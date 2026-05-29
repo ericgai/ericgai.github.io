@@ -17,13 +17,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
-rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Eric Gai"
-=======
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Site Title"
->>>>>>> upstream
+title                    : "Eric Gai"
 title_separator          : "-"
 date_format              : "%Y-%m-%d"
 time_format              : "%H:%M"
@@ -122,7 +117,6 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
   # name             : "Your Name"
   avatar           : "/images/bio_photo.jpg"
   # bio              : "I am an **amazing** person."
@@ -135,29 +129,12 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/eric-gai-55638688/"
-=======
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
-  # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
->>>>>>> upstream
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-<<<<<<< HEAD
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/eric_gai"
-=======
       icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
->>>>>>> upstream
+      url: "https://twitter.com/eric_gai"
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
       # url: "https://facebook.com/"
