@@ -14,18 +14,18 @@ date: "2026-05-10"
 toc: true
 last_modified_at: "2026-05-28" 
 header:
-  teaser: /images/rja_j_2026/IMG_8874.JPEG
+  teaser: /images/images/rja_j_2026/IMG_8874.JPEG
 
 ---
 
-As I made my way back to the U.S. from my Asia trip, I had the chance to fly on Royal Jordanian's inaugural service from Amman to Dallas in Crown Class, the carriers' business class product. The journey was made more special as the brand new Boeing 787-9 Dreamliner operated the flight. Founded in 1963, Royal Jordanian has steadily grown its network over the years, reaching over 60 cities across Asia, Europe, Africa, and North America. In addition to serving as Jordan's national carrier, the airline also plays an important role in providing connections to destinations across the Levant region. As the latest addition to its network, the Dallas-Fort Worth service has become the longest route in Royal Jordanian's network, while providing connectivity to destinations across central and Western U.S. through the robust domestic network of its **one**world partner American Airlines. It was a treat to be part of Royal Jordanian's newest service, with the new Dreamliner offering a pleasant inflight experience. 
+As I made my way back to the U.S. from my Asia trip, I had the chance to fly on Royal Jordanian's inaugural service from Amman to Dallas in Crown Class, the carriers' business class product. While the flight was initially scheduled on the older Boeing 787-8, it was made more special as the brand-new Boeing 787-9 Dreamliner, which Royal Jordanian's fleet only included one example of at the time, was swapped in to operate it. Founded in 1963, Royal Jordanian has steadily grown its network over the years, now reaching over 60 cities across Asia, Europe, Africa, and North America. In addition to serving as Jordan's national carrier, the airline also plays an important role in providing connections to destinations across the Levant region. As the latest addition to its network, the Dallas-Fort Worth service has become Royal Jordanian's longest route, providing connectivity to destinations across central and Western U.S. through the robust domestic network of its **one**world partner American Airlines. It was a treat to be part of Royal Jordanian's newest service, with the new Dreamliner offering a pleasant inflight experience. 
 
 ##### Flight Details
 Royal Jordanian Airways (RJA/RJ) Flight 291    
 Origin: Amman Queen Alia, AMM   
-Departure: 11:03, 1 December 2025 (UTC+3)   
+Departure: 11:03, 10 May 2026 (UTC+3)   
 Destination: Dallas-Fort Worth, DFW   
-Arrival: 17:28, 2 December 2025 (UTC-5)  
+Arrival: 17:28, 10 May 2026 (UTC-5)  
 Duration: 14:25 hours   
 Aircraft: JY-RBA, delivered March 2026   
 Seat: 1A (Business)  
@@ -38,7 +38,7 @@ I booked this flight as part of an open-jaw ticket, with the outbound in Crown C
 ![terminal entrance](\images\rja_j_2026\IMG_8694.JPEG)
 *Terminal departures entrance*  
 
-As my itinerary included a overnight transit in Amman, I took advantage of Royal Jordanian's complimentary transit accomodation service. I was given a room at the Amman airport hotel, a short shuttle ride away from the terminal. Another shuttle brought us back to the terminal in the morning, dropping us off at the departures level. The main terminal of Queen Alia airport was completed in 2013, with modern architectural motifs featuring dynamic curved dome structures. 
+As my itinerary included an overnight transit in Amman, I took advantage of Royal Jordanian's complimentary transit accommodation service. I was given a room at the Amman airport hotel, a short shuttle ride away from the terminal. Another shuttle brought us back to the terminal in the morning, dropping us off at the departures level. The main terminal of Queen Alia airport was completed in 2013, with modern architectural motifs featuring dynamic curved dome structures. 
 
 ![departures](\images\rja_j_2026\IMG_8697.JPEG)
 *Departures hall*  
@@ -48,7 +48,7 @@ While a separate entrance was available for Crown Class passengers, a staff memb
 ![departure board](\images\rja_j_2026\IMG_8698.JPEG)
 *Departures hall*  
 
-The late morning and early afternoon times are a major departure bank for Royal Jordanian, representing the bulk of its flights to North America and Europe, and the terminal was fairly busy. Full-length glass window panes open to the tarmac, bringing plentiful natural light in the building.   
+The late morning and early afternoon times are a major departure bank for Royal Jordanian, representing the bulk of its flights to North America and Europe, and the terminal was fairly busy. Full-length glass windowpanes open to the tarmac, bringing plentiful natural light in the building.   
 
 ![lounge entrance](\images\rja_j_2026\IMG_8699.JPEG)
 *Crown Lounge entrance*  
@@ -79,19 +79,19 @@ The left side of lounge was rather quiet, with a live manakish station housing a
 
 <div class="mySlides1">
   <div class="numbertext">1 / 3</div>
-  <img src="/rja_j_2026/IMG_8706.JPEG" style="width:100%">
+  <img src="/images/rja_j_2026/IMG_8706.JPEG" style="width:100%">
   <i>Lounge seating</i>
 </div>
 
 <div class="mySlides1">
   <div class="numbertext">2 / 3</div>
-  <img src="/rja_j_2026/IMG_8708.JPEG" style="width:100%">
+  <img src="/images/rja_j_2026/IMG_8708.JPEG" style="width:100%">
   <i>Lounge seating</i>
 </div>
 
 <div class="mySlides1">
   <div class="numbertext">3 / 3</div>
-  <img src="/rja_j_2026/IMG_8709.JPEG" style="width:100%">
+  <img src="/images/rja_j_2026/IMG_8709.JPEG" style="width:100%">
   <i>Lounge seating</i>
 </div>
 
@@ -99,7 +99,6 @@ The left side of lounge was rather quiet, with a live manakish station housing a
 <a class="next" onclick="plusSlides(1,1)">❯</a>
 
 </div>
-\
 
 A range of seating options including couches and tables were available.  
 
@@ -127,49 +126,49 @@ Further inside was a staffed bar area.
 
 <div class="mySlides2">
   <div class="numbertext">1 / 8</div>
-  <img src="/rja_j_2026/IMG_8717.JPEG" style="width:100%">
+  <img src="/images/rja_j_2026/IMG_8717.JPEG" style="width:100%">
   <i>Buffet</i>
 </div>
 
 <div class="mySlides2">
   <div class="numbertext">2 / 8</div>
-  <img src="/rja_j_2026/IMG_8718.JPEG" style="width:100%">
+  <img src="/images/rja_j_2026/IMG_8718.JPEG" style="width:100%">
   <i>Buffet</i>
 </div>
 
 <div class="mySlides2">
   <div class="numbertext">3 / 8</div>
-  <img src="/rja_j_2026/IMG_8719.JPEG" style="width:100%">
+  <img src="/images/rja_j_2026/IMG_8719.JPEG" style="width:100%">
   <i>Buffet</i>
 </div>
 
 <div class="mySlides2">
   <div class="numbertext">4 / 8</div>
-  <img src="/rja_j_2026/IMG_7820.JPEG" style="width:100%">
+  <img src="/images/rja_j_2026/IMG_8720.JPEG" style="width:100%">
   <i>Buffet</i>
 </div>
 
 <div class="mySlides2">
   <div class="numbertext">5 / 8</div>
-  <img src="/rja_j_2026/IMG_8721.JPEG" style="width:100%">
+  <img src="/images/rja_j_2026/IMG_8721.JPEG" style="width:100%">
   <i>Buffet</i>
 </div>
 
 <div class="mySlides2">
   <div class="numbertext">6 / 8</div>
-  <img src="/rja_j_2026/IMG_8722.JPEG" style="width:100%">
+  <img src="/images/rja_j_2026/IMG_8722.JPEG" style="width:100%">
   <i>Buffet</i>
 </div>
 
 <div class="mySlides2">
   <div class="numbertext">7 / 8</div>
-  <img src="/rja_j_2026/IMG_8723.JPEG" style="width:100%">
+  <img src="/images/rja_j_2026/IMG_8723.JPEG" style="width:100%">
   <i>Buffet</i>
 </div>
 
 <div class="mySlides2">
   <div class="numbertext">8 / 8</div>
-  <img src="/rja_j_2026/IMG_8725.JPEG" style="width:100%">
+  <img src="/images/rja_j_2026/IMG_8725.JPEG" style="width:100%">
   <i>Buffet</i>
 </div>
 
@@ -177,6 +176,7 @@ Further inside was a staffed bar area.
 <a class="next" onclick="plusSlides(1,2)">❯</a>
 
 </div>
+
 
 The breakfast buffet featured a few Oriental and Western hot dishes, along with some pastries, fruit cups, salad, and cold cuts.  
 
@@ -223,12 +223,12 @@ The boarding process turned out to be very chaotic, with the operating crew arri
 ![789 bridge](\images\rja_j_2026\IMG_8763.JPEG)
 *Aircraft from jet bridge*  
 
-I got a view of the aircraft at a different angle from the jet bridge. A small line of text beneath the cockpit dedicated the aircraft to Prince El Hassan bin Talal, a member of the royal family who was Crown Prince during the reign of King Hussein before being removed in favour of his nephew and current king, Abhullah II.  
+I got a view of the aircraft at a different angle from the jet bridge. A small line of text beneath the cockpit dedicated the aircraft to Prince El Hassan bin Talal, a member of the royal family who was Crown Prince during the reign of King Hussein before being removed in favour of his nephew and current king, Abdullah II.  
 
 ![door](\images\rja_j_2026\IMG_8767.JPEG)
 *Boarding door*  
 
-After the group of dignitaries left the aircraft, we approached the aircraft door. At this point, the staff tried to bring wheelchair passengers and their families forward for boarding, adding another layer of disarray. I finally made it onboard ten minutes after entering the jetbridge. The crew greeted passengers as we boarded through the L2 door, and I turned left toward the Crown Class cabin. 
+After the group of dignitaries left the aircraft, we approached the aircraft door. At this point, the staff tried to bring wheelchair passengers and their families forward for boarding, adding another layer of disarray. I finally made it onboard ten minutes after entering the jet bridge. The crew greeted passengers as we boarded through the L2 door, and I turned left toward the Crown Class cabin. 
 
 ##### Onboard
 
@@ -310,12 +310,12 @@ This was followed by the amenity kit, co-branded with the French fashion brand C
 ![amenity](\images\rja_j_2026\IMG_8795.JPEG)
 *Amenity kit contents*  
 
-The kit contained the standard business class items, including an eyemask, socks, a comb, a dental kit, a pen, lotion, lip balm, and mouthwash. 
+The kit contained the standard business class items, including an eye mask, socks, a comb, a dental kit, a pen, lotion, lip balm, and mouthwash. 
 
 ![headphones](\images\rja_j_2026\IMG_8799.JPEG)
 *Headphones*  
 
-The crew then distributed individually packaged noise-cancelling headphones. They were not branded, but felt sturdy and I was satisfied with the sound quality.   
+The crew then distributed individually packaged noise-cancelling headphones. They were not branded but felt sturdy and I was satisfied with the sound quality.   
 
 ![pushback](\images\rja_j_2026\IMG_8800.JPEG)
 *Push back*  
@@ -345,7 +345,7 @@ The [menu]() for the main meal service, printed in English and Arabic, was also 
 ![taxi](\images\rja_j_2026\IMG_8805.JPEG)
 *Taxi*  
 
-We taxiied toward the runway from the gate, passing a few other members of Royal Jordanian's fleet on the way.  
+We taxied toward the runway from the gate, passing a few other members of Royal Jordanian's fleet on the way.  
 
 ![runway](\images\rja_j_2026\IMG_8812.JPEG)
 *Runway*  
@@ -380,7 +380,7 @@ I spent some time browsing the entertainment system, which featured a good varie
 ![arabic movies](\images\rja_j_2026\IMG_8831.JPEG)
 *Arabic movies*  
 
-I was particularly intrigued by the Arabic movies section, and I decided to take a gander with "Tashweesh," following a Saudi student in Kyrgystan. Unfortunately, I found the plot to not make much sense and the effects to be rather overdone.  
+I was particularly intrigued by the Arabic movies section, and I decided to take a gander with "Tashweesh," following a Saudi student in Kyrgyzstan. Unfortunately, I found the plot to not make much sense and the effects to be rather overdone.  
 
 ![wifi](\images\rja_j_2026\IMG_8825.PNG)
 *WiFi connection*  
@@ -415,7 +415,7 @@ I chose to have the hummus tart, which was rich and creamy, and I thought it was
 ![main cart](\images\rja_j_2026\IMG_8841.JPEG)
 *Main dish cart*  
 
-After clearing the appetizers, the crew came through the cabin with another cart for main dishes. The choices on offer were lamb mansaf, chicken roulade, and salmon, along with side dishes of vegetable noodes and yellow rice.  
+After clearing the appetizers, the crew came through the cabin with another cart for main dishes. The choices on offer were lamb mansaf, chicken roulade, and salmon, along with side dishes of vegetable noodles and yellow rice.  
 
 ![main course](\images\rja_j_2026\IMG_8842.JPEG)
 *Lamb mansaf*  
@@ -440,7 +440,7 @@ The meal service was completed about two and a half hours after takeoff, and I m
 ![lav amenities](\images\rja_j_2026\IMG_8846.JPEG)
 *Lavatory amenities*  
 
-A bottle of lotion and a perfume bottle were available in the lavatories.  
+A bottle of lotion and a bottle of perfume were available in the lavatories.  
 
 ![flight map](\images\rja_j_2026\IMG_8849.JPEG)
 *Flight map*  
@@ -470,7 +470,7 @@ Later, a tray of small cakes were also offered.
 ![cheese](\images\rja_j_2026\IMG_8851.JPEG)
 *Cheese and crackers*  
 
-The crew also put out some leftover cheese and crackers from the main meal service, and I helped myself to some of it.  
+The crew also put out some leftover cheese and crackers from the main meal service, and I helped myself with some of it.  
 
 ![second meal](\images\rja_j_2026\IMG_8853.JPEG)
 *Second meal*  
@@ -480,7 +480,7 @@ About four hours before landing, the crew came to take orders for the second mea
 ![descent](\images\rja_j_2026\IMG_8857.JPEG)
 *Descent through the clouds*  
 
-I slept for the remainder of the flight, and woke up to the captain's annoucement as we were 30 minutes from landing. The crew came through the cabin to collect service items and perform the pre-landing safety checks. It was an overcast day in Dallas, and we flew through some thick clouds during out descent.  
+I slept for the remainder of the flight and woke up to the captain's announcement as we were 30 minutes from landing. The crew came through the cabin to collect service items and perform the pre-landing safety checks. It was an overcast day in Dallas, and we flew through some thick clouds during our descent.  
 
 ![arlington](\images\rja_j_2026\IMG_8860.JPEG)
 *Arlington*  
@@ -517,7 +517,7 @@ The arrivals hall was quite busy as many incoming international flights had arri
 ![curb](\images\rja_j_2026\IMG_8877.JPEG)
 *Curb sign*  
 
-I went back up to the departures level after exiting the secure area. Checkin for the return flight to Amman later in the evening had not yet started, but Royal Jordanian has already been added to the curb signs, ready to connect passengers from the newest dot in its global network.  
+I went back up to the departures level after exiting the secure area. Check-in for the return flight to Amman later in the evening had not yet started, but Royal Jordanian has already been added to the curb signs, ready to connect passengers from the newest dot in its global network.  
 
 
 ##### Concluding Thoughts
