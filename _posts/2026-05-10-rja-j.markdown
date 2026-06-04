@@ -16,7 +16,7 @@ last_modified_at: "2026-05-28"
 redirect_from:
   - /rj-dfw
 header:
-  teaser: /images/images/rja_j_2026/IMG_8874.JPEG
+  teaser: /images/rja_j_2026/IMG_8874.JPEG
 
 ---
 
