@@ -6,19 +6,19 @@ comments: true
 categories:
   - Travel
   - Flights
-title: "Soaring with the Spirit of Australia"
+title: "Springbok across the Indian"
 meta_title: "Review: South African Airways Business Class Johannesburg to Perth"
 excerpt: "South African Airways Business Class Johannesburg to Perth"
-description: "Here I review ITA Airways' Business Class product from Cairo to New York via Rome on Airbus A321XLR and Airbus A330-900neo aircraft. An elegant inflight product that strongly embraces the airline's Italian identity deliverd by friendly crew made for a pleasant journey across the Atlantic. Also includes a review of Ahlein Premium Lounge in Cairo and the ITA Airways Business Lounge in Rome."
+description: "Here I review South African Airways' Business Class product, travelling from Johannesburg to Perth onboard flight SA280, operated by an Airbus A340-300. A spacious seat, warm service, and a distinctly South African product made for a pleasant journey. Also includes a review of the SAA Lounge at O.R. Tambo Airport."
 date: "2025-12-01"
 toc: true
-last_modified_at: "2025-02-10" 
+last_modified_at: "2026-06-25" 
 header:
-  teaser: /images/etd_f_2025/IMG_3906.JPEG
+  teaser: /images/saa_j_2025/IMG_6604.jpeg
 
 ---
 
-After spending a week in Egypt with my family for Thanksgiving, I took a very long way back to the U.S. to catch a chance to fly in Qantas First. Repositioning from Cairo to Sydney, I found this rather unique itinerary via Johannesburg and Perth, including this flight operated by South African Airways. Founded in 1929 as Union Airways, the airline underwent a turbulent operational history, much like its home country of South Africa. Once operating a network that reached all six inhabited continents, financial difficulties led to it suspending operations completely during the COVID-19 pandemic. The Perth route was one of the first intercontinental services for the airline, commenced in 1957 with two intermediate stops, and one of two long-haul routes added since resuming operations in 2021, and I was glad to have the chance to experience this journey across the South Indian Ocean, which no more than a handful of commercial aircraft traverse on a daily basis. While the seat was rather outdated, the lovely crew delivered a restful and enjoyable nine-hour journey.    
+After spending a week in Egypt with my family for Thanksgiving, I took a very long way back to the U.S. to catch a chance to fly in Qantas First. Repositioning from Cairo to Sydney, I found a rather unique itinerary via Johannesburg and Perth, including this flight operated by South African Airways. Founded in 1929 as Union Airways, the airline underwent a turbulent operational history, much like its home country of South Africa. Once operating a network that reached all six inhabited continents, financial difficulties led to it suspending operations completely during the COVID-19 pandemic. Commenced in 1957 with two intermediate stops, the Perth route was one of the first intercontinental services for the airline, and one of two long-haul routes added since resuming operations in 2021. I was glad to have the chance to experience this journey across the South Indian Ocean, which no more than a handful of commercial aircraft traverse on a daily basis. While the cabin was rather outdated, the lovely crew delivered a restful and enjoyable nine-hour journey.    
 
 ##### Flight Details
 South African Airways (SAA/SA) Flight 280    
@@ -30,71 +30,426 @@ Duration: 09:08 hours
 Aircraft: ZS-SXD, Airbus A340-300, delivered February 2005      
 Seat: 2A (Business)  
 
-##### Booking and Pre-Departure 
+##### Booking 
 As a member of Star Alliance, award tickets on South African Airways could be booked through Air Canada's Aeroplan program. My itinerary took me from Cairo to Johannesburg on an EgyptAir A330-300, followed by a 13-hour layover in Johannesburg leading up to this flight. The ticket also included a segment from Perth to Sydney on a Virgin Australia Boeing 737-800 after a two-day stopover in Perth. With all legs in Business Class, I paid a total of 115,000 Aeroplan points and CA$193.80. I earned these points through a combination of flying and transfers from Chase Ultimate Rewards and American Express Membership Rewards.  
 
-##### Johannesburg Departure Ground Experience 
+##### Johannesburg Departure 
+![terminal](\images\saa_j_2025\IMG_6563.jpeg)
+*O.R. Tambo Airport Terminal* 
 
-After spending a day exploring Johannesburg, I returned to O.R. Tambo Airport via the Gautrain, a modern service connecting the airport to key business areas of the city, albeit rather expensive for local standards. Conveniently, The train station is connected directly to the terminal. The sky was still grey from an afternoon thunderstorm that is a staple of Johannesburg's summers, leaving some refreshing moisture in the air.  
+After spending a day exploring Johannesburg, I returned to O.R. Tambo Airport via the Gautrain, a modern service connecting the airport to key business areas of the city, albeit rather expensive for local standards. Conveniently, the train station is connected directly to the terminal. The sky was still grey from an afternoon thunderstorm that is a staple of Johannesburg's summers, leaving a refreshing moisture in the air.  
+
+![departures](\images\saa_j_2025\IMG_6564.jpeg)
+*Departure board* 
 
 As Africa's second busiest airport, the departure board featured flights to all corners of the continent, as well as connections to Asia, Europe, and the Americas.  
 
+![checkin](\images\saa_j_2025\IMG_6567.jpeg)
+*Check-in desks* 
+
 Operating a rather small network out of Johannesburg, South African Airways maintains one row of check-in desks in the B zone of the departure hall. The counters were quite empty as I arrived about three hours before the flight.  
 
-South African Airways operates a premium check-in zone for Business Class and Star Alliance Gold passengers. The agent quickly issued my boarding pass after verifying my documents. 
+![checkin](\images\saa_j_2025\IMG_6569.jpeg)
+*Premium check-in* 
+
+A premium check-in zone was available for Business Class and Star Alliance Gold passengers. The agent quickly issued my boarding pass after verifying my documents. 
+
+![rotunda](\images\saa_j_2025\IMG_6570.jpeg)
+*Central rotunda* 
 
 I made my way to the security checkpoint, passing the central rotunda, with its railings adorned in Christmas lights. The checkpoint was rather busy with no marked priority lanes, but the queue moved quickly. 
 
+![departure](\images\saa_j_2025\IMG_6572.jpeg)
+*International departures* 
+
 I shortly arrived in the departure area of the international terminal, housing a variety of retail options.
 
-Ahead, the departure malls becomes more open with its higher ceilings. The upper level of the terminal offered a wide array of airline lounges.  
+![departure](\images\saa_j_2025\IMG_6574.jpeg)
+*Departure hall* 
+
+Ahead, the departure mall becomes more open with its higher ceilings. The upper level of the terminal offered a wide array of airline lounges.  
+
+![lounge entrance](\images\saa_j_2025\IMG_6576.jpeg)
+*Lounge entrance* 
 
 Up a flight of stairs and to the right was the South African Airways lounge behind a set of moving glass doors. The agent at the desk scanned my boarding pass and invited me in. The section to the left was reserved for platinum members of the FlySAA Voyager program, while Business Class passengers and Star Alliance Gold members were invited to the right side of the lounge.  
 
+![entryway](\images\saa_j_2025\IMG_6601.jpeg)
+*Lounge entryway* 
+
 A narrow hallway, with paintings on the walls on one side and windows facing the terminal on the other, lead to the main part of the lounge.  
+
+![bar](\images\saa_j_2025\IMG_6578.jpeg)
+*Lounge bar* 
 
 A bar area occupies the centre of the lounge, with gentle overhead lighting. 
 
+<div class="slideshow-container"> 
+
+<div class="mySlides1">
+  <div class="numbertext">1 / 4</div>
+  <img src="/images/saa_j_2025/IMG_6582.jpeg" style="width:100%">
+  <i>Lounge seating</i>
+</div> 
+
+<div class="mySlides1">
+  <div class="numbertext">2 / 4</div>
+  <img src="/images/saa_j_2025/IMG_6583.jpeg" style="width:100%">
+  <i>Lounge seating</i>
+</div> 
+
+<div class="mySlides1">
+  <div class="numbertext">3 / 4</div>
+  <img src="/images/saa_j_2025/IMG_6586.jpeg" style="width:100%">
+  <i>Lounge seating</i>
+</div> 
+
+<div class="mySlides1">
+  <div class="numbertext">4 / 4</div>
+  <img src="/images/saa_j_2025/IMG_6599.jpeg" style="width:100%">
+  <i>Lounge seating</i>
+</div> 
+
+<a class="prev" onclick="plusSlides(-1,1)">❮</a>
+<a class="next" onclick="plusSlides(1,1)">❯</a> 
+
+</div>
+
+\
 The inside of the lounge features modern finishes of black, white, beige and grey. Curved walls made for a sleek space, and seating was plentiful despite it being rather busy in parts of the lounge.
+
+![booths](\images\saa_j_2025\IMG_6585.jpeg)
+*Focus booths* 
 
 Several focus booths were available for individual use.
 
+![meeting rooms](\images\saa_j_2025\IMG_6584.jpeg)
+*Meeting rooms* 
+
 There were also two meeting rooms available for small groups. 
 
+<div class="slideshow-container"> 
+
+<div class="mySlides2">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/saa_j_2025/IMG_6596.jpeg" style="width:100%">
+  <i>Hot buffet</i>
+</div> 
+
+<div class="mySlides2">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/saa_j_2025/IMG_6600.jpeg" style="width:100%">
+  <i>Hot buffet</i>
+</div> 
+
+<a class="prev" onclick="plusSlides(-1,2)">❮</a>
+<a class="next" onclick="plusSlides(1,2)">❯</a> 
+
+</div>
+
+\
 The buffet section was at one end of the lounge, with hot dishes including rice, noodles, sautéed vegetables, a chicken casserole, and a beef stew.  
 
+<div class="slideshow-container"> 
+
+<div class="mySlides3">
+  <div class="numbertext">1 / 2</div>
+  <img src="/images/saa_j_2025/IMG_6589.jpeg" style="width:100%">
+  <i>Cold buffet</i>
+</div> 
+
+<div class="mySlides3">
+  <div class="numbertext">2 / 2</div>
+  <img src="/images/saa_j_2025/IMG_6590.jpeg" style="width:100%">
+  <i>Cold buffet</i>
+</div> 
+
+<a class="prev" onclick="plusSlides(-1,3)">❮</a>
+<a class="next" onclick="plusSlides(1,3)">❯</a> 
+
+</div>
+
+\
 The cold dishes included more vegetables, cheese, nuts, pastries, and some fruit.  
+
+![ramp](\images\saa_j_2025\IMG_6579.jpeg)
+*Ramp views* 
 
 The windows in the lounge overlooked the ramp area of the international terminal, and I enjoyed the view of the aircraft from the various African countries, many of which I was seeing in real life for the first time.  
 
-The bathrooms and shower suites were located at the other end of the lounge. The shower rooms were available on request. I waited briefly for one to be ready, and I enjoyed the chance to quickly freshen up before the overnight flight.  
+![bathroom](\images\saa_j_2025\IMG_6598.jpeg)
+*Bathroom hallway* 
+
+The bathrooms and shower suites were located at the other end of the lounge, along another curved hallway. 
+
+<div class="slideshow-container"> 
+
+<div class="mySlides4">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/saa_j_2025/IMG_6593.jpeg" style="width:100%">
+  <i>Shower room</i>
+</div> 
+
+<div class="mySlides4">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/saa_j_2025/IMG_6594.jpeg" style="width:100%">
+  <i>Shower room</i>
+</div> 
+
+<div class="mySlides4">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/saa_j_2025/IMG_6581.jpeg" style="width:100%">
+  <i>Bathroom sink</i>
+</div> 
+
+<a class="prev" onclick="plusSlides(-1,4)">❮</a>
+<a class="next" onclick="plusSlides(1,4)">❯</a> 
+
+</div>
+
+\
+The shower rooms were available on request. I waited briefly for one to be ready, and I enjoyed the chance to quickly freshen up before the overnight flight.  
+
+![corridor](\images\saa_j_2025\IMG_6603.jpeg)
+*Departure corridor* 
 
 Overall, I found the lounge to be pleasant space for a stop before the flight. With night having fallen outside, I made my way to the gate. Gate A15, where we would be leaving from tonight, was located at the end of the concourse.  
 
-The gate area was behind an extra security check, where a few staff performed a bag search before allowing passengers to enter. Taking us to Perth tonight was an almost twenty-year old A340 sporting the Siyanqoba livery, meaning "we conquer" in Zulu. The design was rolled out in 2012 in support of the South African Olympic team. The Olympic colours almost perfectly match those of the South African flag and the tail of the airline, making for a uniquely harmonious and dynamic livery.   
+![aircraft](\images\saa_j_2025\IMG_6604.jpeg)
+*Aircraft at gate* 
 
+The gate area was behind an extra security check, where a few staff performed a bag search before allowing passengers to enter. Taking us to Perth tonight was an almost twenty-year old A340 sporting the Siyanqoba livery, meaning "we conquer" in Zulu. The design was rolled out in 2012 in support of the South African Olympic team competing in London. The Olympic colours almost perfectly match those of the South African flag and the tail of the airline, creating a uniquely harmonious and dynamic livery.   
 
+![boarding](\images\saa_j_2025\IMG_6605.jpeg)
+*Boarding* 
 
-
-I arrived at the International Terminal of Sydney's Kingsford Smith Airport via the Airport Link from the city center, a quick ride of around 10 minutes. The morning international departures from Australia's busiest airport were dominated by flights to Southeast Asia and elsewhere in Oceania, with some North Asia, North America, Africa, and South America-bound flights sprinkled in. 
-
-Qantas occupies a large space at the center of the check-in hall, handling all international departures from its main hub. With the numerous outbound flights, this area was quite busy with departing passengers.  
-
-Somewhat secluded in this area was a white marble enclosure with the leaping kangaroo logo prominently featured, which served as the check-in area for First Class and **one**world Emerald passengers. Qantas uses a class of service-based colour scheme for its signage, and the white branding used for First Class is a recurrent motif at touchpoints along the journey.  
-
-The enclosure was rather quiet inside, with a row of check-in desks on one side and some couches on the other. Vases of white moth orchids on the tables between the couches, as well as the honeycomb pattern of the carpet, represented a few more design motifs in Qantas' customer experience.  
-
-An agent greeted me as I approached the check-in desk, and quickly completed the check-in procedure, handing me my boarding passes for my flights to Dallas and onward to Philadelphia.  
+Boarding began approximately half an hour before our scheduled departure time, with Business Class passengers invited to board first.   
 
 ##### Onboard Experience
+![cabin](\images\saa_j_2025\IMG_6609.jpeg)
+*Business cabin* 
+
+We boarded through the second door, with most of the Business Class cabin toward the left upon stepping on the aircraft. Along with a mini-cabin behind this door, seats were spread out over seven rows in a 2-2-2 configuration, for a total of 38 seats. 
+
+![newspapers](\images\saa_j_2025\IMG_6681.jpeg)
+*Newspapers*  
+
+A compartment for newspapers available for taking was next to the door. 
+
+![seat](\images\saa_j_2025\IMG_6612.jpeg)
+*Seat* 
+
+I settled into seat 2A, next to the windows on the left side of the aircraft. A pillow was placed at each seat as we boarded.  
+
+![pocket](\images\saa_j_2025\IMG_6614.jpeg)
+*Front pockets* 
+
+The seats featured are the same ones used since this aircraft entered service 20 years ago. While the lack of privacy and modern amenities make it quite uncompetitive by today's standards, each seat offers an immense amount of room in front, making for a comfortable and open space to stretch out. A literature pocket was attached to the seat in front, while a pocket for headphones was also available.  
+
+![literature](\images\saa_j_2025\IMG_6621.jpeg)
+*Literature pocket contents* 
+
+The literature pocket contained an inflight magazine, a duty-free catalogue, and the safety information card.  
+
+![storage](\images\saa_j_2025\IMG_6620.jpeg)
+*Storage compartment* 
+
+A small compartment at the bottom of the seat in front was available for additional storage.  
+
+![storage](\images\saa_j_2025\IMG_6616.jpeg)
+*Armrest storage* 
+
+Under the armrest between the two seats was an AC outlet and a controller for the entertainment system. An amenity kit was also placed here before boarding.  
+
+![amenity kit](\images\saa_j_2025\IMG_6619.jpeg)
+*Amenity kit contents* 
+
+The amenity kit consisted of some standard items, including face cream, lip balm, a dental kit, earplugs, socks, and eye masks.  
+
+![screens](\images\saa_j_2025\IMG_6617.jpeg)
+*Entertainment screens* 
+
+The entertainment screens were also stored under this center armrest, which meant that they unfortunately could not be used during takeoff and landing. 
+
+![bar](\images\saa_j_2025\IMG_6667.jpeg)
+*Service panel* 
+
+There was also a surface for smaller service items, which could be expanded with a foldable panel.  
+
+![seat above](\images\saa_j_2025\IMG_6611.jpeg)
+*Seat* 
+
+A seat control panel was behind the panel, and reading lamps were available at shoulder level. 
+
+![tray](\images\saa_j_2025\IMG_6618.jpeg)
+*Tray table* 
+
+The tray table is stored under the other armrest, next to the window. 
+
+![snacks](\images\saa_j_2025\IMG_6622.jpeg)
+*Pre-flight snacks* 
+
+The pre-flight service began a few minutes after I settled in. A crew member came to distribute newspapers, adding another somewhat retro touch to the flight. This was followed by a snack tray, with a choice of beef droewors, a South African air-dried sausage, or chili nuts. I appreciated that service items with a local flair were already featured.  
+
+![drinks](\images\saa_j_2025\IMG_6623.jpeg)
+*Welcome drinks* 
+
+This was followed by a round of welcome drinks, with a choice between Champagne and orange juice.  
+
+![taxi](\images\saa_j_2025\IMG_6626.jpeg)
+*Departure taxi* 
+
+About half an hour after settling in, the captain greeted us over the announcement system as boarding was completed. The Business cabin about half occupied for today's flight. He commented that some turbulence would be expected during our nine-hour flight across the Indian Ocean. The cabin doors were closed soon after, with the cabin crew performing a manual safety demonstration as we taxied toward the runway. I found it adorable that the purser made announcements to the crew in the form of suggestions, as she ended the demonstration with "let's prepare the cabin," followed by "let's take our seats" as we prepared for takeoff. 
+
+![departure](\images\saa_j_2025\IMG_6634.jpeg)
+*Departure views* 
+
+We took off toward the South after a short taxi, with the night sky of the "City of Gold" below us.  
+
+![cabin](\images\saa_j_2025\IMG_6639.jpeg)
+*Cabin at cruising* 
+
+The cabin lights were turned on as we reached cruising altitude about 15 minutes after takeoff, and the purser greeted passengers over the announcement and informed us that dinner would be served shortly. She introduced the names of all the crew members onboard, as well as the languages they spoke, a thoughtful touch and a nod to the linguistic diversity of South Africa. 
+
+![menu](\images\saa_j_2025\IMG_6640.jpeg)
+*Menu* 
+
+The crew then came to distribute printed [menus](\images\saa_j_2025\menu.pdf), noting that a spinach broccoli soup was on offer today. I did find it a bit curious that the menu was printed in English only.  
+
+![screen](\images\saa_j_2025\IMG_6637.jpeg)
+*Entertainment screen* 
+
+I spent a few moments exploring the entertainment system, which was available in English, French, or German. The screen had rather low resolution and responsiveness, and the content selection was rather haphazard, but it was sufficient for the flight. 
+
+![champagne](\images\saa_j_2025\IMG_6643.jpeg)
+*Champagne* 
+
+The service began with drinks served from a cart, and I had some Champagne to start. Moët & Chandon Impérial Brut was served on today's flight, a popular but premium choice.  
+
+![water](\images\saa_j_2025\IMG_6644.jpeg)
+*Water bottle* 
+
+Small bottles of water were also handed out.  
+
+![app](\images\saa_j_2025\IMG_6645.jpeg)
+*Smoked salmon appetizer* 
+
+For the first course, I selected the smoked salmon with tomato cream cheese and pickled red onions, a rich and flavourful start to the meal.   
+
+![bread](\images\saa_j_2025\IMG_6646.jpeg)
+*Bread basket* 
+
+White and wheat bread rolls were offered from a basket.  
+
+![lamb](\images\saa_j_2025\IMG_6647.jpeg)
+*Lamb main course* 
+
+For the main course, I had the lamb cutlet with rice, chickpea and spinach tomato salad, and topped with a chutney sauce. This was a delicious dish with a South African flair, although I found the sauce a little bit too sweet.  
+
+![wine](\images\saa_j_2025\IMG_6648.jpeg)
+*Red wines* 
+
+I asked for some red wine to go with the main course, and the purser cheerfully brought the bottles of the two South African options on offer. I tried a glass of the Anura Pinotage, which was rich and bold.  
+
+![cheese](\images\saa_j_2025\IMG_6650.jpeg)
+*Cheese plate* 
+
+I followed the main course with the cheese plate, also featuring a South African selection.  
+
+![cake](\images\saa_j_2025\IMG_6651.jpeg)
+*Lemon meringue cake* 
+
+While the standard service was a choice between the cheese and the dessert courses, the crew was happy to provide me with an extra lemon meringue cake. The light meringue layer went well with the lemon cream, although I found the texture a little dense.  
+
+![lavatory](\images\saa_j_2025\IMG_6654.jpeg)
+*Lavatory amenities* 
+
+The dinner service was quite efficient, concluding within an hour and a half of takeoff even with the extra course I enjoyed. After the meal, I took a trip to the lavatory before bed. The amenities included an Aligner branded hand lotion. Three lavatories were available for the Business cabin, which were kept clean throughout the flight and generally available without a wait. 
+
+![bed](\images\saa_j_2025\IMG_6656.jpeg)
+*Reclined seat* 
+
+I returned to my seat and reclined into the bed position. A mattress pad and a substantial blanket were provided, making for a comfortable space where I slumbered for almost six hours.  
+
+![window](\images\saa_j_2025\IMG_6657.jpeg)
+*Cruising* 
+
+I was woken up by the crew for breakfast about an hour before landing. We were approaching the Australian continent, with the sky already bright. 
+
+![tray](\images\saa_j_2025\IMG_6660.jpeg)
+*Breakfast tray* 
+
+After setting the table, breakfast trays were brought over in carts. Cereal, granola, and yoghurt were offered, and I took some honey with the yoghurt.  
+
+![bread](\images\saa_j_2025\IMG_6659.jpeg)
+*Bread basket* 
+
+A selection of pastries and breads were offered from a basket.  
+
+![breakfast](\images\saa_j_2025\IMG_6661.jpeg)
+*Breakfast main dish* 
+
+I chose the bacon baked egg with spinach, tomato, and mushrooms for the main course. This was a simple but hearty breakfast dish.  
+
+![coffee](\images\saa_j_2025\IMG_6662.jpeg)
+*Coffee* 
+
+After the meal service, the crew offered some tea or coffee. 
+
+![cruise](\images\saa_j_2025\IMG_6663.jpeg)
+*Cruising over the ocean* 
+
+I sipped on my coffee as we continued our journey over the vast Indian Ocean.  
+
+![descent](\images\saa_j_2025\IMG_6665.jpeg)
+*Descending over the ocean* 
+
+The captain made the pre-arrival announcements 30 minutes before landing, which was followed by a biosecurity announcement by the crew, as mandated by Australian law. 
+
+![approach](\images\saa_j_2025\IMG_6668.jpeg)
+*Approach to Perth* 
+
+The Australian continent finally came into view as we descended into Perth. A ribbon of white sand separated the turquoise ocean water from the cityscape of the most isolated city in the world.  
+
+![descent](\images\saa_j_2025\IMG_6673.jpeg)
+*Landing views* 
+
+Plots of farmland were interspersed with the sprawling city, and we turned South for our final approach.  
+
+![landing](\images\saa_j_2025\IMG_6676.jpeg)
+*Landing* 
+
+We touched down on runway 21 after our nine-hour journey. A few scattered clouds provided some shade from the hot Australian summer sun.   
+
+![parking](\images\saa_j_2025\IMG_6679.jpeg)
+*Parking* 
+
+We made a short taxi to the terminal and parked at the international gates, next to a Qatar Airways Boeing 777 that made its way from Doha.  
+
+##### Perth Arrival
+![aircraft](\images\saa_j_2025\IMG_6682.jpeg)
+*Aircraft upon arrival* 
+
+As we lined up to disembark through the second door, the purser made an announcement that the airline's station manager for Perth was travelling back to Australia after a visit home, which led to some passengers chatting about his trip. The familial nature of the interactions was quite endearing.   
+
+![perth](\images\saa_j_2025\IMG_6685.jpeg)
+*Perth arrival stream* 
+
+Perth Airport was modern and efficient, and an art installation on the passageway to the immigration area caught my attention with its dazzling colours.  
+
+![arrivals](\images\saa_j_2025\IMG_6686.jpeg)
+*Arrival hall* 
+
+The baggage claim area was slightly disorganized, with some confusion as to which flights were assigned to which carousels, though it was sorted out rather quickly. I happened to be selected for some extra customs checks, and reached the arrivals hall about half an hour after our arrival. 
 
 ##### Concluding Thoughts
-As one of the most luxurious aircraft in the sky, Etihad's A380 has garnered much global attention since its unveiling in 2014, and I am pleased to have had the opportunity to ride in its First Class Apartments on my journey across Asia. The innovative suites, plentiful amenities, diverse menu options, and attentive service made for an excellent journey, both in the air and on the ground. The revival of the aircraft from its post-covid fate makes its service particularly remarkable, and I hope Etihad's growth will continue to bring unique connections for the world.  
+From the embargoes of the apartheid era to the years of mismanagement, South African Airways holds a troubled past. With the airline now on a trajectory of recovery, I was pleasantly surprised by the inflight experience despite the outdated seat. I was most impressed that each employee carried a sense of pride and warmth in their service, showcasing every product that their national carrier had to offer. The collegial working relationship between the crew members was also evident. I truly hope that South African Airways can continue to make strides toward rebuilding a strong network and bring its delightful service culture to more destinations. 
+
 
 <script>
 
 /* Class the members of each slideshow group with different CSS classes */
-let slideId = ["mySlides1", "mySlides2", "mySlides3","mySlides4","mySlides5","mySlides6","mySlides7","mySlides8"];
+let slideId = ["mySlides1", "mySlides2", "mySlides3","mySlides4"];
 let slideIndex = new Array(slideId.length);
 for (i=0; i < slideIndex.length; i++) {
   slideIndex[i]=1

@@ -7,8 +7,8 @@ def make_slideshow_template(n_pics,i,sup_directory):
   for j in range(n_pics):
     print(f'<div class="mySlides{i}">')
     print(f'  <div class="numbertext">{j+1} / {n_pics}</div>')
-    print(f'  <img src="/{sup_directory}/IMG_0000.JPEG" style="width:100%">')
-    print('  <i>CAPTION</i>')
+    print(f'  <img src="/{sup_directory}/IMG_0000.jpeg" style="width:100%">')
+    print('  <i></i>')
     print('</div> \n')
 
   print(f'<a class="prev" onclick="plusSlides(-1,{i})">❮</a>')
