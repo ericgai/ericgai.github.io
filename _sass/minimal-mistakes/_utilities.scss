@@ -604,6 +604,7 @@ pre {
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
+  background-color: rgba(0,0,0,0.15);
 }
 
 /* Position the "next button" to the right */
@@ -614,7 +615,7 @@ pre {
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(0,0,0,0.6);
 }
 
 /* Number text (1/3 etc) */
@@ -624,22 +625,22 @@ pre {
   padding: 8px 12px;
   position: absolute;
   top: 0;
-  background-color: #101010;
+  background-color: rgba(0,0,0,0.5);
   display: inline;
 }
 
-/* The dots/bullets/indicators */
-.dot {
-  cursor: pointer;
-  height: 15px;
-  width: 15px;
-  margin: 0 0px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
+// /* The dots/bullets/indicators */
+// .dot {
+//   cursor: pointer;
+//   height: 15px;
+//   width: 15px;
+//   margin: 0 0px;
+//   background-color: #bbb;
+//   border-radius: 50%;
+//   display: inline-block;
+//   transition: background-color 0.6s ease;
+// }
 
-.active, .dot:hover {
-  background-color: #717171;
-}
+// .active, .dot:hover {
+//   background-color: #717171;
+// }
