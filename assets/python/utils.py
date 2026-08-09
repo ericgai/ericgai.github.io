@@ -1,14 +1,14 @@
 import sys
 sys.stdout.reconfigure(encoding='utf-8')
 
-def make_slideshow_template(n_pics,i,sup_directory):
+def make_slideshow_template(n_pics,i,sup_directory,start=0,default_cap=''):
   # makes a template for a slideshow container with index i containing n_pics pictures
   print('<div class="slideshow-container"> \n')
   for j in range(n_pics):
     print(f'<div class="mySlides{i}">')
     print(f'  <div class="numbertext">{j+1} / {n_pics}</div>')
-    print(f'  <img src="/{sup_directory}/IMG_0000.jpeg" style="width:100%">')
-    print('  <i></i>')
+    print(f'  <img src="/{sup_directory}/IMG_{start+j}.jpeg" style="width:100%">')
+    print(f'  <i>{default_cap}</i>')
     print('</div> \n')
 
   print(f'<a class="prev" onclick="plusSlides(-1,{i})">❮</a>')
@@ -16,4 +16,4 @@ def make_slideshow_template(n_pics,i,sup_directory):
   print('</div>')
 
 if __name__=='__main__':
-  make_slideshow_template(int(sys.argv[1]),int(sys.argv[2]),sys.argv[3])
+  make_slideshow_template(int(sys.argv[1]),int(sys.argv[2]),sys.argv[3],int(sys.argv[4]),sys.argv[5])
