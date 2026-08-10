@@ -12,7 +12,9 @@ excerpt: "Thai Airways Royal First Bangkok to London"
 description: "Here I review Thai Airway's First Class product, Royal First, onboard TG910 from Bangkok to London Heathrow onboard a Boeing 777-300ER, flown May 2026. With a carefully designed ground experience, comfortable seat, generous and exquisite catering, and cabin service with immense warmth and pride, the journey was an extraordinarily delightful one. Also includes a review of Thai Airways Royal First Lounges at Bangkok Survanabhumi Airport."
 date: "2026-05-07"
 toc: true
-last_modified_at: "2026-08-08" 
+last_modified_at: "2026-08-09"
+redirect_from:
+  - /thai 
 header:
   teaser: /images/tha_f_2026/IMG_8449.jpeg
 
